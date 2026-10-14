@@ -13,3 +13,22 @@ export function groupOf(category) {
 }
 
 export const groupCss = Object.fromEntries(GROUPS.map((g) => [g.key, g.css]));
+
+// Ownership classes, in stacking order (bottom -> top). Hues are validated as adjacent pairs.
+export const OWNERS = [
+	{ key: 'City', label: 'City', css: 'var(--o-city)' },
+	{ key: 'State', label: 'State', css: 'var(--o-state)' },
+	{ key: 'Private', label: 'Private', css: 'var(--o-private)' },
+	{ key: 'Other public', label: 'Other public', css: 'var(--o-other)' },
+	{ key: 'Nonprofit / institutional', label: 'Nonprofit', css: 'var(--o-nonprofit)' },
+	{ key: 'Unknown', label: 'Unknown', css: 'var(--o-unknown)' }
+];
+export const ownerCss = Object.fromEntries(OWNERS.map((o) => [o.key, o.css]));
+
+export const CATEGORIES = [
+	{ key: 'Park', label: 'Parks' },
+	{ key: 'Parkway, Reservation & Waterfront', label: 'Parkways & reservations' },
+	{ key: 'Playground & Athletic Field', label: 'Playgrounds & fields' },
+	{ key: 'Square, Plaza & Mall', label: 'Squares & plazas' },
+	{ key: 'Community Garden', label: 'Gardens' }
+];

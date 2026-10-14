@@ -7,6 +7,11 @@
 			path: '/dashboard-1',
 			title: 'Dashboard 1 · Who lives near each public space?',
 			text: 'A map of public spaces linked to a dot plot of the people living within 500 m of each one (Boston, Cambridge and Somerville).'
+		},
+		{
+			path: '/dashboard-2',
+			title: 'Dashboard 2 · Who owns public space?',
+			text: 'The same dot plot linked to a timeline and owner-to-type flow diagram: hover a space to see its owner and type, click an owner or type to filter.'
 		}
 	];
 </script>

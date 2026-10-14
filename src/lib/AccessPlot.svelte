@@ -1,9 +1,22 @@
 <script>
 	import * as d3 from 'd3';
 	import { fmtAcres, fmtInt, fmtCompact } from './format.js';
-	import { GROUPS, groupOf, groupCss } from './colors.js';
+	import { GROUPS, OWNERS, groupOf, groupCss, ownerCss } from './colors.js';
 
-	let { spaces, highlightId = null, selection = null, hiddenGroups = new Set(), onpick = () => {} } = $props();
+	let {
+		spaces,
+		highlightId = null,
+		selection = null,
+		hiddenGroups = new Set(),
+		onpick = null,
+		// dashboard 2: color by ownership, report hover, and fade dots that miss the ownership/category filter
+		colorMode = 'type',
+		onhover = null,
+		filter = null,
+		tipHint = 'Click to center the map here',
+		instructions = null,
+		statusHint = 'Use “Select area” on the map to filter them.'
+	} = $props();
 
 	const W = 760;
 	const M = { l: 112, r: 28, top: 8, axis: 40 };
@@ -54,7 +67,9 @@
 
 	// state of each dot: hidden by the category filter, outside the map selection, or active
 	const hidden = (d) => hiddenGroups.has(d.group);
-	const outside = (d) => selection && !selection.ids.has(d.id);
+	const outside = (d) =>
+		(selection && !selection.ids.has(d.id)) ||
+		(filter && ((filter.owner && d.owner !== filter.owner) || (filter.category && d.category !== filter.category)));
 
 	const rowStats = $derived(
 		model.rows.map((row) => {
@@ -72,6 +87,9 @@
 	let svg = $state();
 	let hover = $state(null);
 	let tip = $state({ left: 0, top: 0, flip: false });
+	$effect(() => {
+		onhover?.(hover ? hover.d.id : null);
+	});
 
 	function onMove(e) {
 		const rect = svg.getBoundingClientRect();
@@ -93,16 +111,25 @@
 
 <div class="wrap" bind:this={wrap}>
 	<ul class="how" aria-label="How to use the dot plot">
-		<li><b>Hover</b> a dot for the space’s details; <b>click</b> a dot to center the map on that space.</li>
-		<li>The <b>ringed, labeled</b> dot is the space currently at the center of the map.</li>
-		<li>Faded dots are outside the area you selected on the map, or hidden by the category buttons above.</li>
+		{#if instructions}
+			{#each instructions as line (line)}
+				<li>{@html line}</li>
+			{/each}
+		{:else}
+			<li><b>Hover</b> a dot for the space’s details; <b>click</b> a dot to center the map on that space.</li>
+			<li>The <b>ringed, labeled</b> dot is the space currently at the center of the map.</li>
+			<li>Faded dots are outside the area you selected on the map, or hidden by the category buttons above.</li>
+		{/if}
 	</ul>
 
 	<p class="status" aria-live="polite">
-		{#if selection}
+		{#if filter && (filter.owner || filter.category)}
+			Showing <strong>{activeCount}</strong> of {model.nodes.length} spaces:
+			{[filter.owner && `owner = ${filter.owner}`, filter.category && `type = ${filter.category}`].filter(Boolean).join(' · ')}.
+		{:else if selection}
 			Showing <strong>{activeCount}</strong> spaces inside the area selected on the map.
 		{:else}
-			Showing <strong>{activeCount}</strong> spaces. Use “Select area” on the map to filter them.
+			Showing <strong>{activeCount}</strong> spaces. {statusHint}
 		{/if}
 	</p>
 
@@ -111,10 +138,10 @@
 		viewBox="0 0 {W} {model.H}"
 		role="img"
 		aria-label="Dot plot: for each city, every public space placed by the number of people living within 500 m; dot size is the space's area."
-		class:pick={hover}
+		class:pick={hover && onpick}
 		onpointermove={onMove}
 		onpointerleave={() => (hover = null)}
-		onclick={() => hover && onpick(hover.d.id)}
+		onclick={() => hover && onpick?.(hover.d.id)}
 	>
 		{#each model.ticks as tk (tk)}
 			<line class="grid" x1={model.x(tk)} x2={model.x(tk)} y1={M.top} y2={model.H - M.axis} />
@@ -147,7 +174,7 @@
 				cx={n.x}
 				cy={n.y}
 				r={n.r}
-				style:--c={groupCss[n.d.group]}
+				style:--c={colorMode === 'owner' ? ownerCss[n.d.owner] : groupCss[n.d.group]}
 			/>
 		{/each}
 		{#if hl}
@@ -172,21 +199,40 @@
 			<div class="t-sub">{d.city} · {d.category}</div>
 			<div><strong>{fmtInt(d.pop_500m)}</strong> people within 500 m</div>
 			<div>{fmtAcres(d.area_acres)} · {d.owner}{d.owner_name && d.owner_name !== d.owner ? ` (${d.owner_name})` : ''}</div>
-			<div class="t-act">Click to center the map here</div>
+			{#if tipHint}<div class="t-act">{tipHint}</div>{/if}
 		</div>
 	{/if}
 
-	<div class="legend">
-		<span class="lgt">Color = type</span>
-		{#each GROUPS as g (g.key)}
-			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c={g.css} /></svg> {g.label}</span>
-		{/each}
-	</div>
-	<div class="legend">
-		<span class="lgt">Fill = ownership</span>
-		<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c="var(--ink-2)" /></svg> Publicly owned</span>
-		<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot private" style:--c="var(--ink-2)" /></svg> Private / nonprofit, open to the public</span>
-		<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot unknown" style:--c="var(--ink-2)" /></svg> Owner unknown</span>
+	{#if colorMode === 'owner'}
+		<div class="legend">
+			<span class="lgt">Color = owner</span>
+			{#each OWNERS as o (o.key)}
+				<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c={o.css} /></svg> {o.label}</span>
+			{/each}
+		</div>
+		<div class="legend">
+			<span class="lgt">Fill</span>
+			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c="var(--ink-2)" /></svg> Publicly owned</span>
+			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot private" style:--c="var(--ink-2)" /></svg> Private / nonprofit, open to the public</span>
+			{@render sizeLegend()}
+		</div>
+	{:else}
+		<div class="legend">
+			<span class="lgt">Color = type</span>
+			{#each GROUPS as g (g.key)}
+				<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c={g.css} /></svg> {g.label}</span>
+			{/each}
+		</div>
+		<div class="legend">
+			<span class="lgt">Fill = ownership</span>
+			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot public" style:--c="var(--ink-2)" /></svg> Publicly owned</span>
+			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot private" style:--c="var(--ink-2)" /></svg> Private / nonprofit, open to the public</span>
+			<span class="lg"><svg width="14" height="14" aria-hidden="true"><circle cx="7" cy="7" r="5.5" class="dot unknown" style:--c="var(--ink-2)" /></svg> Owner unknown</span>
+			{@render sizeLegend()}
+		</div>
+	{/if}
+
+	{#snippet sizeLegend()}
 		<span class="lg sizes">
 			Size = area:
 			<svg width="92" height="34" aria-hidden="true">
@@ -196,7 +242,7 @@
 			</svg>
 			0.1 · 10 · 100 ac
 		</span>
-	</div>
+	{/snippet}
 
 	<details>
 		<summary>Table view: 12 spaces with the most people nearby</summary>
