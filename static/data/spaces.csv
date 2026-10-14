@@ -1,0 +1,815 @@
+id,name,city,category,owner,owner_name,owner_municipal,owner_check,private_owned,access,year,area_m2,area_acres,rank_all,pop_500m,housing_500m,n_parts,source,lon,lat
+S0000,Stony Brook Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,1933900.5,477.877,1,16235,6688,8,MassGIS,-71.14079,42.26102
+S0001,Franklin Park,Boston,Park,City,City of Boston,City,agree,False,Y,1883.0,1605348.3,396.69,2,26395,10986,1,MassGIS,-71.09735,42.30321
+S0002,Charles River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,1092722.5,270.018,3,79884,37026,9,MassGIS,-71.14728,42.3609
+S0003,Arnold Arboretum I,Boston,Park,City,City of Boston,City,agree,False,Y,1882.0,646570.6,159.771,4,10156,4387,1,MassGIS,-71.12102,42.30215
+S0004,Charles River Reservation,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,508094.5,125.553,5,45300,15955,2,MassGIS,-71.0773,42.36365
+S0005,Millennium Park,Boston,Park,City,City of Boston,City,agree,False,Y,,411951.6,101.795,6,270,132,1,MassGIS,-71.1821,42.28224
+S0006,Jamaica Pond Park,Boston,Park,City,City of Boston,City,agree,False,Y,,395563.3,97.746,7,8193,3921,4,"Boston (gap-fill), MassGIS",-71.12015,42.31724
+S0007,Boston Harbor Islands State Park,Boston,Park,City,City of Boston,City,agree,False,Y,,350717.1,86.664,8,0,0,4,MassGIS,-70.9861,42.32373
+S0008,Franklin Park Zoo,Boston,Park,State,Commonwealth of Massachusetts,City,differs,False,Y,,330996.6,81.791,9,11710,4649,2,MassGIS,-71.08887,42.30497
+S0009,Old Harbor Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,330978.9,81.787,10,8978,4444,3,MassGIS,-71.02386,42.33435
+S0010,Constitution Beach,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,330356.5,81.633,11,6708,2721,4,MassGIS,-71.00956,42.38225
+S0011,Back Bay Fens,Boston,Park,City,City of Boston,City,agree,False,Y,1877.0,310702.2,76.776,12,45359,17607,34,MassGIS,-71.09259,42.34509
+S0012,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,294631.4,72.805,13,6534,3347,5,MassGIS,-71.04514,42.27788
+S0013,Old Harbor Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,286593.1,70.819,14,24530,12128,3,MassGIS,-71.0484,42.32399
+S0014,Arnold Arboretum II,Boston,Park,City,City of Boston,City,agree,False,Y,1882.0,265301.7,65.557,15,7257,2829,1,MassGIS,-71.12695,42.29341
+S0015,Alewife Brook Reservation,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,249220.2,61.584,16,18579,9379,7,"Cambridge (gap-fill), MassGIS",-71.15229,42.39729
+S0016,Columbus Park,Boston,Park,City,City of Boston,City,agree,False,Y,1916.0,232926.9,57.557,17,12259,6111,1,MassGIS,-71.05065,42.32586
+S0017,Boston Harbor Islands State Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,205509.9,50.783,18,0,0,2,MassGIS,-70.92854,42.32931
+S0018,Southwest Corridor Park,Boston,"Parkway, Reservation & Waterfront",State,Massachusetts Bay Transit Authority,State,agree,False,Y,,200880.1,49.639,19,55893,20991,100,MassGIS,-71.11358,42.30127
+S0019,Danehy Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,200213.6,49.474,20,11434,5294,1,MassGIS,-71.13636,42.38887
+S0020,Boston Common,Boston,Park,City,City of Boston,City,agree,False,Y,1634.0,183385.8,45.316,21,26984,14759,1,MassGIS,-71.06612,42.35495
+S0021,Harambee Park,Boston,Park,City,City of Boston,City,agree,False,Y,1892.0,181071.2,44.744,22,13060,4565,1,MassGIS,-71.08519,42.29305
+S0022,Boston Harbor Islands State Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,162235.4,40.089,23,0,0,1,MassGIS,-70.92805,42.31974
+S0023,Olmsted Park,Boston,Park,City,City of Boston,City,agree,False,Y,1890.0,154408.4,38.155,24,14811,7521,3,MassGIS,-71.11686,42.32343
+S0024,Morton Street,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,X,,127533.1,31.514,25,1698,571,2,MassGIS,-71.09926,42.29156
+S0025,Alewife Brook Reservation,Somerville,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,119848.8,29.615,26,14240,6834,1,MassGIS,-71.13133,42.40945
+S0026,Dorchester Park,Boston,Park,City,City of Boston,City,agree,False,Y,1891.0,110270.6,27.248,27,6022,2818,1,MassGIS,-71.06283,42.27752
+S0027,Kingsley Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,108861.6,26.9,28,5183,2434,2,MassGIS,-71.14574,42.38141
+S0028,Mother Brook Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,107790.3,26.636,29,4424,1804,9,MassGIS,-71.13482,42.24622
+S0029,Dorchester Shores Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,106209.0,26.245,30,3475,1517,2,MassGIS,-71.04706,42.30639
+S0030,Boston Public Garden,Boston,Park,City,City of Boston,City,agree,False,Y,1823.0,101117.7,24.987,31,20096,10942,1,MassGIS,-71.06976,42.35357
+S0031,Boston Harbor Islands State Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,99531.6,24.595,32,0,0,1,MassGIS,-70.93927,42.32576
+S0032,Dorchester Shores Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,98260.6,24.281,33,3622,1525,9,MassGIS,-71.04276,42.29158
+S0033,East Boston Memorial Park,Boston,Park,City,City of Boston,City,agree,False,Y,1925.0,91920.3,22.714,34,11265,4561,12,MassGIS,-71.0303,42.37162
+S0034,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,87336.5,21.581,35,0,0,3,MassGIS,-70.89601,42.34118
+S0035,The Riverway,Boston,Park,City,City of Boston,City,agree,False,Y,1890.0,82309.6,20.339,36,26401,11534,8,MassGIS,-71.10697,42.34262
+S0036,Boston Harbor Islands National Recreation Area,Boston,Park,Other public,United States Department of the Interior,,no municipal match,False,Y,,81566.9,20.156,37,0,0,1,MassGIS,-70.95243,42.3116
+S0037,Morrissey Boulevard,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,80393.3,19.866,38,5395,2409,3,MassGIS,-71.04596,42.29025
+S0038,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,77667.1,19.192,39,0,0,1,MassGIS,-70.89608,42.33268
+S0039,Chandler Pond,Boston,Park,City,City of Boston,City,agree,False,Y,1943.0,77036.3,19.036,40,5185,2187,4,"Boston (gap-fill), MassGIS",-71.16619,42.34503
+S0040,Hunt Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1924.0,71650.6,17.705,41,6815,2580,1,MassGIS,-71.09704,42.27413
+S0041,Charles River Reservation,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,68889.5,17.023,42,9114,5652,14,MassGIS,-71.06957,42.37063
+S0042,Havey Beach,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,64864.7,16.028,43,2467,1164,3,MassGIS,-71.17392,42.27483
+S0043,Harvard Yard,Cambridge,Park,Nonprofit / institutional,Harvard University,,no municipal match,True,Y,,61298.3,15.147,44,13534,4481,1,MassGIS,-71.11631,42.37449
+S0044,Smith Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1894.0,60801.3,15.024,45,3232,1434,1,MassGIS,-71.13138,42.36437
+S0045,Briggs Field,Cambridge,Playground & Athletic Field,Nonprofit / institutional,Massachusetts Institute of Technology,Private,agree,True,L,,59038.8,14.589,46,8300,1414,1,MassGIS,-71.0999,42.35667
+S0046,Foss Park,Somerville,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,58452.3,14.444,47,9681,4043,1,MassGIS,-71.08767,42.39169
+S0047,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,54964.2,13.582,48,0,0,1,MassGIS,-70.8881,42.33897
+S0048,Malcolm X Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,54924.9,13.572,49,9589,4005,1,MassGIS,-71.08834,42.32152
+S0049,UMass Harborwalk,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,52955.5,13.086,50,2251,1183,1,Boston (gap-fill),-71.03976,42.31174
+S0050,Bremen Street Park,Boston,Park,State,Commonwealth of Massachusetts,State,agree,False,Y,,52329.6,12.931,51,16732,6552,5,MassGIS,-71.03047,42.37564
+S0051,Ross Park,Boston,Park,City,City of Boston,City,agree,False,Y,1936.0,50945.4,12.589,52,5428,1893,1,MassGIS,-71.11313,42.26429
+S0052,White Stadium,Boston,Playground & Athletic Field,Nonprofit / institutional,George Robert White Fund,City,differs,True,X,,50911.9,12.581,53,7225,3142,1,MassGIS,-71.0955,42.30962
+S0053,VFW Parkway I,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,50349.1,12.442,54,13125,5586,1,Boston (gap-fill),-71.15445,42.29567
+S0054,McLaughlin Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1912.0,47265.9,11.68,55,13232,5336,1,MassGIS,-71.10316,42.32833
+S0055,Commonwealth Pier,Boston,"Parkway, Reservation & Waterfront",Private,WORLD TRADE CENTER,,no municipal match,True,Y,,46040.7,11.377,56,3377,2903,1,MassGIS,-71.04051,42.35154
+S0056,Little Mystic Access Area,Boston,Park,City,City of Boston,City,agree,False,Y,,45677.2,11.287,57,8473,3882,2,"Boston (gap-fill), MassGIS",-71.05953,42.38089
+S0057,Ronan Park,Boston,Park,City,City of Boston,City,agree,False,Y,1912.0,45615.1,11.272,58,12398,4493,1,MassGIS,-71.06259,42.30451
+S0058,Piers Park,Boston,Park,State,MASSPORT,State,agree,False,Y,,43971.1,10.865,59,7487,3888,1,MassGIS,-71.0352,42.36427
+S0059,Billings Field,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1896.0,43840.9,10.833,60,3373,1482,1,MassGIS,-71.15626,42.28096
+S0060,Ringer Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1916.0,41527.9,10.262,61,15509,7795,1,MassGIS,-71.13892,42.35043
+S0061,Roberts Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1930.0,41373.1,10.224,62,9422,3630,1,MassGIS,-71.07357,42.28578
+S0062,Cassidy Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1898.0,38878.7,9.607,63,6550,3638,1,MassGIS,-71.15232,42.33481
+S0063,Healy Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1902.0,38871.1,9.605,64,7153,3002,1,MassGIS,-71.12339,42.28799
+S0064,Arborway,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,State,differs,False,Y,,38776.9,9.582,65,8154,3943,11,MassGIS,-71.12168,42.30899
+S0065,Neveille Manor,Cambridge,Park,City,City of Cambridge,,no municipal match,False,Y,,38569.6,9.531,66,1222,706,1,MassGIS,-71.14885,42.3885
+S0066,Dorchester Shores Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,37261.8,9.208,67,4256,2047,1,MassGIS,-71.04868,42.31368
+S0067,Alewife Park: Jerry's Pond,Cambridge,Park,Private,POPS,,municipal only,True,Y,,36961.2,9.133,68,7232,3412,1,Cambridge (gap-fill),-71.13919,42.39498
+S0068,Ryan Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1891.0,35515.4,8.776,69,2147,1180,1,MassGIS,-71.07159,42.38584
+S0069,Glacken Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,34856.1,8.613,70,3685,1713,1,MassGIS,-71.1516,42.3804
+S0070,Charlestown Naval Shipyard Park I,Boston,Park,City,City of Boston,City,agree,False,X,,34297.8,8.475,71,5965,3180,1,MassGIS,-71.05273,42.37317
+S0071,Savin Hill Park,Boston,Park,City,City of Boston,City,agree,False,Y,1909.0,33644.6,8.314,72,3063,1497,1,MassGIS,-71.04879,42.31078
+S0072,Noyes Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1909.0,33634.1,8.311,73,5366,2135,1,MassGIS,-71.01047,42.38827
+S0073,Cambridge Common,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,33234.9,8.213,74,9421,3240,1,MassGIS,-71.12106,42.37679
+S0074,Boston Fish Pier,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,,no municipal match,False,L,,33082.3,8.175,75,2265,1841,1,MassGIS,-71.03833,42.35065
+S0075,Rogers Park,Boston,Park,City,City of Boston,City,agree,False,Y,1899.0,33051.6,8.167,76,6422,2757,1,MassGIS,-71.15942,42.34761
+S0076,Vietnam War Memorial,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,State,differs,False,Y,,32471.8,8.024,77,1568,836,1,MassGIS,-71.04464,42.3113
+S0077,Commonwealth Avenue Mall,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,32173.3,7.95,78,22663,13290,6,MassGIS,-71.09011,42.34903
+S0078,Neponset Valley Parkway,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,30829.5,7.618,79,3346,1316,2,MassGIS,-71.12931,42.2365
+S0079,Clifford Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1909.0,30726.9,7.593,80,3597,1390,1,MassGIS,-71.06911,42.32619
+S0080,Sherrin And Dale Street Playground,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,30455.8,7.526,81,4184,1579,1,MassGIS,-71.1235,42.27081
+S0081,Fallon Field,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,30204.3,7.464,82,6490,2966,1,MassGIS,-71.1353,42.28759
+S0082,Alewife Brook Reservation,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,28683.6,7.088,83,4341,2347,1,MassGIS,-71.15555,42.39498
+S0083,Leo M. Birmingham Parkway,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,28252.3,6.981,84,6487,2975,1,Boston (gap-fill),-71.15087,42.35864
+S0084,Christian Science Plaza,Boston,"Square, Plaza & Mall",Nonprofit / institutional,CHRISTIAN SCIENCE CHURCH,,no municipal match,True,Y,,28234.3,6.977,85,25408,12724,2,MassGIS,-71.08401,42.34429
+S0085,St Peter's Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,28206.3,6.97,86,7022,3249,1,MassGIS,-71.13263,42.38705
+S0086,L Street Public Baths,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,City,agree,False,Y,,28165.1,6.96,87,7070,3616,1,MassGIS,-71.0352,42.32915
+S0087,Walsh Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1946.0,28089.0,6.941,88,5826,2381,1,MassGIS,-71.07076,42.27698
+S0088,Clemente Field,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1877.0,27843.4,6.88,89,17518,6023,1,MassGIS,-71.09748,42.34073
+S0089,Kevin W Fitzgerald Park,Boston,Park,Nonprofit / institutional,FRIENDS OF PUDDINGSTONE PARK INC,,no municipal match,True,Y,,27713.2,6.848,90,13656,5500,1,MassGIS,-71.10312,42.33229
+S0090,English High Fields,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,27308.8,6.748,91,6743,3334,2,MassGIS,-71.10754,42.30733
+S0091,American Legion Highway,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,,municipal only,False,Y,,27223.2,6.727,92,13224,4979,1,Boston (gap-fill),-71.0973,42.29085
+S0092,Donnelly Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,27178.5,6.716,93,11037,5330,1,MassGIS,-71.09184,42.37055
+S0093,Parkman Memorial,Boston,Park,City,City of Boston,City,agree,False,Y,,27153.7,6.71,94,2221,889,1,MassGIS,-71.12348,42.31615
+S0094,Medal of Honor Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1897.0,26530.5,6.556,95,9888,4999,1,MassGIS,-71.03234,42.33656
+S0095,Hynes Field,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1950.0,25971.5,6.418,96,4231,1766,1,MassGIS,-71.15348,42.29454
+S0096,Walker Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1912.0,24201.0,5.98,97,8010,2981,1,MassGIS,-71.08957,42.27799
+S0097,Alewife Park: Four Acre Habitat,Cambridge,Park,Private,POPS,,municipal only,True,Y,,23910.5,5.908,98,7729,3596,1,Cambridge (gap-fill),-71.13908,42.39661
+S0098,Mckinney Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1930.0,23860.4,5.896,99,6507,2632,1,MassGIS,-71.15296,42.35478
+S0099,Unnamed park,Boston,Park,State,DCR - Division of Water Supply Protection,,no municipal match,False,X,,23603.1,5.832,100,910,431,1,MassGIS,-71.037,42.28997
+S0100,Doherty-Gibson Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1897.0,23444.3,5.793,101,9377,3379,1,MassGIS,-71.06191,42.29724
+S0101,Central Hill Park,Somerville,Park,City,assumed,,municipal only,False,Y,,23308.3,5.76,102,12019,5463,1,Somerville (gap-fill),-71.09742,42.38663
+S0102,Draper Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1932.0,23293.4,5.756,103,2911,1308,1,MassGIS,-71.16049,42.26014
+S0103,Southwest Corridor Park,Boston,"Parkway, Reservation & Waterfront",State,Massachusetts Bay Transit Authority,State,agree,False,Y,,23194.7,5.732,104,27244,14545,24,MassGIS,-71.08141,42.34301
+S0104,Puopolo Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1973.0,22822.4,5.64,105,11110,7194,5,MassGIS,-71.05509,42.36844
+S0105,Commonwealth Avenue Outbound,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,City,agree,False,Y,,22257.6,5.5,106,45387,22548,38,MassGIS,-71.14751,42.34172
+S0106,Ramsay Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,22197.0,5.485,107,15068,6816,1,MassGIS,-71.08064,42.33459
+S0107,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,22105.4,5.462,108,1799,736,1,MassGIS,-71.12785,42.23378
+S0108,Sylvester Baxter Riverfront Park,Somerville,"Parkway, Reservation & Waterfront",City,assumed,,municipal only,False,Y,,22052.9,5.449,109,3184,1708,1,Somerville (gap-fill),-71.08174,42.3969
+S0109,Marcella Park,Boston,Park,City,City of Boston,City,agree,False,Y,,21968.8,5.429,110,8670,3636,1,MassGIS,-71.09623,42.32258
+S0110,City Hall Plaza,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,21394.7,5.287,111,14435,9327,1,MassGIS,-71.05933,42.36066
+S0111,McMorrow Playground,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,21286.5,5.26,112,4639,1945,1,MassGIS,-71.05053,42.29543
+S0112,Fidelis Way Park,Boston,Park,City,City of Boston,City,agree,False,Y,1972.0,20830.4,5.147,113,12178,6367,1,MassGIS,-71.14296,42.34772
+S0113,Garvey Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1896.0,20783.5,5.136,114,3627,1613,1,MassGIS,-71.04567,42.28796
+S0114,Christopher Lee Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1897.0,20685.4,5.111,115,7436,3730,1,MassGIS,-71.03182,42.33779
+S0115,Lincoln Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,20377.1,5.035,116,10496,4925,1,MassGIS,-71.09923,42.37845
+S0116,John Fitzgerald Kennedy Park,Cambridge,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,20187.8,4.989,117,6297,1166,1,MassGIS,-71.12338,42.37106
+S0117,Carter Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1899.0,19793.5,4.891,118,21982,8046,1,MassGIS,-71.08487,42.33893
+S0118,Readville Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1924.0,19678.2,4.863,119,2432,975,1,MassGIS,-71.13479,42.23956
+S0119,Mother Brook II,Boston,Park,City,City of Boston,City,agree,False,Y,,19541.6,4.829,120,4131,1781,2,MassGIS,-71.12869,42.25023
+S0120,Jamaicaway,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,City,agree,False,Y,,19537.7,4.828,121,19285,9514,15,MassGIS,-71.11331,42.3312
+S0121,Harborside Walkway,Boston,Park,State,MASSPORT,,no municipal match,False,Y,,19394.8,4.793,122,1499,699,1,MassGIS,-71.02676,42.36094
+S0122,Christopher Columbus Waterfront Park,Boston,Park,City,City of Boston,City,agree,False,Y,1975.0,19195.7,4.743,123,8463,5452,2,MassGIS,-71.05155,42.36134
+S0123,Steinbrenner Stadium,Cambridge,Playground & Athletic Field,Nonprofit / institutional,Massachusetts Institute of Technology,Private,agree,True,L,,19104.1,4.721,124,6484,718,1,MassGIS,-71.09751,42.35842
+S0124,Trum Field Park,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,19090.2,4.717,125,9261,4112,1,MassGIS,-71.10703,42.39755
+S0125,Wharf District Park,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,2008.0,19064.8,4.711,126,7717,5257,1,Boston (gap-fill),-71.05129,42.35731
+S0126,Parkway Little League Fields,Boston,Playground & Athletic Field,Nonprofit / institutional,Parkway Baseball League,,no municipal match,True,X,,19045.8,4.706,127,2890,1426,1,MassGIS,-71.16683,42.27992
+S0127,Hoyt Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,18888.1,4.667,128,11742,5670,1,MassGIS,-71.11226,42.36362
+S0128,Community Path Extension,Somerville,"Parkway, Reservation & Waterfront",State,Massachusetts Bay Transit Authority,,no municipal match,False,Y,,18501.9,4.572,129,14396,6681,2,MassGIS,-71.11879,42.39591
+S0129,McConnell Park,Boston,Park,City,City of Boston,City,agree,False,Y,1899.0,18357.5,4.536,130,3354,1530,1,MassGIS,-71.05276,42.30861
+S0130,Fresh Pond Pathway,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,18032.5,4.456,131,4987,2360,2,MassGIS,-71.14304,42.38299
+S0131,Hemenway Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1919.0,17851.8,4.411,132,10041,4097,1,MassGIS,-71.05622,42.29141
+S0132,Dorchester Heights National Historic Site,Boston,"Square, Plaza & Mall",Other public,United States Department of the Interior,Other public,agree,False,Y,,17551.3,4.337,133,11671,5953,1,MassGIS,-71.04637,42.33285
+S0133,Nathan Tufts/Powder House Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,17487.7,4.321,134,9246,3612,1,MassGIS,-71.11633,42.40047
+S0134,Killian Court,Cambridge,Playground & Athletic Field,Nonprofit / institutional,Massachusetts Institute of Technology,,no municipal match,True,L,,17290.7,4.273,135,2517,400,1,MassGIS,-71.09145,42.35875
+S0135,Portsmouth Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,17243.8,4.261,136,3749,1765,1,MassGIS,-71.1454,42.35939
+S0136,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,17159.5,4.24,137,2316,1216,1,MassGIS,-71.03676,42.28497
+S0137,Paul Revere Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,16823.8,4.157,138,5580,3447,1,MassGIS,-71.06189,42.37019
+S0138,Ceylon Park,Boston,Park,City,City of Boston,City,agree,False,Y,1923.0,16461.9,4.068,139,10184,3549,1,MassGIS,-71.07364,42.31021
+S0139,Museum Of Science,Cambridge,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,16163.5,3.994,140,6883,4086,1,MassGIS,-71.07201,42.36804
+S0140,Private First Class Robert M. Devine Skating Rink,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,16011.1,3.956,141,3242,1448,1,MassGIS,-71.04472,42.28841
+S0141,Commonwealth Avenue Mall,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,15817.6,3.909,142,12142,7747,3,MassGIS,-71.07276,42.35334
+S0142,Long Wharf,Boston,"Square, Plaza & Mall",City,BRA,,municipal only,False,Y,,15786.7,3.901,143,5110,3223,1,Boston (gap-fill),-71.04936,42.35995
+S0143,The Common at CX,Cambridge,Park,Private,Private,,municipal only,True,L,,15706.3,3.881,144,5416,3025,1,Cambridge (gap-fill),-71.07387,42.37156
+S0144,Bunker Hill Monument,Boston,"Square, Plaza & Mall",Other public,United States Department of the Interior,Other public,agree,False,Y,,15193.3,3.754,145,11638,5526,1,MassGIS,-71.0608,42.37631
+S0145,Doherty Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1891.0,15138.8,3.741,146,6496,3171,1,MassGIS,-71.06754,42.38237
+S0146,Museum Of Science,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,15061.2,3.722,147,6987,4287,1,MassGIS,-71.07012,42.36701
+S0147,Riverside Press Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,15035.7,3.715,148,8007,4080,1,MassGIS,-71.11532,42.36241
+S0148,Highland Park,Boston,Park,City,City of Boston,City,agree,False,Y,1888.0,14664.6,3.624,149,7823,3298,1,MassGIS,-71.09498,42.32508
+S0149,Gold Star Mothers Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,14623.8,3.614,150,7531,4070,1,MassGIS,-71.08374,42.37282
+S0150,Navy Yard Grounds,Boston,Park,Other public,United States of America,,municipal only,False,Y,,14490.0,3.581,151,7926,4070,1,Boston (gap-fill),-71.05697,42.37425
+S0151,Barry Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1897.0,14357.8,3.548,152,4967,2420,1,MassGIS,-71.05353,42.37949
+S0152,LoPresti Park,Boston,Park,City,City of Boston,City,agree,False,Y,1977.0,14258.2,3.523,153,6134,3308,1,MassGIS,-71.04354,42.37017
+S0153,Charles River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,14153.8,3.497,154,20739,10726,11,MassGIS,-71.0917,42.347
+S0154,East Boston Greenway,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,City,agree,False,Y,,14015.8,3.463,155,15166,7058,7,MassGIS,-71.03763,42.36959
+S0155,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,13841.5,3.42,156,0,0,1,MassGIS,-70.89183,42.35285
+S0156,Rindge Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,13813.8,3.413,157,8421,4037,1,MassGIS,-71.12841,42.39113
+S0157,Little Brewster Island,Boston,Park,Other public,National Park Service,,no municipal match,False,Y,,13732.1,3.393,158,0,0,1,MassGIS,-70.89057,42.32818
+S0158,American Legion Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1924.0,13562.6,3.351,159,7354,2653,1,MassGIS,-71.02948,42.38195
+S0159,Alewife Linear Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,13494.5,3.335,160,7693,3557,1,MassGIS,-71.13713,42.3963
+S0160,Peters Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,13450.4,3.324,161,14237,7953,1,MassGIS,-71.06736,42.34338
+S0161,Jefferson Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1924.0,13344.1,3.297,162,7462,3328,1,MassGIS,-71.10861,42.32613
+S0162,Linear Park,Cambridge,Park,City,City,,municipal only,False,Y,,13240.7,3.272,163,10873,5215,1,Cambridge (gap-fill),-71.13349,42.39791
+S0163,Reserved Channel Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,12890.1,3.185,164,5967,3210,1,Boston (gap-fill),-71.03685,42.34149
+S0164,Blue Hill Club Recreation Center,Boston,Park,City,City of Boston,,municipal only,False,Y,,12309.9,3.042,165,6822,2454,1,Boston (gap-fill),-71.08665,42.29399
+S0165,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,12158.9,3.005,166,5130,1838,3,MassGIS,-71.10964,42.26125
+S0166,Conway Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,11804.2,2.917,167,7756,3690,1,MassGIS,-71.10767,42.38276
+S0167,Camp Meigs,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,11597.2,2.866,168,1812,726,1,MassGIS,-71.13189,42.2348
+S0168,North End Park,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,,11443.3,2.828,169,12643,8334,1,Boston (gap-fill),-71.05668,42.36265
+S0169,Riverway,Boston,Park,City,City of Boston,State,differs,False,Y,1890.0,11384.7,2.813,170,13750,5758,3,MassGIS,-71.10349,42.34342
+S0170,Pagel Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,11333.9,2.801,171,7199,2903,1,MassGIS,-71.11882,42.28901
+S0171,Raymond Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,11280.4,2.787,172,7660,3604,1,MassGIS,-71.12784,42.38664
+S0172,Mission Hill Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1913.0,11178.6,2.762,173,11630,3716,1,MassGIS,-71.0991,42.33315
+S0173,Rotch Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1903.0,11120.3,2.748,174,8182,4734,1,MassGIS,-71.06413,42.34164
+S0174,Lowell Park,Cambridge,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,11070.8,2.736,175,2121,1006,3,MassGIS,-71.13973,42.37592
+S0175,Truman Parkway,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,10986.5,2.715,176,9858,4010,1,Boston (gap-fill),-71.11522,42.25599
+S0176,Lieutenant James C Reilly Memorial Recreation Center,Boston,Park,State,Massachusetts Water Resources Authority,State,agree,False,Y,,10914.9,2.697,177,7594,4364,1,MassGIS,-71.15232,42.33658
+S0177,Lechmere Canal Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,10909.4,2.696,178,7238,4094,1,MassGIS,-71.07548,42.3694
+S0178,Dewey Square Parks,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,2008.0,10684.9,2.64,179,5874,3733,1,Boston (gap-fill),-71.0524,42.35462
+S0179,Allandale Field,Boston,Playground & Athletic Field,Private,Private,,municipal only,True,Y,,10628.6,2.626,180,1717,606,1,Boston (gap-fill),-71.13569,42.29748
+S0180,Ballfield,Boston,Playground & Athletic Field,Nonprofit / institutional,SALESIAN SOCIETY,,no municipal match,True,Y,,10607.9,2.621,181,3913,1648,1,MassGIS,-71.01328,42.38332
+S0181,Corporal Joseph E. Johnson Playground,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,10540.1,2.605,182,5972,2810,4,MassGIS,-71.10797,42.31156
+S0182,Sennott Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,10262.0,2.536,183,12245,5972,1,MassGIS,-71.10027,42.36877
+S0183,Ahern Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,10217.7,2.525,184,8772,4551,1,MassGIS,-71.08677,42.36882
+S0184,Russell Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,10194.9,2.519,185,6877,3166,1,MassGIS,-71.13793,42.3963
+S0185,Horatio Harris Park,Boston,Park,City,City of Boston,City,agree,False,Y,1913.0,10079.2,2.491,186,7646,3133,1,MassGIS,-71.09008,42.31848
+S0186,Blackstone Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1855.0,10029.0,2.478,187,16450,9173,1,MassGIS,-71.07356,42.33965
+S0187,Franklin Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1849.0,9972.0,2.464,188,14507,8041,1,MassGIS,-71.07255,42.33881
+S0188,Birmingham Parkway,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,9954.7,2.46,189,3252,1505,1,MassGIS,-71.1513,42.35874
+S0189,Fort Washington,Cambridge,Park,City,City of Cambridge,,no municipal match,False,Y,,9667.1,2.389,190,8432,2289,1,MassGIS,-71.10349,42.35734
+S0190,Commercial Point,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,9637.1,2.381,191,916,361,1,Boston (gap-fill),-71.04798,42.30186
+S0191,Fan Pier Park,Boston,"Square, Plaza & Mall",Other public,United States of America,Other public,agree,False,Y,,9566.2,2.364,192,3369,2676,1,MassGIS,-71.04721,42.35466
+S0192,Riverway II,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,9563.4,2.363,193,17427,7399,1,Boston (gap-fill),-71.10465,42.34359
+S0193,Edna V. Bynoe Park,Boston,Park,City,City of Boston,City,agree,False,Y,,9558.8,2.362,194,5379,2153,1,MassGIS,-71.07673,42.32956
+S0194,Porzio Park,Boston,Park,City,City of Boston,City,agree,False,Y,1975.0,9557.1,2.362,195,2318,1086,2,MassGIS,-71.02912,42.3638
+S0195,Toohig Park,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,9294.3,2.297,196,4510,2004,1,MassGIS,-71.04966,42.28397
+S0196,Rafferty Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,9215.0,2.277,197,3038,1588,1,MassGIS,-71.15452,42.39241
+S0197,Charles River Reservation,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,9155.7,2.262,198,6379,3904,1,MassGIS,-71.06913,42.36857
+S0198,"Timothy J. Toomey, Jr. Park",Cambridge,Park,City,City,,municipal only,False,Y,,9110.2,2.251,199,6205,3473,1,Cambridge (gap-fill),-71.08073,42.36655
+S0199,Reverend Doctor Loesch Family Park,Boston,Park,City,City of Boston,City,agree,False,Y,1899.0,9109.3,2.251,200,8088,3163,1,MassGIS,-71.0665,42.29065
+S0200,Centre Street I,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,9103.9,2.25,201,4231,1726,1,Boston (gap-fill),-71.12231,42.30862
+S0201,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,9080.3,2.244,202,3893,1984,4,MassGIS,-71.07001,42.27067
+S0202,Murphy Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,9070.8,2.241,203,6316,3200,1,MassGIS,-71.11331,42.30729
+S0203,Rena Park,Boston,Park,Private,Private,,municipal only,True,Y,,8999.9,2.224,204,4048,1617,1,Boston (gap-fill),-71.12824,42.36077
+S0204,Roxbury Heritage State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,8808.3,2.177,205,6918,3089,9,MassGIS,-71.08962,42.33052
+S0205,Fresh Pond Pathway,Cambridge,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,8533.1,2.109,206,4120,1878,1,MassGIS,-71.14882,42.37697
+S0206,Parkman Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1924.0,8330.2,2.058,207,3264,1507,1,MassGIS,-71.11312,42.29595
+S0207,Art Farm,Somerville,Park,City,assumed,,municipal only,False,Y,,8304.5,2.052,208,3482,1751,1,Somerville (gap-fill),-71.08804,42.37762
+S0208,Longfellow Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,8285.0,2.047,209,4631,2702,1,MassGIS,-71.12699,42.37551
+S0209,Longfellow National Historic House,Cambridge,Park,City,City of Cambridge,Other public,differs,False,Y,,7973.4,1.97,210,5762,2996,1,MassGIS,-71.12637,42.37699
+S0210,Mary Hannon Park,Boston,Park,City,City of Boston,City,agree,False,Y,1940.0,7961.2,1.967,211,8252,2853,1,MassGIS,-71.07152,42.31947
+S0211,Riverway IV,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,7779.0,1.922,212,12600,6241,1,Boston (gap-fill),-71.11299,42.33258
+S0212,Howes Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1930.0,7561.5,1.868,213,8552,3424,1,MassGIS,-71.07869,42.32424
+S0213,Copley Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,7494.7,1.852,214,11570,7690,1,MassGIS,-71.07649,42.35001
+S0214,Comeau Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,7248.0,1.791,215,6507,3004,1,MassGIS,-71.13779,42.39422
+S0215,Francis J. McCrehan Swimming Pool,Cambridge,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,7237.7,1.788,216,6834,3124,1,MassGIS,-71.13716,42.39446
+S0216,Stony Brook Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,7183.2,1.775,217,1495,578,2,MassGIS,-71.13052,42.26123
+S0217,Titus Sparrow Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,7141.6,1.765,218,16436,9496,2,MassGIS,-71.07988,42.34359
+S0218,Alewife Brook Parkway,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,6922.3,1.711,219,2190,1099,1,MassGIS,-71.14351,42.38848
+S0219,Veterans Memorial Skating Rink - Somerville,Somerville,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,6865.6,1.697,220,7363,3500,1,MassGIS,-71.10842,42.38298
+S0220,Jeep Jones Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,6808.3,1.682,221,6294,2698,1,MassGIS,-71.09213,42.33083
+S0221,Kresge Oval,Cambridge,Park,Nonprofit / institutional,Massachusetts Institute of Technology,,no municipal match,True,L,,6800.6,1.68,222,3310,265,1,MassGIS,-71.09428,42.35829
+S0222,Prospect Hill Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,6796.3,1.679,223,8018,3686,1,MassGIS,-71.0938,42.38175
+S0223,Crawford Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1965.0,6756.5,1.67,224,8985,3790,1,MassGIS,-71.09295,42.31541
+S0224,Green Rose Heritage Park,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,6756.4,1.67,225,8701,3834,2,MassGIS,-71.09482,42.36606
+S0225,Glen Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,6748.5,1.668,226,7525,3273,1,MassGIS,-71.08674,42.38308
+S0226,Fan Pier Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,6724.7,1.662,227,3247,2807,1,Boston (gap-fill),-71.04436,42.35385
+S0227,Central Hill Memorial Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,6694.6,1.654,228,9752,4459,1,MassGIS,-71.09631,42.38743
+S0228,State House Grounds,Boston,Park,State,Commonwealth of Massachusetts,,no municipal match,False,Y,,6613.8,1.634,229,13637,8238,1,MassGIS,-71.06372,42.35784
+S0229,Frederick Douglas Emmons John Gerald Horrigan and Matthew J ONeil Rink,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,6611.0,1.634,230,6348,2961,1,MassGIS,-71.06639,42.37411
+S0230,Winthrop Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1911.0,6303.5,1.558,231,9113,3291,1,MassGIS,-71.07598,42.31744
+S0231,Norman B Leventhal Park,Boston,Park,City,City of Boston,Private,differs,False,Y,,6277.7,1.551,232,4428,2935,1,MassGIS,-71.05564,42.35631
+S0232,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,6249.7,1.544,233,1399,755,1,Cambridge (gap-fill),-71.13515,42.37276
+S0233,Hardiman Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1948.0,6048.9,1.495,234,6396,2730,1,MassGIS,-71.1662,42.35122
+S0234,Anderson Courts,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,6021.9,1.488,235,7587,3590,1,MassGIS,-71.12848,42.39024
+S0235,Charles River Reservation,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,6020.4,1.488,236,5184,2972,2,MassGIS,-71.07318,42.36864
+S0236,Nunziato Field And Dog Park / Community Growing Center,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,5985.5,1.479,237,7835,3852,1,MassGIS,-71.09842,42.38264
+S0237,Shirley Eustis House Grounds,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,5905.9,1.459,238,6490,2411,1,Boston (gap-fill),-71.07209,42.32335
+S0238,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,5895.0,1.457,239,0,0,2,MassGIS,-70.89397,42.34584
+S0239,Hodgkins-Curtin Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,5823.8,1.439,240,8328,3727,1,MassGIS,-71.12452,42.39946
+S0240,Dana Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,5770.3,1.426,241,11720,5428,1,MassGIS,-71.10775,42.36138
+S0241,Boston Harbor Islands State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,5762.3,1.424,242,0,0,3,MassGIS,-70.8933,42.35079
+S0242,City Square Park,Boston,"Square, Plaza & Mall",State,Massachusetts Highway Department,State,agree,False,Y,,5735.8,1.417,243,4331,2329,1,MassGIS,-71.06186,42.37168
+S0243,Fort Point Channel Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,5721.7,1.414,244,5661,3861,1,Boston (gap-fill),-71.05293,42.34766
+S0244,Park Drive II,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,5595.1,1.383,245,16830,6444,1,Boston (gap-fill),-71.10259,42.34294
+S0245,325 Binney St: Open Space,Cambridge,Park,Private,POPS,,municipal only,True,Y,,5560.3,1.374,246,8769,4428,1,Cambridge (gap-fill),-71.08844,42.36886
+S0246,Novartis Courtyard,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,5559.4,1.374,247,6751,2238,1,Cambridge (gap-fill),-71.09627,42.36164
+S0247,Melnea A. Cass Recreational Complex,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,5558.4,1.374,248,6852,2771,1,MassGIS,-71.09097,42.32184
+S0248,Nightingale Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,5546.2,1.37,249,8366,2924,1,MassGIS,-71.07347,42.29476
+S0249,Joyce Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1949.0,5522.9,1.365,250,7819,3875,1,MassGIS,-71.15145,42.34537
+S0250,A Street Park,Boston,Park,City,City of Boston,,municipal only,False,Y,2016.0,5506.3,1.361,251,4677,2512,1,Boston (gap-fill),-71.05286,42.34375
+S0251,Pacific Street Open Space,Cambridge,Park,City,City,,municipal only,False,Y,,5455.5,1.348,252,9424,4057,1,Cambridge (gap-fill),-71.10329,42.36042
+S0252,Allen Park,Boston,Park,City,City of Boston,City,agree,False,Y,,5446.7,1.346,253,9088,3391,1,MassGIS,-71.06313,42.30806
+S0253,Southwest Corridor Park,Boston,"Parkway, Reservation & Waterfront",State,Massachusetts Bay Transit Authority,State,agree,False,Y,,5437.6,1.344,254,20047,9048,4,MassGIS,-71.08354,42.34008
+S0254,Edwards Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1991.0,5417.4,1.339,255,7585,3561,1,MassGIS,-71.06838,42.37947
+S0255,Martin Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1979.0,5317.2,1.314,256,2633,1276,1,MassGIS,-71.05317,42.27958
+S0256,Flaherty Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1925.0,5298.4,1.309,257,6622,2947,1,MassGIS,-71.10433,42.31168
+S0257,Lewis Mall,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,5214.2,1.288,258,9020,4610,1,MassGIS,-71.04029,42.36819
+S0258,Rothlisberger Memorial Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,5180.4,1.28,259,5703,2661,1,MassGIS,-71.13397,42.38695
+S0259,Prince Street Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,5158.5,1.275,260,9956,6577,1,MassGIS,-71.05807,42.36801
+S0260,Minuteman Trail Extension,Somerville,"Parkway, Reservation & Waterfront",City,City of Somerville,,no municipal match,False,Y,,5127.6,1.267,261,8728,4244,1,MassGIS,-71.12629,42.39748
+S0261,Perry Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,5124.0,1.266,262,8423,3878,1,MassGIS,-71.1034,42.37944
+S0262,Rowe's Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,5096.5,1.259,263,3170,2292,1,Boston (gap-fill),-71.04935,42.35658
+S0263,Minton Stable Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,5080.3,1.255,264,4049,1953,1,MassGIS,-71.10563,42.30532
+S0264,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,5040.4,1.246,265,3902,1690,1,Cambridge basemap plaza,-71.09019,42.36224
+S0265,East Boston Greenway Extension,Boston,Park,State,Massport,,municipal only,False,Y,,5023.6,1.241,266,5111,2043,1,Boston (gap-fill),-71.01415,42.3822
+S0266,Steriti Rink,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,5016.2,1.24,267,9838,6422,1,MassGIS,-71.0572,42.36828
+S0267,Menino Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,5004.5,1.237,268,1716,1026,1,Boston (gap-fill),-71.04817,42.37762
+S0268,Binney Street Park,Cambridge,Park,City,City,,municipal only,False,Y,,4903.6,1.212,269,6849,3275,1,Cambridge (gap-fill),-71.08933,42.36589
+S0269,Byrne Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1939.0,4809.2,1.188,270,2299,846,1,MassGIS,-71.05232,42.3009
+S0270,Drydock Overlook,Boston,Park,City,City of Boston,,no municipal match,False,Y,,4778.6,1.181,271,48,38,1,MassGIS,-71.03105,42.34553
+S0271,Unnamed park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,4723.0,1.167,272,7631,2250,1,MassGIS,-71.11874,42.37552
+S0272,South Plaza Park,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,4712.8,1.165,273,4452,2524,1,Cambridge (gap-fill),-71.08196,42.36325
+S0273,Arborway Overpass Path,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,4709.7,1.164,274,6205,3172,1,Boston (gap-fill),-71.11424,42.30175
+S0274,Shipyard Park,Boston,Park,City,Boston Planning and Development Agency,City,agree,False,Y,,4696.9,1.161,275,2348,1421,1,MassGIS,-71.05123,42.37394
+S0275,Mother's Rest at Four Corners Park,Boston,Park,City,City of Boston,City,agree,False,Y,,4639.2,1.146,276,8649,2979,1,MassGIS,-71.07197,42.29766
+S0276,Prudential Center Plaza,Boston,"Square, Plaza & Mall",Private,Bradley R M,,no municipal match,True,L,,4616.3,1.141,277,14644,8626,1,MassGIS,-71.08231,42.34655
+S0277,Al Festa Little League Field,Boston,Playground & Athletic Field,State,MASSACHUSETTS PORT AUTHORITY,,no municipal match,False,Y,,4577.6,1.131,278,2832,1123,1,MassGIS,-71.01981,42.38071
+S0278,Franklin Park Zoo,Boston,Park,State,Commonwealth of Massachusetts,City,differs,False,Y,1883.0,4553.0,1.125,279,6834,2996,1,MassGIS,-71.09407,42.31133
+S0279,Martin's Park,Boston,Park,City,City of Boston,,municipal only,False,Y,2017.0,4537.4,1.121,280,3469,2945,1,Boston (gap-fill),-71.04916,42.35278
+S0280,Samp Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,4531.9,1.12,281,6701,3063,1,MassGIS,-71.13721,42.39543
+S0281,Richardson Park,Boston,"Square, Plaza & Mall",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,4511.7,1.115,282,8929,3920,1,MassGIS,-71.06001,42.31962
+S0282,Trotter St Plaza,Boston,Park,City,City of Boston,City,agree,False,Y,1973.0,4494.6,1.111,283,8065,3310,1,MassGIS,-71.08872,42.31509
+S0283,Bergin Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,4465.0,1.103,284,7860,3774,1,MassGIS,-71.12732,42.39093
+S0284,DeFilippo Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1937.0,4440.7,1.097,285,12262,8019,1,MassGIS,-71.05696,42.36652
+S0285,Navy Fuel Pier Airport Edge Buffer,Boston,Park,State,Massport,,municipal only,False,Y,,4413.5,1.091,286,2334,1111,1,Boston (gap-fill),-71.0293,42.36354
+S0286,Melnea A. Cass Swimming Pool,Boston,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,4403.4,1.088,287,6784,2772,1,MassGIS,-71.09036,42.32153
+S0287,Corporal Burns Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,4396.8,1.086,288,11574,4685,1,MassGIS,-71.11546,42.36753
+S0288,Raymond V. Mellone Park I,Boston,Park,City,City of Boston,,municipal only,False,Y,,4374.3,1.081,289,3507,1415,1,Boston (gap-fill),-71.1273,42.36076
+S0289,Reverend Romano Simoni Skating Rink,Cambridge,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,4287.7,1.06,290,6878,3724,3,MassGIS,-71.08464,42.37287
+S0290,Pauline Elizabeth Hopkins Lawn & Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,4280.4,1.058,291,5842,3383,1,Cambridge (gap-fill),-71.07657,42.37269
+S0291,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,4220.4,1.043,292,7534,3411,1,Cambridge basemap plaza,-71.09008,42.36671
+S0292,Columbia Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,4210.9,1.041,293,9606,4509,1,MassGIS,-71.09873,42.36491
+S0293,Chestnut Street,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,4204.8,1.039,294,3713,1926,1,Boston (gap-fill),-71.11974,42.32199
+S0294,Arborway II,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,4178.5,1.033,295,4951,2553,1,Boston (gap-fill),-71.11037,42.30119
+S0295,87-101 Cambridgepark Dr Multi-use Path,Cambridge,"Parkway, Reservation & Waterfront",Private,POPS,,municipal only,True,Y,,4115.5,1.017,296,4347,2287,1,Cambridge (gap-fill),-71.14408,42.39548
+S0296,Long Wharf Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,4106.6,1.015,297,3454,2178,1,MassGIS,-71.04805,42.3603
+S0297,Roxbury Heritage State Park,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,4082.4,1.009,298,8213,3760,2,MassGIS,-71.08039,42.33226
+S0298,Schraffts Centre Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,4079.5,1.008,299,1858,999,1,Boston (gap-fill),-71.06962,42.38575
+S0299,Hooker-Sorrento Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,4063.3,1.004,300,2640,974,1,MassGIS,-71.12535,42.35952
+S0300,Fort Washington Park,Cambridge,Park,City,City,,municipal only,False,Y,,4040.4,0.998,301,7656,2023,1,Cambridge (gap-fill),-71.10429,42.35675
+S0301,Cardillo Playground,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,4010.2,0.991,302,4664,1835,1,MassGIS,-71.11848,42.28507
+S0302,Morrissey Boulevard,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,3970.6,0.981,303,1458,752,1,MassGIS,-71.04567,42.31041
+S0303,Wheeler Street Open Space,Cambridge,Park,Private,POPS,,municipal only,True,Y,,3970.4,0.981,304,4313,2234,1,Cambridge (gap-fill),-71.14447,42.39224
+S0304,Commonwealth Avenue Mall,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,3927.0,0.97,305,10988,5097,1,MassGIS,-71.09392,42.34899
+S0305,Winthrop Sq,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1848.0,3912.0,0.967,306,7473,3659,1,MassGIS,-71.0601,42.37436
+S0306,Brian Honan Park,Boston,Park,Private,Private,,municipal only,True,Y,,3899.6,0.964,307,12281,6445,1,Boston (gap-fill),-71.14041,42.34431
+S0307,Alewife Brook Parkway,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,3887.7,0.961,308,5213,2543,1,MassGIS,-71.14129,42.3932
+S0308,Stony Brook Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,3849.0,0.951,309,1533,578,1,MassGIS,-71.13041,42.26013
+S0309,Sacramento Field,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,3814.0,0.942,310,8657,4238,1,MassGIS,-71.11782,42.38312
+S0310,Charles Park,Cambridge,Park,City,City,,municipal only,False,Y,,3799.5,0.939,311,4938,2986,1,Cambridge (gap-fill),-71.07651,42.36631
+S0311,Orton Field,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,3793.0,0.937,312,9569,4812,1,MassGIS,-71.05335,42.33837
+S0312,Fernald Terrace Rock,Boston,Park,City,City of Boston,,no municipal match,False,Y,,3771.1,0.932,313,9380,3562,1,MassGIS,-71.06548,42.31053
+S0313,Fresh Pond Parkway,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,3725.7,0.921,314,1830,876,1,MassGIS,-71.14095,42.38665
+S0314,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,3718.4,0.919,315,4787,2306,1,Cambridge (gap-fill),-71.14118,42.39105
+S0315,Jackson Square Greenway,Boston,Park,State,MBTA,,municipal only,False,Y,,3691.0,0.912,316,9415,3880,1,Boston (gap-fill),-71.10038,42.32179
+S0316,Loughrey Walkway,Cambridge,Park,City,City,,municipal only,False,Y,,3678.2,0.909,317,5621,2847,1,Cambridge (gap-fill),-71.08677,42.36465
+S0317,Central Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,3662.7,0.905,318,10478,4259,1,MassGIS,-71.03946,42.37486
+S0318,Hastings Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,3640.8,0.9,319,5391,2455,1,MassGIS,-71.10942,42.3564
+S0319,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,3603.1,0.89,320,1767,954,1,Cambridge (gap-fill),-71.13532,42.37388
+S0320,Faneuil Hall Plaza,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,3508.8,0.867,321,7535,4785,1,MassGIS,-71.0567,42.36004
+S0321,Thetford Evans Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1955.0,3505.8,0.866,322,6889,2511,1,MassGIS,-71.07784,42.28326
+S0322,Laviscount Park,Boston,Park,City,City of Boston,City,agree,False,Y,1941.0,3482.4,0.861,323,6935,2836,1,MassGIS,-71.08622,42.31663
+S0323,Front Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,3448.8,0.852,324,2272,1411,1,MassGIS,-71.07644,42.36513
+S0324,Old Morse Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,3435.4,0.849,325,8184,3338,1,MassGIS,-71.10779,42.35801
+S0325,Chinatown Park,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,2008.0,3407.1,0.842,326,14465,6824,1,Boston (gap-fill),-71.05917,42.35179
+S0326,Peabody Terrace Playground,Cambridge,Playground & Athletic Field,Nonprofit / institutional,Harvard University,,no municipal match,True,Y,,3407.1,0.842,326,9492,3975,1,MassGIS,-71.11564,42.36635
+S0327,Ripley Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1913.0,3344.9,0.827,328,8645,2943,1,MassGIS,-71.07605,42.29936
+S0328,Eliot Norton Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,3332.2,0.823,329,15907,7555,1,MassGIS,-71.06594,42.34925
+S0329,Triangle Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,3315.7,0.819,330,3770,2146,1,Cambridge (gap-fill),-71.07823,42.36435
+S0330,Gallivan Boulevard,Boston,"Square, Plaza & Mall",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,3298.7,0.815,331,2647,1126,1,MassGIS,-71.04623,42.28437
+S0331,Hobart Park,Boston,Park,City,City of Boston,City,agree,False,Y,1970.0,3290.1,0.813,332,4264,1689,1,MassGIS,-71.16129,42.35572
+S0332,John Harvard Mall,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1943.0,3271.7,0.808,333,5048,2545,1,MassGIS,-71.06248,42.37261
+S0333,Mozart Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1959.0,3237.2,0.8,334,8898,3736,1,MassGIS,-71.10449,42.32234
+S0334,New Riverside Neighborhood Park,Cambridge,Park,City,City,,municipal only,False,Y,,3236.5,0.8,335,8236,3750,1,Cambridge (gap-fill),-71.11563,42.3648
+S0335,Little Scobie Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,3211.1,0.793,336,7977,3304,1,MassGIS,-71.08079,42.32269
+S0336,Zero New Washington Street Park,Somerville,Park,City,assumed,,municipal only,False,Y,,3195.9,0.79,337,2781,1391,1,Somerville (gap-fill),-71.08215,42.38004
+S0337,Albion Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,3184.2,0.787,338,8304,3737,1,MassGIS,-71.10788,42.39205
+S0338,Paul Revere Mall,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1925.0,3160.6,0.781,339,12555,7958,1,MassGIS,-71.05363,42.36576
+S0339,Downer Avenue Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1972.0,3153.0,0.779,340,8800,3412,1,MassGIS,-71.06176,42.31161
+S0340,Horan Way Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,3146.4,0.777,341,8135,3237,1,MassGIS,-71.10239,42.32517
+S0341,Reverend Williams Park,Cambridge,Park,City,City,,municipal only,False,Y,,3138.6,0.776,342,7452,3543,1,Cambridge (gap-fill),-71.13043,42.39563
+S0342,Brophy Park,Boston,Park,City,City of Boston,City,agree,False,Y,,3132.9,0.774,343,6229,2931,1,MassGIS,-71.03356,42.36569
+S0343,Henri A. Termeer Square,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,3110.6,0.769,344,5179,2900,1,Cambridge (gap-fill),-71.0815,42.36458
+S0344,Morton Street,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,3079.3,0.761,345,9606,3638,1,Boston (gap-fill),-71.10591,42.3003
+S0345,60 Paul Gore St. Community Garden,Boston,Park,City,City of Boston,City,agree,False,L,,3042.2,0.752,346,7751,3337,1,MassGIS,-71.10793,42.31986
+S0346,Central Hill Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,3026.4,0.748,347,8536,3881,1,MassGIS,-71.09537,42.38587
+S0347,Kemp Nut Park and Community Garden,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,3007.1,0.743,348,8801,3815,1,MassGIS,-71.09381,42.38696
+S0348,Tufts Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,2991.4,0.739,349,3368,2714,1,Boston (gap-fill),-71.05152,42.35349
+S0349,Chester Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,2967.1,0.733,350,17398,8459,2,MassGIS,-71.0793,42.33812
+S0350,Alewife Brook Parkway,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,2957.5,0.731,351,5471,2676,1,MassGIS,-71.14152,42.3946
+S0351,Paris Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1912.0,2935.6,0.725,352,12374,5478,1,MassGIS,-71.03703,42.37208
+S0352,Adams Park,Boston,Park,City,City of Boston,City,agree,False,Y,1919.0,2930.9,0.724,353,4829,2123,1,MassGIS,-71.12855,42.28637
+S0353,Parley Vale Preserve,Boston,Park,Private,Private,,municipal only,True,Y,,2929.7,0.724,354,5502,2702,1,Boston (gap-fill),-71.11303,42.31511
+S0354,Dennis Street Park,Boston,Park,City,City of Boston,City,agree,False,Y,,2870.0,0.709,355,8132,3063,1,MassGIS,-71.07496,42.32257
+S0355,State House Grounds,Boston,Park,State,Commonwealth of Massachusetts,,no municipal match,False,Y,,2839.4,0.702,356,11671,7334,1,MassGIS,-71.0632,42.35903
+S0356,O'Day Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,2834.7,0.7,357,16761,9375,1,MassGIS,-71.07532,42.34071
+S0357,Wellesley Park,Boston,Park,City,City of Boston,City,agree,False,Y,,2834.4,0.7,358,7374,2606,1,MassGIS,-71.06579,42.2959
+S0358,Pier 10 Park,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,,no municipal match,False,Y,,2769.3,0.684,359,5,1,1,MassGIS,-71.02629,42.34485
+S0359,Somerville Junction Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,2755.5,0.681,360,7815,3649,1,MassGIS,-71.10403,42.39118
+S0360,Garden of Peace,Boston,"Square, Plaza & Mall",State,Commonwealth of Massachusetts,,municipal only,False,Y,,2746.1,0.679,361,10250,6669,1,Boston (gap-fill),-71.06201,42.36011
+S0361,Adams/King Playground,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,,2741.6,0.677,362,8165,3221,1,Boston (gap-fill),-71.05676,42.29361
+S0362,Edward J Cooper Memorial Community Garden,Boston,Community Garden,Nonprofit / institutional,EDWARD J COOPER COMMUNITY GARDENING AND EDUCATION CENTER INC,,no municipal match,True,L,,2718.9,0.672,363,5421,2344,1,MassGIS,-71.09387,42.32778
+S0363,Morse-Kelley Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,2717.8,0.672,364,8463,3872,1,MassGIS,-71.11053,42.38794
+S0364,Lambert Avenue Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,2695.9,0.666,365,5198,2317,1,MassGIS,-71.09067,42.3272
+S0365,Charlestown Naval Shipyard Park II,Boston,Park,Private,MGH Institute of Health,,no municipal match,True,X,,2644.1,0.653,366,4615,2462,1,MassGIS,-71.05368,42.37477
+S0366,Buckley Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1952.0,2628.3,0.649,367,8535,4379,1,MassGIS,-71.04912,42.33933
+S0367,Museum Wharf (Childrens Museum),Boston,"Parkway, Reservation & Waterfront",Nonprofit / institutional,BOSTON CHILDRENS MUSEUM,,no municipal match,True,Y,,2626.1,0.649,368,3149,2723,1,MassGIS,-71.0499,42.35183
+S0368,VFW Parkway II,Boston,Park,City,City of Boston,,municipal only,False,Y,,2616.4,0.647,369,1611,557,1,Boston (gap-fill),-71.13383,42.29667
+S0369,William Dawes Field,Cambridge,Playground & Athletic Field,Private,POPS,,municipal only,True,Y,,2610.5,0.645,370,4551,2613,1,Cambridge (gap-fill),-71.07317,42.37301
+S0370,The Dog Run at Child Street Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,2587.6,0.639,371,4388,2459,1,Cambridge (gap-fill),-71.07219,42.37172
+S0371,Charles River Reservation,Cambridge,"Parkway, Reservation & Waterfront",City,City of Cambridge,City,agree,False,Y,,2558.9,0.632,372,5412,3161,1,MassGIS,-71.07469,42.36836
+S0372,Peter Looney Park,Boston,Park,City,City of Boston,City,agree,False,Y,1912.0,2546.8,0.629,373,6379,2980,1,MassGIS,-71.06556,42.37419
+S0373,Corbett-McKenna Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,2509.8,0.62,374,7185,3328,1,MassGIS,-71.09331,42.38109
+S0374,McMath Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,2494.6,0.616,375,7174,3406,1,MassGIS,-71.12742,42.3901
+S0375,Cedar Square Park,Boston,Park,City,City of Boston,City,agree,False,Y,,2491.3,0.616,376,5896,2521,1,MassGIS,-71.08954,42.3248
+S0376,Copps Hill Terrace,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1893.0,2474.7,0.612,377,10818,6960,1,MassGIS,-71.05527,42.36766
+S0377,Kendall Square Rooftop Park (UP - Urban Park),Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,2409.5,0.595,378,3698,1874,1,Cambridge (gap-fill),-71.08663,42.36312
+S0378,Broad Canal Walkway,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,2379.9,0.588,379,4214,2421,1,Cambridge (gap-fill),-71.08177,42.36265
+S0379,Wood Island Bay Edge Park,Boston,Park,State,Massport,,municipal only,False,Y,,2376.3,0.587,380,2777,1144,1,Boston (gap-fill),-71.01669,42.38038
+S0380,Ryan Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1960.0,2356.3,0.582,381,8580,3770,1,MassGIS,-71.05623,42.31774
+S0381,Seven Hills Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,2345.4,0.58,382,7295,3543,1,MassGIS,-71.12427,42.39723
+S0382,Aquarium Harborwalk I,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,2319.5,0.573,383,3608,2305,1,Boston (gap-fill),-71.04851,42.35909
+S0383,Shubow Park,Boston,Park,City,City of Boston,City,agree,False,Y,1949.0,2313.4,0.572,384,10855,6073,1,MassGIS,-71.15205,42.34023
+S0384,Washington Elms Tot Lot,Cambridge,Playground & Athletic Field,City,City of Cambridge,,no municipal match,False,Y,,2302.7,0.569,385,7709,3348,1,MassGIS,-71.09541,42.36536
+S0385,Grand Junction Path,Cambridge,"Parkway, Reservation & Waterfront",Private,Private,,municipal only,True,L,,2292.9,0.567,386,4391,1902,1,Cambridge (gap-fill),-71.08982,42.3641
+S0386,Veterans Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,2249.5,0.556,387,8860,4250,1,MassGIS,-71.04037,42.3722
+S0387,Puddingstone Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,2218.5,0.548,388,7646,2953,1,Boston (gap-fill),-71.0839,42.30535
+S0388,Alberico Play Ground,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,2207.1,0.545,389,7789,3673,1,MassGIS,-71.11248,42.36087
+S0389,Centanni Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,2164.4,0.535,390,8069,4486,1,MassGIS,-71.07948,42.36985
+S0390,Stony Brook Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,2161.5,0.534,391,953,330,1,MassGIS,-71.13154,42.26074
+S0391,Quincy Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,2141.9,0.529,392,8589,3161,1,MassGIS,-71.07974,42.31472
+S0392,Kenney Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,2106.8,0.521,393,7122,3420,1,MassGIS,-71.12037,42.39532
+S0393,Hoyt-Sullivan Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,2074.4,0.513,394,7390,3435,1,MassGIS,-71.10151,42.39059
+S0394,Brighton Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,2064.4,0.51,395,5658,2488,1,MassGIS,-71.15366,42.34786
+S0395,Paul Gore-Beecher Streets Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,2055.1,0.508,396,7495,3249,1,MassGIS,-71.1066,42.31845
+S0396,Peters Park II,Boston,Park,City,BRA,,municipal only,False,Y,1974.0,2052.1,0.507,397,12901,7286,1,Boston (gap-fill),-71.06717,42.34296
+S0397,Ramler Park,Boston,Park,City,City of Boston,City,agree,False,Y,,2046.5,0.506,398,11225,5578,1,MassGIS,-71.10072,42.34252
+S0398,Chelsea Creek Beach,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,2045.2,0.505,399,2890,1174,1,MassGIS,-71.01934,42.38648
+S0399,Justice Edward O Gourdin Veterans Memorial Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,2037.5,0.503,400,5017,2454,1,MassGIS,-71.08567,42.3289
+S0400,Mission Hill Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,Y,,2027.5,0.501,401,7639,2912,2,MassGIS,-71.09786,42.33019
+S0401,Symphony Community Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,2017.1,0.498,402,17929,8166,1,MassGIS,-71.08771,42.34486
+S0402,Costa Lopez Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,2014.6,0.498,403,6968,3833,1,MassGIS,-71.08019,42.3679
+S0403,Penniman Road Garden,Boston,Park,City,City of Boston,City,agree,False,Y,1945.0,1993.6,0.493,404,6059,2584,4,MassGIS,-71.13686,42.35544
+S0404,Maria Baldwin Courtyard,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,1992.7,0.492,405,4696,2686,1,Cambridge (gap-fill),-71.07371,42.37238
+S0405,Mt. Bowdoin Green,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1990.8,0.492,406,8251,2931,1,MassGIS,-71.07604,42.30248
+S0406,Dacia-Woodcliff Streets Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1956.8,0.484,407,8650,3038,1,MassGIS,-71.07676,42.31567
+S0407,Sweeney Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1909.0,1939.6,0.479,408,10338,5223,1,MassGIS,-71.05154,42.33717
+S0408,Sumner and Lamson Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1955.0,1937.0,0.479,409,5862,2706,1,MassGIS,-71.03244,42.36594
+S0409,Raymond V. Mellone Park II,Boston,Park,City,City of Boston,,municipal only,False,Y,,1922.8,0.475,410,3725,1486,1,Boston (gap-fill),-71.12762,42.36027
+S0410,Rooftop Garden at 55 Cambridge Parkway,Cambridge,"Parkway, Reservation & Waterfront",Private,Private,,municipal only,True,L,,1911.2,0.472,411,3542,2177,1,Cambridge (gap-fill),-71.07558,42.36587
+S0411,Trum Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,1890.0,0.467,412,7523,3323,1,MassGIS,-71.10842,42.39744
+S0412,Carroll Pond Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1921.0,1868.8,0.462,413,2214,953,1,MassGIS,-71.15978,42.25637
+S0413,Savin-Maywood Streets Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1861.4,0.46,414,8156,3061,1,MassGIS,-71.07937,42.31606
+S0414,Riverway V,Boston,"Parkway, Reservation & Waterfront",City,City of Boston,,municipal only,False,Y,,1817.2,0.449,415,6302,2759,1,Boston (gap-fill),-71.11035,42.33831
+S0415,Southwest Corridor Park,Boston,"Parkway, Reservation & Waterfront",State,Massachusetts Bay Transit Authority,State,agree,False,Y,,1807.3,0.447,416,4945,2555,3,MassGIS,-71.11055,42.30173
+S0416,Amatucci Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1958.0,1807.2,0.447,417,2703,1193,1,MassGIS,-71.12645,42.24858
+S0417,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,1806.0,0.446,418,5346,2588,1,Cambridge (gap-fill),-71.14053,42.39329
+S0418,Porter Square,Cambridge,"Square, Plaza & Mall",State,State,,municipal only,False,Y,,1806.0,0.446,418,7674,3830,1,Cambridge (gap-fill),-71.11917,42.38824
+S0419,1 Rogers Street,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,1794.6,0.443,420,3840,2316,1,Cambridge (gap-fill),-71.07725,42.36601
+S0420,New England Holocaust Memorial,Boston,Park,City,City of Boston,City,agree,False,Y,2025.0,1788.2,0.442,421,9330,5972,1,MassGIS,-71.0572,42.36111
+S0421,Poplar Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,1951.0,1764.8,0.436,422,4457,1818,1,Boston (gap-fill),-71.12642,42.28079
+S0422,South Street Community Garden,Boston,Community Garden,State,Commonwealth of Massachusetts,,no municipal match,False,L,,1752.7,0.433,423,3419,1699,1,MassGIS,-71.11618,42.30145
+S0423,McLean Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1917.0,1742.6,0.431,424,3166,1286,1,MassGIS,-71.01924,42.38269
+S0424,Penniman Road Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1945.0,1738.8,0.43,425,6059,2628,3,MassGIS,-71.13712,42.35496
+S0425,Grimmons Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,1738.0,0.429,426,4356,1759,1,MassGIS,-71.08846,42.39736
+S0426,Clarendon Avenue Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,1730.6,0.428,427,6318,3104,3,MassGIS,-71.13248,42.39979
+S0427,South Street Mall and Courts,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,1708.6,0.422,428,5404,2676,1,MassGIS,-71.11513,42.30792
+S0428,India Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,1683.0,0.416,429,3268,2238,1,Boston (gap-fill),-71.0496,42.35782
+S0429,Leyland Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1670.8,0.413,430,6911,2448,2,MassGIS,-71.0707,42.32099
+S0430,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,1670.3,0.413,431,3844,1829,1,Cambridge (gap-fill),-71.14232,42.38962
+S0431,Dickerman Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,1665.3,0.412,432,8251,3889,1,MassGIS,-71.11154,42.38656
+S0432,Lucerne-Balsam Streets Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1664.8,0.411,433,7434,2545,2,MassGIS,-71.08804,42.28694
+S0433,Union Park Street Playground,Boston,Playground & Athletic Field,City,Boston Water & Sewer Commission,,municipal only,False,Y,,1658.2,0.41,434,5994,3318,1,Boston (gap-fill),-71.06556,42.33951
+S0434,The Garden,Boston,Community Garden,Nonprofit / institutional,Gardens for Charlestown,,no municipal match,True,Y,,1651.6,0.408,435,3070,1636,1,MassGIS,-71.07152,42.38297
+S0435,Fulmore Park,Cambridge,Park,City,City,,municipal only,False,Y,,1647.5,0.407,436,7827,2648,1,Cambridge (gap-fill),-71.10647,42.35721
+S0436,Southwest Corridor Park,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,1641.5,0.406,437,4302,2234,1,MassGIS,-71.11485,42.30226
+S0437,Mount Pleasant Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,1612.9,0.399,438,5709,2299,1,MassGIS,-71.07917,42.32713
+S0438,Coppens Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1612.7,0.399,439,9305,3378,1,MassGIS,-71.06434,42.30837
+S0439,Baker Chocolate Factory,Boston,Park,State,DCR - Division of State Parks and Recreation,,no municipal match,False,X,,1604.6,0.397,440,2949,1647,1,MassGIS,-71.0684,42.27174
+S0440,St James Street Park,Boston,Park,City,City of Boston,,municipal only,False,Y,1966.0,1590.1,0.393,441,5661,2424,1,Boston (gap-fill),-71.08516,42.3269
+S0441,Point Park & Galaxy Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,1582.6,0.391,442,3830,2028,1,Cambridge (gap-fill),-71.08441,42.3625
+S0442,Charles Hotel Courtyard,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,1578.2,0.39,443,4209,938,1,Cambridge (gap-fill),-71.12318,42.37208
+S0443,Bailey Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,1573.0,0.389,444,8002,3752,1,MassGIS,-71.10903,42.38802
+S0444,Hillside St. Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,1564.2,0.387,445,4368,1784,1,MassGIS,-71.12615,42.28083
+S0445,Larch Road Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,1563.4,0.386,446,2637,1242,1,MassGIS,-71.14274,42.3792
+S0446,15-25 Cross Street East,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,1554.2,0.384,447,5350,2190,3,MassGIS,-71.08519,42.38921
+S0447,Portal Park,Boston,"Square, Plaza & Mall",Private,Owner Unknown,State,differs,True,Y,,1545.3,0.382,448,10099,6760,1,MassGIS,-71.06039,42.36622
+S0448,Mahoney Park,Boston,Park,City,City of Boston,,municipal only,False,Y,2020.0,1542.2,0.381,449,6182,3247,1,Boston (gap-fill),-71.05138,42.342
+S0449,Ringgold Park,Boston,Park,City,City of Boston,City,agree,False,Y,1965.0,1520.9,0.376,450,13979,7845,1,MassGIS,-71.07013,42.34323
+S0450,Quincy-Stanley Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1955.0,1519.1,0.375,451,8348,3061,1,MassGIS,-71.06878,42.31104
+S0451,Union Square Plaza,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,1515.9,0.375,452,6796,3169,1,Somerville (gap-fill),-71.09511,42.37962
+S0452,Lafayette Square,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,1502.7,0.371,453,9533,4181,1,Cambridge (gap-fill),-71.09992,42.36338
+S0453,Forbes Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1501.8,0.371,454,7870,3298,1,MassGIS,-71.10772,42.3216
+S0454,Erie-Ellington Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,1499.1,0.37,455,6857,2573,3,MassGIS,-71.08346,42.3013
+S0455,Union Park,Boston,Park,City,City of Boston,City,agree,False,Y,,1491.2,0.368,456,15154,8560,1,MassGIS,-71.07143,42.34284
+S0456,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,1489.8,0.368,457,7230,2044,1,Cambridge basemap plaza,-71.09749,42.3609
+S0457,Stonehill Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,1479.4,0.366,458,2122,828,1,Boston (gap-fill),-71.14096,42.25486
+S0458,Gilman Square,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,1453.8,0.359,459,8321,3721,1,Somerville (gap-fill),-71.09556,42.38784
+S0459,Stanley-Bellevue Park,Boston,Park,City,City of Boston,City,agree,False,Y,,1449.1,0.358,460,8410,3122,1,MassGIS,-71.06787,42.31127
+S0460,Cardinal Cushing Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,1439.6,0.356,461,10778,7062,1,MassGIS,-71.06243,42.36163
+S0461,Codman Square Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,2025.0,1419.2,0.351,462,7033,2655,1,MassGIS,-71.07108,42.29042
+S0462,MaxPac Square,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,1408.1,0.348,463,7616,3487,1,Somerville (gap-fill),-71.10732,42.39371
+S0463,Kendall Square,Cambridge,"Square, Plaza & Mall",City,Cambridge,,municipal only,False,Y,,1387.5,0.343,464,3717,1898,1,Cambridge (gap-fill),-71.08591,42.36266
+S0464,Fulmore Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,,no municipal match,False,Y,,1380.4,0.341,465,8016,2731,1,MassGIS,-71.10668,42.35733
+S0465,Elm Hill Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,1378.7,0.341,466,8680,3337,1,MassGIS,-71.08214,42.31291
+S0466,South St Farm,Somerville,Park,City,assumed,,municipal only,False,Y,,1377.9,0.34,467,7326,3696,1,Somerville (gap-fill),-71.09256,42.37497
+S0467,Nonquit Street Green,Boston,Park,City,City of Boston,,municipal only,False,Y,2022.0,1377.7,0.34,468,7708,2762,1,Boston (gap-fill),-71.0683,42.31809
+S0468,Columbia Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,1373.2,0.339,469,3903,1977,1,Boston (gap-fill),-71.02566,42.33307
+S0469,Centre Street II,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,1373.1,0.339,470,1430,465,1,Boston (gap-fill),-71.12996,42.29792
+S0470,Harris Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,1362.3,0.337,471,3660,1520,1,MassGIS,-71.084,42.39039
+S0471,Pope John Paul II Park II,Boston,"Parkway, Reservation & Waterfront",State,MBTA,,municipal only,False,Y,,1341.9,0.332,472,1375,721,1,Boston (gap-fill),-71.03894,42.28583
+S0472,Assembly Square Block 2A Plaza,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,1333.0,0.329,473,1753,1053,1,Somerville (gap-fill),-71.07958,42.39556
+S0473,Osgood Park and Community Garden,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,1331.8,0.329,474,6974,3462,1,MassGIS,-71.10217,42.38367
+S0474,Dudley Town Common,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1313.0,0.324,475,5552,2155,1,MassGIS,-71.07556,42.32648
+S0475,Paine Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,1309.1,0.323,476,10548,5094,1,MassGIS,-71.10149,42.37101
+S0476,Lois Lilley Howe Event Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,1306.4,0.323,477,6158,3540,1,Cambridge (gap-fill),-71.07621,42.37134
+S0477,Walnut Park Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1927.0,1305.5,0.323,478,7704,3251,1,MassGIS,-71.0942,42.31444
+S0478,Leyland St. Park,Boston,Park,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,Y,,1297.2,0.321,479,7108,2513,2,MassGIS,-71.07107,42.32074
+S0479,Centre Street IV,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,1277.7,0.316,480,1419,442,1,Boston (gap-fill),-71.12946,42.29876
+S0480,Sharon's Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,2009.0,1274.4,0.315,481,6850,3264,1,Boston (gap-fill),-71.05557,42.32143
+S0481,Medeiros Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,1267.7,0.313,482,10266,4671,1,MassGIS,-71.09651,42.37062
+S0482,Stony Brook Sewer Easement,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,1265.7,0.313,483,15871,5328,1,Boston (gap-fill),-71.0916,42.34112
+S0483,Charles Hotel Plaza,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,1263.2,0.312,484,4981,937,1,Cambridge (gap-fill),-71.12243,42.37221
+S0484,Lexington Street Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,1262.8,0.312,485,8751,3898,1,MassGIS,-71.11382,42.39445
+S0485,Union Square Plaza I,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,1259.7,0.311,486,7896,3638,1,Boston (gap-fill),-71.1375,42.3533
+S0486,Scarmella / Maverick Square,Boston,"Square, Plaza & Mall",State,Commonwealth of Massachusetts,,no municipal match,False,Y,,1257.1,0.311,487,10563,5258,1,MassGIS,-71.03929,42.36943
+S0487,Joslin Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1246.1,0.308,488,5292,1905,1,MassGIS,-71.10872,42.33838
+S0488,Monsignor Reynolds Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,1238.1,0.306,489,12095,6832,1,MassGIS,-71.07062,42.34042
+S0489,Clarendon Tot Lot,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1975.0,1237.4,0.306,490,7114,4795,1,MassGIS,-71.07656,42.35277
+S0490,Shady Hill Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,,no municipal match,False,Y,,1233.1,0.305,491,6287,3084,1,MassGIS,-71.10882,42.37944
+S0491,Quincy/Coleman Garden,Boston,Community Garden,Nonprofit / institutional,Dorchester Gardenlands,,no municipal match,True,L,,1216.2,0.301,492,9162,3339,1,MassGIS,-71.0661,42.30857
+S0492,Granada Park Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1212.8,0.3,493,7103,3061,1,MassGIS,-71.09876,42.31273
+S0493,Walnut Street Park and Community Garden,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,1207.7,0.298,494,7078,3407,1,MassGIS,-71.09682,42.38191
+S0494,Mary Conlan Park,Cambridge,Park,City,City,,municipal only,False,Y,,1206.2,0.298,495,7626,2851,1,Cambridge (gap-fill),-71.12035,42.37841
+S0495,Brattle Square,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,1205.9,0.298,496,6937,1270,1,Cambridge (gap-fill),-71.12082,42.37347
+S0496,Symphony Road Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,1205.8,0.298,497,17105,6869,1,MassGIS,-71.08936,42.34295
+S0497,Spaulding Rehabilitation Plaza,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,1202.8,0.297,498,2156,1132,1,Boston (gap-fill),-71.05035,42.37953
+S0498,Oreilly Playground,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,1192.9,0.295,499,9672,4417,1,MassGIS,-71.06019,42.37866
+S0499,Dudley Town Common,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1191.0,0.294,500,6546,2514,1,MassGIS,-71.07501,42.32491
+S0500,Louisburg Square,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,L,,1190.4,0.294,501,9836,6353,1,MassGIS,-71.06874,42.35839
+S0501,Faneuil Dream Garden,Boston,Community Garden,City,City of Boston,,no municipal match,False,Y,,1189.2,0.294,502,3769,1529,1,MassGIS,-71.15275,42.3563
+S0502,ICA Pier Walk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,1184.2,0.293,503,2799,2467,1,Boston (gap-fill),-71.04338,42.35286
+S0503,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,1177.9,0.291,504,3065,1150,1,Cambridge basemap plaza,-71.09109,42.36231
+S0504,40 Thorndike Open Space,Cambridge,"Square, Plaza & Mall",Other public,,,municipal only,False,Y,,1177.0,0.291,505,7622,4212,1,Cambridge (gap-fill),-71.07967,42.36902
+S0505,Tobin Community Center Garden,Boston,Community Garden,City,City of Boston,,no municipal match,False,Y,,1175.9,0.291,506,9591,3212,1,MassGIS,-71.09798,42.33287
+S0506,Prescott Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1175.8,0.291,507,8792,3185,1,MassGIS,-71.03092,42.38107
+S0507,Cutillo Park,Boston,Park,City,City of Boston,City,agree,False,Y,1917.0,1171.5,0.289,508,12837,8204,1,MassGIS,-71.05642,42.36356
+S0508,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,1152.0,0.285,509,5784,3184,1,Cambridge basemap plaza,-71.08147,42.36603
+S0509,James Hayes Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,1146.8,0.283,510,14973,8623,1,MassGIS,-71.07549,42.34376
+S0510,Wilder Lee St Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,1145.9,0.283,511,10758,5789,1,MassGIS,-71.10507,42.37023
+S0511,Plaza Betances,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,1142.8,0.282,512,15827,9016,1,MassGIS,-71.07339,42.34196
+S0512,Polcari Park,Boston,Park,City,City of Boston,City,agree,False,Y,1897.0,1133.6,0.28,513,12937,8218,1,MassGIS,-71.05445,42.36502
+S0513,Worcester Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1126.0,0.278,514,12221,6316,1,MassGIS,-71.07473,42.33669
+S0514,Parcel W Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,1121.3,0.277,515,5400,3130,1,Cambridge (gap-fill),-71.07528,42.37204
+S0515,Oak Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1948.0,1098.6,0.271,516,5591,2388,2,MassGIS,-71.16808,42.35086
+S0516,Alden Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,1097.7,0.271,517,7696,3724,1,MassGIS,-71.11641,42.38285
+S0517,Frieda Garcia Children's Park,Boston,Park,City,City of Boston,City,agree,False,Y,2013.0,1095.3,0.271,518,9780,5969,1,MassGIS,-71.07333,42.34823
+S0518,Gannett Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,1093.9,0.27,519,6749,3464,1,MassGIS,-71.08957,42.37285
+S0519,Reverend Romano Simoni Skating Rink,Somerville,Playground & Athletic Field,State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,1090.4,0.269,520,6013,3304,1,MassGIS,-71.08438,42.37348
+S0520,Silva Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,1083.4,0.268,521,6868,3672,1,MassGIS,-71.08133,42.37073
+S0521,Squirrel Brand Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,1080.6,0.267,522,9973,4481,1,MassGIS,-71.09675,42.36738
+S0522,Reggie Wong Memorial Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,1072.6,0.265,523,8090,4250,1,MassGIS,-71.05869,42.34958
+S0523,Putnam Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,1069.1,0.264,524,12680,4592,1,MassGIS,-71.03306,42.38031
+S0524,Danny Lewin Park,Cambridge,Park,City,Cambridge,,municipal only,False,Y,,1064.7,0.263,525,3701,1787,1,Cambridge (gap-fill),-71.08857,42.36408
+S0525,Parcel V2 Triangle,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,1062.3,0.263,526,6530,3749,1,Cambridge (gap-fill),-71.07656,42.37083
+S0526,Florence Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,1056.2,0.261,527,5521,2599,1,MassGIS,-71.0829,42.38256
+S0527,Leland Street Herb Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,Y,,1055.5,0.261,528,2613,1308,1,MassGIS,-71.11206,42.29669
+S0528,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,1055.0,0.261,529,2139,1082,1,Cambridge (gap-fill),-71.1434,42.38892
+S0529,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,1050.1,0.259,530,3261,1691,1,Cambridge basemap plaza,-71.08401,42.36113
+S0530,Caldwell Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,1038.0,0.256,531,3761,1871,1,MassGIS,-71.07751,42.38558
+S0531,Brunswick-King Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,1028.0,0.254,532,7349,2568,1,MassGIS,-71.07673,42.30865
+S0532,Armenian Heritage Park,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,2012.0,1027.2,0.254,533,7403,4894,1,Boston (gap-fill),-71.05323,42.36089
+S0533,Flaherty Park,Boston,Park,City,City of Boston,,municipal only,False,Y,1909.0,1019.9,0.252,534,6151,3140,1,Boston (gap-fill),-71.05306,42.34187
+S0534,Market St Tot Lot,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,1018.7,0.252,535,8567,3621,1,MassGIS,-71.09428,42.36736
+S0535,Patrick J. Kelly Park,Boston,Park,Private,Private,,municipal only,True,Y,,1018.6,0.252,536,8132,3957,1,Boston (gap-fill),-71.05742,42.37544
+S0536,Commonwealth Tenants Assoc Garden,Boston,Community Garden,City,City of Boston,,no municipal match,False,Y,,1016.5,0.251,537,10233,5366,1,MassGIS,-71.14382,42.34497
+S0537,Seybolt Park,Boston,Park,Nonprofit / institutional,Tufts Medical Center,,no municipal match,True,Y,,1012.5,0.25,538,16040,7391,1,MassGIS,-71.06385,42.35016
+S0538,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,1009.8,0.25,539,5135,2516,1,Cambridge basemap plaza,-71.1414,42.39492
+S0539,Gold Star Mothers Pool,Cambridge,Playground & Athletic Field,City,City,,municipal only,False,Y,,1007.8,0.249,540,8071,3965,1,Cambridge (gap-fill),-71.09062,42.37126
+S0540,A Street Park II,Boston,Park,City,City of Boston,,municipal only,False,Y,,1004.6,0.248,541,4511,2428,1,Boston (gap-fill),-71.05323,42.34389
+S0541,Hurly St/Vfw Playground,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,999.9,0.247,542,7063,3725,1,MassGIS,-71.08303,42.36842
+S0542,Erie-Ellington Sts. Park,Boston,"Square, Plaza & Mall",Nonprofit / institutional,Boston Natural Areas Network,Private,agree,True,Y,,998.3,0.247,543,7874,2921,1,MassGIS,-71.08149,42.30186
+S0543,Deer Street Park,Boston,Park,City,City of Boston,City,agree,False,Y,,997.8,0.247,544,6541,2613,1,MassGIS,-71.05873,42.31101
+S0544,Vellucci Plaza,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,996.2,0.246,545,10196,4769,1,Cambridge (gap-fill),-71.10116,42.37405
+S0545,Kelly Outdoor Skating Rink,Boston,Playground & Athletic Field,State,Massachusetts Bay Transit Authority,,no municipal match,False,Y,,994.8,0.246,546,7392,3131,1,MassGIS,-71.10329,42.31816
+S0546,Winthrop Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,992.1,0.245,547,6687,1175,1,MassGIS,-71.12053,42.37244
+S0547,Sacramento Street Community Garden,Cambridge,Community Garden,City,City of Cambridge,City,agree,False,Y,,990.8,0.245,548,7975,3909,1,MassGIS,-71.11757,42.38278
+S0548,Walden Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Neighborhood Development Corporation of Jamaica Plain,,no municipal match,True,L,,987.8,0.244,549,7881,3171,1,MassGIS,-71.10465,42.32537
+S0549,Marshall Street Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,984.6,0.243,550,7456,3245,1,MassGIS,-71.09408,42.39031
+S0550,Auburn Court,Cambridge,Playground & Athletic Field,Private,Private,,municipal only,True,L,,980.9,0.242,551,9286,4047,1,Cambridge (gap-fill),-71.10262,42.36212
+S0551,Unnamed park,Cambridge,Park,City,City of Cambridge,,no municipal match,False,Y,,974.8,0.241,552,8999,3862,1,MassGIS,-71.09949,42.36315
+S0552,Alberta Virginia Scott Station Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,968.3,0.239,553,6147,3562,1,Cambridge (gap-fill),-71.07661,42.37187
+S0553,Mystic River Reservation,Somerville,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,957.2,0.237,554,3118,1541,1,MassGIS,-71.08425,42.39689
+S0554,Harvard Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,956.7,0.236,555,7976,1620,1,MassGIS,-71.11899,42.37352
+S0555,Elmhurst Street Park,Boston,Park,City,City of Boston,,municipal only,False,Y,2009.0,950.4,0.235,556,6074,2149,1,Boston (gap-fill),-71.07645,42.28937
+S0556,Lewis Mall Harbor Park,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,949.0,0.235,557,5137,2844,1,MassGIS,-71.04165,42.36647
+S0557,Jardin De La Amistad,Boston,Park,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,947.3,0.234,558,5880,2277,1,MassGIS,-71.07545,42.32574
+S0558,Ernst Chery Jr. Playground,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,,946.7,0.234,559,3686,1400,1,Boston (gap-fill),-71.0991,42.27425
+S0559,Childrens Park,Boston,Park,City,City of Boston,City,agree,False,Y,1974.0,946.4,0.234,560,7985,2805,1,MassGIS,-71.07802,42.31056
+S0560,Richardson Park,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,943.6,0.233,561,8763,3760,1,MassGIS,-71.0591,42.31894
+S0561,Mullen Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,943.2,0.233,562,8310,3619,1,MassGIS,-71.05803,42.31928
+S0562,Quincy Square,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,934.8,0.231,563,10589,3166,1,Cambridge (gap-fill),-71.11516,42.37204
+S0563,North Street Veterans Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,934.4,0.231,564,6635,3203,1,MassGIS,-71.13116,42.40639
+S0564,Children's Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,1981.0,922.9,0.228,565,3244,2785,1,Boston (gap-fill),-71.05,42.35207
+S0565,Cooper Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,921.9,0.228,566,11447,6381,1,MassGIS,-71.10786,42.36945
+S0566,Mount Calvary Holy Church Garden,Boston,Park,Nonprofit / institutional,Mt. Cavalry Holy Church of America Inc.,,no municipal match,True,L,,920.4,0.227,567,8604,3192,1,MassGIS,-71.08072,42.31236
+S0567,Perkins Street,Boston,"Parkway, Reservation & Waterfront",State,Commonwealth of Massachusetts,,municipal only,False,Y,,918.7,0.227,568,4008,2127,1,Boston (gap-fill),-71.1186,42.32137
+S0568,Statler Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1925.0,918.4,0.227,569,10124,4863,1,MassGIS,-71.06893,42.35071
+S0569,NoMa Open Space & Walkways,Cambridge,Park,Private,POPS,,municipal only,True,Y,,915.2,0.226,570,4058,2292,1,Cambridge (gap-fill),-71.08236,42.36277
+S0570,Woodstock Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,909.6,0.225,571,6185,3085,1,MassGIS,-71.13397,42.40458
+S0571,Fresh Pond Parkway,Cambridge,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,906.6,0.224,572,2353,1125,1,MassGIS,-71.14128,42.38493
+S0572,Centervale Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1918.0,905.4,0.224,573,7819,2786,1,MassGIS,-71.0636,42.29631
+S0573,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,904.5,0.224,574,3230,1318,1,MassGIS,-71.09345,42.26726
+S0574,Joe Ciampa Memorial Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,903.9,0.223,575,7078,3644,1,MassGIS,-71.03646,42.3658
+S0575,Charles River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,896.4,0.222,576,5251,3226,1,MassGIS,-71.07446,42.35935
+S0576,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,881.3,0.218,577,4912,2802,1,Cambridge (gap-fill),-71.07373,42.36918
+S0577,Hannigan Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,873.6,0.216,578,10271,5177,1,MassGIS,-71.03401,42.3346
+S0578,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,863.6,0.213,579,8769,2690,1,Cambridge basemap plaza,-71.10443,42.35784
+S0579,Easement,Cambridge,Park,Private,Easement,,municipal only,True,Y,,859.5,0.212,580,6016,2794,1,Cambridge (gap-fill),-71.13886,42.39582
+S0580,Unnamed parkway,Cambridge,"Parkway, Reservation & Waterfront",State,State,,municipal only,False,Y,,858.3,0.212,581,2099,1012,1,Cambridge (gap-fill),-71.13965,42.37552
+S0581,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,856.1,0.212,582,3671,1506,1,MassGIS,-71.09457,42.26692
+S0582,Charter Street Park,Boston,Park,City,City of Boston,City,agree,False,Y,1940.0,853.2,0.211,583,10706,6808,1,MassGIS,-71.05323,42.36684
+S0583,Delano Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,835.2,0.206,584,4752,1941,1,Boston (gap-fill),-71.1261,42.27998
+S0584,Beauford Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1965.0,829.8,0.205,585,8087,2841,1,MassGIS,-71.07562,42.31589
+S0585,Greenwood Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,829.7,0.205,586,8425,2895,1,MassGIS,-71.07926,42.29702
+S0586,Powderhouse Square,Somerville,"Square, Plaza & Mall",City,City of Somerville,,no municipal match,False,Y,,825.5,0.204,587,7247,2642,1,MassGIS,-71.11677,42.40115
+S0587,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,821.2,0.203,588,1455,845,1,Cambridge basemap plaza,-71.13262,42.37444
+S0588,Davis Square,Somerville,"Square, Plaza & Mall",City,City of Somerville,,no municipal match,False,Y,,812.7,0.201,589,6811,3290,1,MassGIS,-71.12242,42.39679
+S0589,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,796.3,0.197,590,4339,1788,1,Cambridge basemap plaza,-71.09116,42.36464
+S0590,Commercial Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,787.1,0.194,591,4758,2999,1,Boston (gap-fill),-71.04822,42.3619
+S0591,Bent Street Open Space,Cambridge,Park,Private,Private,,municipal only,True,L,,784.9,0.194,592,5402,3081,1,Cambridge (gap-fill),-71.07917,42.36688
+S0592,Middlesex Park,Somerville,Park,City,assumed,,municipal only,False,Y,,783.9,0.194,593,3580,1772,1,Somerville (gap-fill),-71.08338,42.39288
+S0593,Tufts Community Garden,Somerville,Community Garden,City,assumed,,municipal only,False,Y,,780.0,0.193,594,6962,1944,1,Somerville (gap-fill),-71.12111,42.40354
+S0594,Fenelon Street Playground,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,2005.0,778.6,0.192,595,8220,3053,1,Boston (gap-fill),-71.07959,42.30317
+S0595,Magazine Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,774.3,0.191,596,4925,1882,1,MassGIS,-71.07303,42.32563
+S0596,Brewer/Burroughs Tot Lot,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1973.0,774.2,0.191,597,4791,2294,1,MassGIS,-71.11552,42.31175
+S0597,Amelia Earhart Square,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,768.4,0.19,598,5065,2888,1,Cambridge (gap-fill),-71.07438,42.37107
+S0598,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,764.3,0.189,599,3340,1487,1,Cambridge basemap plaza,-71.08943,42.36292
+S0599,Symphony Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,757.3,0.187,600,6489,2980,1,MassGIS,-71.08267,42.38387
+S0600,BPL Courtyard,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,755.5,0.187,601,10178,6698,1,Boston (gap-fill),-71.07797,42.34944
+S0601,Hunt Playground II,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,,754.3,0.186,602,4502,1647,1,Boston (gap-fill),-71.09703,42.27593
+S0602,Lydon Way Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,751.6,0.186,603,7861,3201,1,MassGIS,-71.06006,42.28876
+S0603,Tunnel Harborwalk,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,,745.0,0.184,604,1073,801,1,Boston (gap-fill),-71.0336,42.34841
+S0604,Holborn Street Totlot,Boston,Park,City,City of Boston,City,agree,False,Y,,740.4,0.183,605,7286,2904,1,MassGIS,-71.0826,42.31538
+S0605,Paula Pina Titus Park,Boston,Park,City,City of Boston,City,agree,False,Y,2017.0,738.0,0.182,606,6350,2631,1,MassGIS,-71.09591,42.32629
+S0606,Whittier Playground,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,732.2,0.181,607,7644,2617,1,MassGIS,-71.08828,42.334
+S0607,Cunningham Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1897.0,727.2,0.18,608,5398,2362,1,MassGIS,-71.14783,42.35005
+S0608,Neponset River Reservation,Boston,"Parkway, Reservation & Waterfront",State,DCR - Division of State Parks and Recreation,,no municipal match,False,Y,,723.0,0.179,609,4649,1752,1,MassGIS,-71.09943,42.26267
+S0609,General Mcarthur Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,718.7,0.178,610,7167,1578,1,MassGIS,-71.1188,42.37461
+S0610,Lincoln Street Green,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,,718.6,0.178,611,8711,4784,1,Boston (gap-fill),-71.05741,42.35271
+S0611,Independence Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,711.3,0.176,612,3132,2430,1,Boston (gap-fill),-71.05123,42.35433
+S0612,St Helena's Park,Boston,Park,City,City of Boston,,municipal only,False,Y,1991.0,707.4,0.175,613,7706,4278,1,Boston (gap-fill),-71.06695,42.34005
+S0613,Otis Street Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,704.8,0.174,614,7441,3100,2,MassGIS,-71.09015,42.38825
+S0614,Reardon Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,,no municipal match,False,Y,,703.1,0.174,615,5175,2189,1,MassGIS,-71.09134,42.36566
+S0615,Beecher St Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,702.9,0.174,616,7002,3042,1,MassGIS,-71.1069,42.31821
+S0616,Cuneo Park,Boston,Park,City,City of Boston,City,agree,False,Y,1969.0,700.5,0.173,617,3705,1542,1,MassGIS,-71.01673,42.38369
+S0617,Carl Barron Plaza,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,683.1,0.169,618,10880,5840,1,Cambridge (gap-fill),-71.10396,42.36537
+S0618,Old City Hall Grounds,Boston,Park,City,City of Boston,,no municipal match,False,Y,,668.5,0.165,619,6148,3610,1,MassGIS,-71.05944,42.3579
+S0619,George Thorndike Angell Memorial Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1957.0,655.1,0.162,620,4130,2590,1,MassGIS,-71.05615,42.3571
+S0620,Somerset Plaza,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,652.7,0.161,621,9037,5809,1,MassGIS,-71.06174,42.35932
+S0621,Pilot House Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,651.6,0.161,622,7190,4548,1,MassGIS,-71.0496,42.36401
+S0622,Foley Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,648.9,0.16,623,3845,1353,1,MassGIS,-71.11809,42.2641
+S0623,Golden Stairs Park,Boston,Park,City,City of Boston,City,agree,False,Y,2008.0,641.2,0.158,624,5136,2447,1,MassGIS,-71.03412,42.36493
+S0624,Tremlett Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,639.8,0.158,625,6771,2416,1,Boston (gap-fill),-71.06751,42.29541
+S0625,Commonwealth Plaza,Boston,"Square, Plaza & Mall",State,MassDOT,,municipal only,False,Y,,634.3,0.157,626,3841,1001,1,Boston (gap-fill),-71.11274,42.35109
+S0626,Perkins Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,631.2,0.156,627,5625,2573,1,MassGIS,-71.08075,42.38518
+S0627,Rutland Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,630.5,0.156,628,17587,9865,3,MassGIS,-71.07852,42.34217
+S0628,Shubow Park II,Boston,Park,City,City of Boston,,municipal only,False,Y,1949.0,629.6,0.156,629,10712,6021,1,Boston (gap-fill),-71.15181,42.34022
+S0629,Newland Street Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,620.8,0.153,630,15742,8438,1,Boston (gap-fill),-71.07596,42.33911
+S0630,Eagle Hill Memorial Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,619.8,0.153,631,8683,3348,1,MassGIS,-71.03984,42.37921
+S0631,Nira Avenue Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,610.5,0.151,632,6329,2779,1,MassGIS,-71.10874,42.3251
+S0632,Ken Kelly Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,606.4,0.15,633,4241,1972,1,MassGIS,-71.09129,42.37835
+S0633,Concord Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,605.2,0.15,634,17337,9576,1,MassGIS,-71.07886,42.34133
+S0634,Wheatland Avenue Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,604.5,0.149,635,6717,2362,1,MassGIS,-71.07613,42.29266
+S0635,Phillips Street Park,Boston,Park,City,City of Boston,City,agree,False,Y,1949.0,601.6,0.149,636,11200,7072,1,MassGIS,-71.0661,42.35919
+S0636,Cronin Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,600.6,0.148,637,11445,5997,1,Cambridge (gap-fill),-71.10657,42.36519
+S0637,Lawn Street Garden,Boston,Community Garden,Private,BACK OF THE HILL COMMUNITY,,no municipal match,True,X,,598.9,0.148,638,7708,3030,2,MassGIS,-71.10597,42.32738
+S0638,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,578.6,0.143,639,3746,990,1,Cambridge basemap plaza,-71.12358,42.37278
+S0639,Winthrop Playground II,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,2025.0,574.2,0.142,640,8033,2855,1,Boston (gap-fill),-71.07596,42.31682
+S0640,Harriet Tubman Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,573.8,0.142,641,15056,8714,1,MassGIS,-71.07784,42.34345
+S0641,Steven P. Odom Serenity Garden,Boston,Park,City,City of Boston,,municipal only,False,Y,2025.0,569.1,0.141,642,6667,2443,1,Boston (gap-fill),-71.08465,42.28174
+S0642,Trolley Square Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,562.5,0.139,643,7052,3339,1,Cambridge (gap-fill),-71.12988,42.39751
+S0643,Velluci Plaza,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,,no municipal match,False,Y,,561.1,0.139,644,9578,4478,1,MassGIS,-71.1015,42.374
+S0644,Jenney Plaza,Boston,"Square, Plaza & Mall",Private,JENNEY BUILDING ASSOCIATES LP,,no municipal match,True,Y,,555.5,0.137,645,4099,2758,1,MassGIS,-71.05329,42.35863
+S0645,Daniel E. O'Connor Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,546.9,0.135,646,1003,431,1,Boston (gap-fill),-71.04048,42.28848
+S0646,Soldiers Monument,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,537.0,0.133,647,4919,2398,1,MassGIS,-71.11578,42.30946
+S0647,Dawes Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,526.7,0.13,648,6253,1693,1,Cambridge (gap-fill),-71.11952,42.37542
+S0648,Concord Square,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,522.4,0.129,649,8174,3820,1,Somerville (gap-fill),-71.09862,42.37664
+S0649,Brookside Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,520.2,0.129,650,6249,2739,1,MassGIS,-71.10434,42.3135
+S0650,Washington/Beech St. Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,518.5,0.128,651,4476,1955,1,MassGIS,-71.13692,42.27821
+S0651,Caldwell Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,1980.0,516.1,0.128,652,3912,1942,1,Boston (gap-fill),-71.07784,42.38537
+S0652,Alvin F. Thompson Memorial Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,515.2,0.127,653,11456,6112,1,Cambridge (gap-fill),-71.10538,42.36498
+S0653,Sullivan Park,Cambridge,Park,Nonprofit / institutional,CAMBRIDGE COLLEGE,Private,agree,True,Y,,512.4,0.127,654,13441,6701,1,MassGIS,-71.11112,42.36856
+S0654,Edgeworth St Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,511.1,0.126,655,8529,4072,1,MassGIS,-71.05811,42.37603
+S0655,City Sq,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,507.7,0.125,656,3833,2034,1,MassGIS,-71.06267,42.37167
+S0656,George Robert White Play Space,Boston,Park,City,City of Boston,City,agree,False,Y,1943.0,506.5,0.125,657,4674,2090,1,MassGIS,-71.09279,42.33033
+S0657,Allen Street Playground and Community Garden,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,503.9,0.125,658,5268,2511,1,MassGIS,-71.09304,42.37765
+S0658,Brattle Square South,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,503.2,0.124,659,6281,1043,1,Cambridge (gap-fill),-71.12107,42.37295
+S0659,Maple Avenue Tot Lot,Cambridge,Playground & Athletic Field,City,City of Cambridge,City,agree,False,Y,,496.2,0.123,660,9555,4704,1,MassGIS,-71.10424,42.37334
+S0660,Amory Street Park,Boston,Park,City,City of Boston,,municipal only,False,Y,2017.0,494.7,0.122,661,7668,3223,1,Boston (gap-fill),-71.09983,42.31963
+S0661,Robert G. Lawson Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,2025.0,494.2,0.122,662,7828,3342,1,Boston (gap-fill),-71.09869,42.31573
+S0662,Frederick Douglass Peace Garden,Boston,Park,City,Boston Planning and Development Agency,,no municipal match,False,X,,492.0,0.122,663,11911,4537,1,MassGIS,-71.0843,42.33654
+S0663,Durrell Playground and Community Garden,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,488.4,0.121,664,5811,2707,1,MassGIS,-71.1102,42.38174
+S0664,Jackson Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,486.9,0.12,665,5952,2825,1,MassGIS,-71.15275,42.34594
+S0665,Puerto Rican Veterans Memorial Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,480.6,0.119,666,13005,7393,1,MassGIS,-71.07126,42.34078
+S0666,Waltham Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,479.2,0.118,667,9143,5052,1,Boston (gap-fill),-71.06775,42.34062
+S0667,Bellevue Street Green,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,476.4,0.118,668,2191,881,1,Boston (gap-fill),-71.14556,42.27639
+S0668,Lopez Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,474.3,0.117,669,9845,4478,1,MassGIS,-71.10516,42.3615
+S0669,Quincy St Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,473.6,0.117,670,6666,3229,1,MassGIS,-71.10099,42.38257
+S0670,Egleston Square Peace Garden,Boston,Community Garden,City,City of Boston,,municipal only,False,Y,2024.0,473.1,0.117,671,7532,3198,1,Boston (gap-fill),-71.09981,42.31454
+S0671,Alvah Kittredge Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,469.7,0.116,672,4503,1996,1,MassGIS,-71.09254,42.32807
+S0672,Union St Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,468.7,0.116,673,8216,4596,1,MassGIS,-71.06689,42.34045
+S0673,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,466.6,0.115,674,5008,1819,1,Cambridge basemap plaza,-71.10749,42.35543
+S0674,Phillips Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,1941.0,466.5,0.115,675,12895,8206,1,Boston (gap-fill),-71.06731,42.36058
+S0675,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,463.4,0.115,676,4999,1716,1,Cambridge basemap plaza,-71.10678,42.35532
+S0676,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,453.1,0.112,677,10470,2909,1,Cambridge basemap plaza,-71.11679,42.37092
+S0677,Sister Mary Veronica Park,Boston,Park,Nonprofit / institutional,Roman Catholic Archdiocese of Boston,City,differs,True,Y,2025.0,450.6,0.111,678,9277,4654,1,MassGIS,-71.05186,42.33363
+S0678,Winthrop Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,449.2,0.111,679,6446,2674,1,MassGIS,-71.08188,42.32613
+S0679,Veterans of Foreign Wars Memorial Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,445.4,0.11,680,11285,6055,1,MassGIS,-71.10575,42.36504
+S0680,Mount Hope Park,Boston,Park,City,City of Boston,,municipal only,False,Y,,442.1,0.109,681,4168,1619,1,Boston (gap-fill),-71.11871,42.28474
+S0681,Edgerly Road Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1991.0,438.6,0.108,682,14606,8127,1,MassGIS,-71.08798,42.34625
+S0682,MaxPac Dog Park,Somerville,Park,City,assumed,,municipal only,False,Y,,437.0,0.108,683,7406,3391,1,Somerville (gap-fill),-71.10707,42.3932
+S0683,Foster Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,1930.0,435.4,0.108,684,10302,6586,1,Boston (gap-fill),-71.05406,42.3674
+S0684,Valenti Square,Boston,"Square, Plaza & Mall",State,Massachusetts Turnpike Authority,,no municipal match,False,Y,,433.9,0.107,685,11278,7422,1,MassGIS,-71.05863,42.36477
+S0685,Childrens Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,432.6,0.107,686,8534,3094,1,MassGIS,-71.07907,42.30927
+S0686,Fanny Lou Hamer Community Garden,Boston,Community Garden,Nonprofit / institutional,Dorchester Gardenlands Preserve,,no municipal match,True,X,,432.5,0.107,687,6898,2441,1,MassGIS,-71.0707,42.29639
+S0687,John W McCormack Memorial Park,Boston,Park,State,DCR - Division of State Parks and Recreation,State,agree,False,Y,,430.5,0.106,688,6950,3215,1,MassGIS,-71.05605,42.32088
+S0688,Hiscock Park,Boston,Park,City,City of Boston,City,agree,False,Y,1991.0,430.3,0.106,689,15516,8850,2,MassGIS,-71.07819,42.34265
+S0689,Plaza at 344 Broadway,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,429.4,0.106,690,10281,5249,1,Cambridge (gap-fill),-71.10321,42.36991
+S0690,Franklin Street Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,425.7,0.105,691,12810,6642,1,MassGIS,-71.11046,42.36772
+S0691,Myrtle St. Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1941.0,425.6,0.105,692,12950,8253,1,MassGIS,-71.0673,42.36064
+S0692,Gibbons Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,424.5,0.105,693,8442,3363,3,MassGIS,-71.09838,42.33117
+S0693,Audrey Jacobs Memorial Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,423.2,0.105,694,7690,2620,1,MassGIS,-71.07358,42.302
+S0694,Middlesex Plaza,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,419.1,0.104,695,3439,1709,1,Somerville (gap-fill),-71.08337,42.39264
+S0695,Spencer Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,419.0,0.104,696,7076,2462,1,MassGIS,-71.07583,42.29377
+S0696,Highland Avenue Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,411.8,0.102,697,4463,1970,1,MassGIS,-71.09278,42.32835
+S0697,325 Binney St: Binney Street Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,410.2,0.101,698,5894,2901,1,Cambridge (gap-fill),-71.08831,42.36676
+S0698,Cook Street Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,410.0,0.101,699,8143,3766,1,MassGIS,-71.06406,42.38087
+S0699,Union Street Park II,Boston,Park,City,City of Boston,City,agree,False,Y,2025.0,410.0,0.101,699,7015,4483,1,MassGIS,-71.05702,42.36051
+S0700,Stone Place Playground,Somerville,"Square, Plaza & Mall",City,City of Somerville,,no municipal match,False,Y,,408.1,0.101,701,6277,2884,1,MassGIS,-71.09467,42.3803
+S0701,Oakview Terrace,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,407.5,0.101,702,6871,3031,1,MassGIS,-71.1092,42.31906
+S0702,Hayes Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,403.6,0.1,703,7644,3657,1,MassGIS,-71.0568,42.37678
+S0703,Smith Center Plaza,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,403.1,0.1,704,8156,1763,1,Cambridge (gap-fill),-71.11846,42.37305
+S0704,Unnamed park,Boston,Park,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,403.0,0.1,705,4612,2008,1,MassGIS,-71.0933,42.32938
+S0705,Pine Street Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,402.8,0.1,706,8004,3696,1,MassGIS,-71.09802,42.36438
+S0706,Commonwealth Tenants Assoc Garden,Boston,Community Garden,City,City of Boston,,no municipal match,False,Y,,401.4,0.099,707,8288,4435,1,MassGIS,-71.14397,42.34749
+S0707,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,393.4,0.097,708,5735,2647,1,Cambridge basemap plaza,-71.13043,42.38798
+S0708,Wilson Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,393.3,0.097,709,11702,6295,1,Boston (gap-fill),-71.14588,42.34101
+S0709,Avon Street Community Garden,Somerville,Community Garden,City,assumed,,municipal only,False,Y,,392.9,0.097,710,6761,3291,1,Somerville (gap-fill),-71.10237,42.38559
+S0710,Bromley Heath Playground,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,388.6,0.096,711,7371,3049,1,MassGIS,-71.1001,42.32379
+S0711,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,383.6,0.095,712,10076,5153,1,Cambridge basemap plaza,-71.10402,42.36405
+S0712,Heath Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,382.2,0.094,713,7065,2723,1,MassGIS,-71.10037,42.32634
+S0713,Rossmore/Steadman Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,381.6,0.094,714,3574,1793,1,MassGIS,-71.10648,42.30481
+S0714,Bay Village Neighborhood Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,380.4,0.094,715,13383,6151,1,Boston (gap-fill),-71.06676,42.34948
+S0715,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,380.1,0.094,716,5515,938,1,Cambridge basemap plaza,-71.12179,42.3726
+S0716,Braddock Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,371.2,0.092,717,14512,8558,1,MassGIS,-71.07885,42.3444
+S0717,Forbes Street Playground,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,,368.9,0.091,718,7696,3255,1,Boston (gap-fill),-71.10604,42.32056
+S0718,Arsenal Square,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,368.1,0.091,719,6751,3116,1,Cambridge (gap-fill),-71.12415,42.37869
+S0719,Smith Center Rear,Cambridge,Park,Private,Private,,municipal only,True,L,,367.9,0.091,720,7995,1631,1,Cambridge (gap-fill),-71.11903,42.37229
+S0720,Piemonte Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,1958.0,362.5,0.09,721,2377,950,1,Boston (gap-fill),-71.1635,42.29111
+S0721,Grove Hall Plaza,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,357.5,0.088,722,9216,3532,1,Boston (gap-fill),-71.08324,42.30913
+S0722,Pier Four Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,357.5,0.088,722,2446,2122,1,Boston (gap-fill),-71.04244,42.35281
+S0723,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,353.8,0.087,724,7422,2853,1,Cambridge basemap plaza,-71.10227,42.35983
+S0724,Miranda Playground,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,,353.6,0.087,725,6762,2587,1,MassGIS,-71.06518,42.31873
+S0725,Field of Dreams Garden,Cambridge,Community Garden,Private,Private,,municipal only,True,L,,349.5,0.086,726,9534,4497,1,Cambridge (gap-fill),-71.1143,42.36609
+S0726,Porter Square Hotel,Cambridge,"Square, Plaza & Mall",Private,Private,,municipal only,True,L,,346.5,0.086,727,6950,3405,1,Cambridge (gap-fill),-71.12062,42.38914
+S0727,Norton-Stonehurst Streets Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,343.1,0.085,728,9427,3368,1,MassGIS,-71.06714,42.30518
+S0728,Watson Park,Boston,Park,City,Boston Planning and Development Agency,City,agree,False,Y,2015.0,340.1,0.084,729,13097,7268,2,MassGIS,-71.06878,42.34371
+S0729,Palmacci Playground,Somerville,Playground & Athletic Field,City,City of Somerville,,no municipal match,False,Y,,335.6,0.083,730,6694,3100,1,MassGIS,-71.10598,42.37989
+S0730,Irish Famine Memorial Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,329.6,0.081,731,5567,3217,1,MassGIS,-71.05862,42.35732
+S0731,Rachel Revere Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,1945.0,325.2,0.08,732,11663,7406,1,Boston (gap-fill),-71.05353,42.36354
+S0732,Federal Reserve Bank Harborwalk,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,325.1,0.08,733,2960,2417,1,Boston (gap-fill),-71.05246,42.35185
+S0733,Union Square Plaza II,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,318.1,0.079,734,6981,3112,1,Boston (gap-fill),-71.13662,42.35374
+S0734,Peggy Hayes Memorial Garden,Cambridge,Community Garden,City,City,,municipal only,False,Y,,316.9,0.078,735,9674,4390,1,Cambridge (gap-fill),-71.10432,42.36191
+S0735,Osgood Park And Garden,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,313.8,0.078,736,6630,3275,1,MassGIS,-71.10257,42.38345
+S0736,Millbrook Park,Somerville,Park,City,assumed,,municipal only,False,Y,,311.2,0.077,737,5745,3086,1,Somerville (gap-fill),-71.087,42.37367
+S0737,North Square,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,310.7,0.077,738,11698,7401,1,MassGIS,-71.05343,42.36381
+S0738,Jeremiah Hurley Memorial Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,308.8,0.076,739,1869,762,1,MassGIS,-71.1324,42.23743
+S0739,Golden Stairs Terrace Park II,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,307.0,0.076,740,5050,2388,1,Boston (gap-fill),-71.03382,42.36498
+S0740,Denton Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,300.9,0.074,741,7753,2756,1,Boston (gap-fill),-71.07238,42.31354
+S0741,Linwood Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,299.3,0.074,742,5302,2256,1,MassGIS,-71.0947,42.32853
+S0742,Rossmore/Stedman Park,Boston,Park,City,City of Boston,,municipal only,False,Y,1977.0,297.7,0.074,743,3610,1820,1,Boston (gap-fill),-71.10665,42.30471
+S0743,Tebroc Street Playlot,Boston,Park,City,City of Boston,,municipal only,False,Y,,297.1,0.073,744,8601,2960,1,Boston (gap-fill),-71.07028,42.30371
+S0744,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,295.0,0.073,745,7096,3614,1,Cambridge basemap plaza,-71.11898,42.38669
+S0745,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,290.8,0.072,746,3021,384,1,Cambridge basemap plaza,-71.09387,42.35963
+S0746,Temple St. Mall,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,288.0,0.071,747,10789,6850,1,MassGIS,-71.06402,42.36046
+S0747,Grain Exchange Plaza,Boston,"Square, Plaza & Mall",Private,X,,no municipal match,True,Y,,287.4,0.071,748,3815,2618,1,MassGIS,-71.05284,42.3584
+S0748,Hanson Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,City,agree,False,Y,1965.0,281.6,0.07,749,13315,7363,1,MassGIS,-71.0702,42.34344
+S0749,Roundhill Street Community Garden,Boston,Community Garden,Nonprofit / institutional,Boston Natural Areas Network,,no municipal match,True,L,,281.3,0.07,750,6768,2884,1,MassGIS,-71.10761,42.32491
+S0750,10 Josephine Street Garden,Boston,Community Garden,Private,Private,,municipal only,True,Y,,279.6,0.069,751,8159,2846,1,Boston (gap-fill),-71.06548,42.30056
+S0751,Community Garden at Glen Park,Somerville,Community Garden,City,City of Somerville,,no municipal match,False,Y,,278.7,0.069,752,5643,2484,1,MassGIS,-71.0858,42.38248
+S0752,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,278.6,0.069,753,6759,3178,1,Cambridge basemap plaza,-71.1274,42.38954
+S0753,Florida Street Reservation,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,275.1,0.068,754,9668,3711,1,Boston (gap-fill),-71.05985,42.29123
+S0754,Broad Street Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,272.1,0.067,755,4263,2823,1,MassGIS,-71.05468,42.35853
+S0755,Broad Canal Walkway Landing,Cambridge,Park,Private,Private,,municipal only,True,L,,267.9,0.066,756,3019,1678,1,Cambridge (gap-fill),-71.07894,42.36273
+S0756,Norton Street Park,Boston,Park,City,City of Boston,,no municipal match,False,Y,,267.6,0.066,757,8080,2860,1,MassGIS,-71.0693,42.30653
+S0757,325 Binney St: Fulkerson Street Plaza,Cambridge,"Square, Plaza & Mall",Private,POPS,,municipal only,True,Y,,264.0,0.065,758,6187,3071,1,Cambridge (gap-fill),-71.08811,42.36747
+S0758,Arcola St. Park,Boston,"Square, Plaza & Mall",Nonprofit / institutional,Boston Natural Areas Network,Private,agree,True,Y,,263.4,0.065,759,6623,2864,1,MassGIS,-71.1086,42.32446
+S0759,Hansen Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,260.5,0.064,760,7285,3422,1,MassGIS,-71.1027,42.39541
+S0760,Public Ground,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,257.8,0.064,761,5055,2189,1,Boston (gap-fill),-71.14989,42.34932
+S0761,Bromley Heath Community Garden,Boston,Community Garden,City,City of Boston,,no municipal match,False,L,,256.6,0.063,762,7320,3044,1,MassGIS,-71.09992,42.32363
+S0762,Starr Lane Park,Boston,"Square, Plaza & Mall",Nonprofit / institutional,Boston Natural Areas Network,Private,agree,True,Y,,251.9,0.062,763,4876,2365,1,MassGIS,-71.1134,42.31263
+S0763,Bonito Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,251.5,0.062,764,2070,770,1,Boston (gap-fill),-70.99905,42.38952
+S0764,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,248.5,0.061,765,3162,1463,1,Cambridge basemap plaza,-71.1523,42.37984
+S0765,Russia Wharf Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,247.8,0.061,766,2909,2360,1,Boston (gap-fill),-71.05203,42.35276
+S0766,O'Donnell Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,246.8,0.061,767,3630,1622,1,Boston (gap-fill),-71.04843,42.29056
+S0767,Temple Street Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,245.8,0.061,768,9905,6312,1,Boston (gap-fill),-71.06346,42.36005
+S0768,Childe Hassam Park,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,1991.0,244.3,0.06,769,11754,7075,1,MassGIS,-71.07473,42.34606
+S0769,Mahoney Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,243.7,0.06,770,7306,3268,1,Boston (gap-fill),-71.10988,42.32191
+S0770,Walnut Park,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,243.2,0.06,771,7893,3301,1,Boston (gap-fill),-71.09588,42.31528
+S0771,Vellucci Park,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,240.1,0.059,772,6714,3464,1,Cambridge (gap-fill),-71.08792,42.37222
+S0772,Williams Sq,Boston,"Square, Plaza & Mall",City,City of Boston,,no municipal match,False,Y,,240.0,0.059,773,2253,786,2,"Boston (gap-fill), MassGIS",-71.11487,42.24608
+S0773,McElroy Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,239.0,0.059,774,11223,5980,1,MassGIS,-71.10614,42.36532
+S0774,Bishop Allen Plaza,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,236.4,0.058,775,7752,3505,1,Cambridge (gap-fill),-71.09823,42.36346
+S0775,Webster Sq,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,236.1,0.058,776,3742,1447,1,MassGIS,-71.12081,42.25795
+S0776,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,234.7,0.058,777,3716,2277,1,Cambridge basemap plaza,-71.07507,42.36624
+S0777,Wilson Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,232.7,0.058,778,5427,2213,1,MassGIS,-71.16513,42.35338
+S0778,Jones Sq,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,225.8,0.056,779,2459,867,1,MassGIS,-71.11369,42.25254
+S0779,Duffie Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,224.0,0.055,780,2450,1068,1,Boston (gap-fill),-71.15303,42.28498
+S0780,Emily Garden,Cambridge,Community Garden,Private,Private,,municipal only,True,L,,223.1,0.055,781,9110,3806,1,Cambridge (gap-fill),-71.10492,42.36004
+S0781,Lincoln Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,221.1,0.055,782,10827,4994,1,Boston (gap-fill),-71.06783,42.35162
+S0782,Henry Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,1913.0,211.1,0.052,783,4306,1864,1,Boston (gap-fill),-71.05604,42.2828
+S0783,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,210.7,0.052,784,7838,1618,1,Cambridge basemap plaza,-71.11823,42.37361
+S0784,George A. Kennedy Square,Cambridge,"Square, Plaza & Mall",City,City,,municipal only,False,Y,,208.8,0.052,785,3369,1789,1,Cambridge (gap-fill),-71.12965,42.37795
+S0785,Aquarium Harborwalk II,Boston,"Square, Plaza & Mall",City,BRA,,municipal only,False,Y,,205.7,0.051,786,3015,1984,1,Boston (gap-fill),-71.05024,42.35833
+S0786,Hanlon Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,199.3,0.049,787,9327,4033,1,MassGIS,-71.10524,42.3342
+S0787,Tubman Square,Cambridge,"Square, Plaza & Mall",City,City of Cambridge,City,agree,False,Y,,196.2,0.048,788,10829,5412,1,MassGIS,-71.10866,42.36376
+S0788,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,190.7,0.047,789,3552,1756,1,Cambridge basemap plaza,-71.08779,42.36383
+S0789,Peabody Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,188.7,0.047,790,6342,2696,1,Boston (gap-fill),-71.06407,42.28601
+S0790,400R Atlantic Avenue Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,185.9,0.046,791,3005,2204,1,Boston (gap-fill),-71.05004,42.35552
+S0791,Fern Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,180.1,0.045,792,5089,2024,1,MassGIS,-71.13324,42.35954
+S0792,Joe's American Harborwalk,Boston,"Square, Plaza & Mall",Private,Private,,municipal only,True,Y,,176.4,0.044,793,6639,4198,1,Boston (gap-fill),-71.05058,42.36187
+S0793,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,174.9,0.043,794,7966,2288,1,Cambridge basemap plaza,-71.10398,42.35759
+S0794,Algonquin Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,157.4,0.039,795,7677,2586,1,Boston (gap-fill),-71.07298,42.29774
+S0795,Endicott Triangle,Boston,"Square, Plaza & Mall",State,Commonwealth of Massachusetts,State,agree,False,Y,,155.5,0.038,796,11981,7728,1,MassGIS,-71.05736,42.36369
+S0796,James Cronin Park,Cambridge,Park,City,City of Cambridge,City,agree,False,Y,,149.1,0.037,797,11030,5760,1,MassGIS,-71.1066,42.36526
+S0797,Bradford Street Play Area,Boston,Playground & Athletic Field,City,City of Boston,,municipal only,False,Y,1954.0,148.3,0.037,798,12824,7170,1,Boston (gap-fill),-71.06901,42.34268
+S0798,Bradford St. Play Area,Boston,Playground & Athletic Field,City,City of Boston,,no municipal match,False,Y,,146.4,0.036,799,12935,7248,1,MassGIS,-71.0691,42.3428
+S0799,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,145.4,0.036,800,7630,1525,1,Cambridge basemap plaza,-71.11828,42.37375
+S0800,Unnamed square,Cambridge,"Square, Plaza & Mall",Unknown,,,municipal only,False,X,,140.9,0.035,801,3109,1431,1,Cambridge basemap plaza,-71.15261,42.37989
+S0801,Woodworth Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,139.9,0.035,802,1912,656,1,Boston (gap-fill),-71.11251,42.25552
+S0802,Tai Tung Park,Boston,Park,City,City of Boston,,municipal only,False,Y,1991.0,135.5,0.033,803,11690,6121,1,Boston (gap-fill),-71.06152,42.34829
+S0803,Public Ground,Boston,Park,City,City of Boston,,no municipal match,False,Y,,134.6,0.033,804,6568,2612,1,MassGIS,-71.08485,42.30556
+S0804,Paul Revere Park,Somerville,Park,City,City of Somerville,,no municipal match,False,Y,,131.5,0.032,805,7938,3597,1,MassGIS,-71.09783,42.39514
+S0805,Zero Quinn Way,Boston,Park,City,City of Boston,,municipal only,False,Y,,129.6,0.032,806,2284,1042,1,Boston (gap-fill),-71.15738,42.28214
+S0806,Union Square Triangle,Somerville,"Square, Plaza & Mall",City,assumed,,municipal only,False,Y,,128.8,0.032,807,6527,3057,1,Somerville (gap-fill),-71.09621,42.3798
+S0807,Dearborn Street Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,118.7,0.029,808,4290,1807,1,Boston (gap-fill),-71.07887,42.32993
+S0808,Charles River Reservation,Boston,"Parkway, Reservation & Waterfront",State,Department of Transportation,,no municipal match,False,Y,,111.8,0.028,809,4884,2960,1,MassGIS,-71.06812,42.36897
+S0809,Essex Square,Boston,"Square, Plaza & Mall",City,City of Boston,City,agree,False,Y,,103.5,0.026,810,5895,2751,1,MassGIS,-71.06995,42.37935
+S0810,Wolf Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,1920.0,92.2,0.023,811,7357,3180,1,Boston (gap-fill),-71.09137,42.31433
+S0811,Theresa Hynes Park Access Easement,Boston,Park,Private,Private,,municipal only,True,Y,,84.6,0.021,812,6691,3258,1,Boston (gap-fill),-71.15398,42.34453
+S0812,Emmel Square,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,74.0,0.018,813,4298,1972,1,Boston (gap-fill),-71.132,42.28736
+S0813,Bay Village Garden,Boston,"Square, Plaza & Mall",City,City of Boston,,municipal only,False,Y,,73.5,0.018,814,11321,5414,1,Boston (gap-fill),-71.06836,42.34913

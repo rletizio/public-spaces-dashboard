@@ -1,0 +1,366 @@
+source,name,detail,acres,excluded
+Boston,Wilson Park,"Malls, Squares & Plazas",0.09718371,
+Boston,Chandler Pond,"Parks, Playgrounds & Athletic Fields",19.0341645,
+Boston,Phillips Street Play Area,"Parks, Playgrounds & Athletic Fields",0.11527569,
+Boston,Foster Street Play Area,"Parks, Playgrounds & Athletic Fields",0.10758407,
+Boston,Rachel Revere Square,"Malls, Squares & Plazas",0.08036249,
+Boston,Tai Tung Park,"Parks, Playgrounds & Athletic Fields",0.03349556,
+Boston,Stony Brook Sewer Easement,"Malls, Squares & Plazas",0.31277194,
+Boston,West Street,Urban Wilds,2.50550925,Boston type=Urban Wilds
+Boston,Williams Square,"Malls, Squares & Plazas",0.03806012,
+Boston,Lawrence Farm,Open Land,41.16174036,Boston type=Open Land
+Boston,Mahoney Square,"Malls, Squares & Plazas",0.06022025,
+Boston,Poplar Street Play Area,"Parks, Playgrounds & Athletic Fields",0.43611806,
+Boston,Delano Park,"Malls, Squares & Plazas",0.20638995,
+Boston,Toll Gate Cemetery,Cemeteries & Burying Grounds,0.90486305,Boston type=Cemeteries & Burying Grounds
+Boston,St James Street Park,"Parks, Playgrounds & Athletic Fields",0.39295102,
+Boston,Puddingstone Park,"Parks, Playgrounds & Athletic Fields",0.54822674,
+Boston,Flaherty Park,"Parks, Playgrounds & Athletic Fields",0.25203993,
+Boston,10 Josephine Street Garden,Community Gardens,0.06909016,
+Boston,Waltham Square,"Malls, Squares & Plazas",0.1184149,
+Boston,Commonwealth Plaza,"Malls, Squares & Plazas",0.15674678,
+Boston,Piemonte Park,"Malls, Squares & Plazas",0.08957449,
+Boston,Duffie Square,"Malls, Squares & Plazas",0.05535158,
+Boston,Chestnut Hill Reservoir,"Parkways, Reservations & Beaches",115.98402625,infrastructure/water
+Boston,Children's Wharf Harborwalk,"Malls, Squares & Plazas",0.2280583,
+Boston,Martin's Park,"Parks, Playgrounds & Athletic Fields",1.12129161,
+Boston,Caldwell Street Play Area,"Parks, Playgrounds & Athletic Fields",0.12752694,
+Boston,Stonehill Park,"Parks, Playgrounds & Athletic Fields",0.36558755,
+Boston,UMass Harborwalk,"Parkways, Reservations & Beaches",13.08642436,
+Boston,Florida Street Reservation,"Malls, Squares & Plazas",0.06797617,
+Boston,Patrick J. Kelly Park,"Parks, Playgrounds & Athletic Fields",0.25171836,
+Boston,First Church Cemetery,Cemeteries & Burying Grounds,0.62835778,Boston type=Cemeteries & Burying Grounds
+Boston,The Rockies,Urban Wilds,0.71451403,Boston type=Urban Wilds
+Boston,Grove Hall Plaza,"Malls, Squares & Plazas",0.08834824,
+Boston,Little Mystic Access Area,"Parks, Playgrounds & Athletic Fields",2.06591106,
+Boston,Peabody Square,"Malls, Squares & Plazas",0.04662536,
+Boston,Daniel E. O'Connor Park,"Malls, Squares & Plazas",0.13515973,
+Boston,Allandale Field,"Parks, Playgrounds & Athletic Fields",2.62654745,
+Boston,Perkins Street,"Parkways, Reservations & Beaches",0.22702084,
+Boston,Chestnut Street,"Parkways, Reservations & Beaches",1.03910543,
+Boston,Temple Street Park,"Malls, Squares & Plazas",0.06073202,
+Boston,American Legion Highway,"Parkways, Reservations & Beaches",6.7274351,
+Boston,Morton Street,"Parkways, Reservations & Beaches",0.76096858,
+Boston,Leo M. Birmingham Parkway,"Parkways, Reservations & Beaches",6.98171863,
+Boston,Rivermoor II,Urban Wilds,1.03369126,Boston type=Urban Wilds
+Boston,Parley Vale Preserve,"Parks, Playgrounds & Athletic Fields",0.72398238,
+Boston,Condor Street Overlook,Urban Wilds,11.31528728,Boston type=Urban Wilds
+Boston,Truman Parkway,"Parkways, Reservations & Beaches",2.71500122,
+Boston,West Austin Rock,Urban Wilds,0.2962652,Boston type=Urban Wilds
+Boston,Arborway Overpass Path,"Parkways, Reservations & Beaches",1.1638573,
+Boston,Newland Street Park,"Parks, Playgrounds & Athletic Fields",0.15340986,
+Boston,Zero Quinn Way,"Parks, Playgrounds & Athletic Fields",0.032029,
+Boston,Fenelon Street Playground,"Parks, Playgrounds & Athletic Fields",0.19241194,
+Boston,Allandale Woods ROW,Urban Wilds,0.16386247,Boston type=Urban Wilds
+Boston,St Helena's Park,"Parks, Playgrounds & Athletic Fields",0.17481017,
+Boston,Ernst Chery Jr. Playground,"Parks, Playgrounds & Athletic Fields",0.23395808,
+Boston,New Charles River Dam,"Parkways, Reservations & Beaches",2.39520863,infrastructure/water
+Boston,Lincoln Street Green,"Malls, Squares & Plazas",0.1775704,
+Boston,Chinatown Park,"Malls, Squares & Plazas",0.84197352,
+Boston,Armenian Heritage Park,"Malls, Squares & Plazas",0.25383744,
+Boston,Dewey Square Parks,"Malls, Squares & Plazas",2.64044105,
+Boston,Federal Reserve Bank Harborwalk,"Malls, Squares & Plazas",0.08032745,
+Boston,Tufts Wharf Harborwalk,"Malls, Squares & Plazas",0.7392419,
+Boston,Russia Wharf Harborwalk,"Malls, Squares & Plazas",0.06122494,
+Boston,North End Park,"Malls, Squares & Plazas",2.82787724,
+Boston,Wharf District Park,"Malls, Squares & Plazas",4.711285,
+Boston,Bay Village Garden,"Malls, Squares & Plazas",0.01815399,
+Boston,Bussey Brook Meadow II,Open Land,1.25775356,Boston type=Open Land
+Boston,Brian Honan Park,"Parks, Playgrounds & Athletic Fields",0.96367731,
+Boston,Mattahunt Woods II,Other Open Land,3.40667399,Boston type=Other Open Land
+Boston,BPL Courtyard,"Malls, Squares & Plazas",0.18670118,
+Boston,Sharon's Park,"Malls, Squares & Plazas",0.3149356,
+Boston,Mattahunt Woods I,Urban Wilds,8.85081444,Boston type=Urban Wilds
+Boston,Algonquin Square,"Malls, Squares & Plazas",0.03890162,
+Boston,Robert G. Lawson Park,"Malls, Squares & Plazas",0.12211594,
+Boston,Hunt Playground II,"Parks, Playgrounds & Athletic Fields",0.18639589,
+Boston,Golden Stairs Terrace Park II,"Malls, Squares & Plazas",0.0758732,
+Boston,Schraffts Centre Harborwalk,"Malls, Squares & Plazas",1.0081182,
+Boston,Roslindale Wetlands Urban Wild,Urban Wilds,9.53063274,Boston type=Urban Wilds
+Boston,Wolf Square,"Malls, Squares & Plazas",0.02279556,
+Boston,Woodworth Square,"Malls, Squares & Plazas",0.03458102,
+Boston,Bremen Street Park II,"Parks, Playgrounds & Athletic Fields",0.00973794,
+Boston,Bussey Brook Meadow I,Urban Wilds,24.6765898,Boston type=Urban Wilds
+Boston,Arborway II,"Parkways, Reservations & Beaches",1.0325828,
+Boston,Pier Four Harborwalk,"Malls, Squares & Plazas",0.08833496,
+Boston,Riverway IV,"Parkways, Reservations & Beaches",1.92234331,
+Boston,Jamaica Pond Park,"Parks, Playgrounds & Athletic Fields",97.73814064,
+Boston,Park Drive II,"Parkways, Reservations & Beaches",1.38265979,
+Boston,Riverway II,"Parkways, Reservations & Beaches",2.36332067,
+Boston,Riverway V,"Parkways, Reservations & Beaches",0.44906556,
+Boston,Centre Street II,"Parkways, Reservations & Beaches",0.3393191,
+Boston,Centre Street I,"Parkways, Reservations & Beaches",2.24977353,
+Boston,Centre Street IV,"Parkways, Reservations & Beaches",0.31575416,
+Boston,Reserved Channel Harborwalk,"Malls, Squares & Plazas",3.18539865,
+Boston,Tunnel Harborwalk,"Malls, Squares & Plazas",0.18410374,
+Boston,Aquarium Harborwalk II,"Malls, Squares & Plazas",0.05082128,
+Boston,India Wharf Harborwalk,"Malls, Squares & Plazas",0.41591293,
+Boston,Rowe's Wharf Harborwalk,"Malls, Squares & Plazas",1.25944134,
+Boston,400R Atlantic Avenue Harborwalk,"Malls, Squares & Plazas",0.04594503,
+Boston,Independence Wharf Harborwalk,"Malls, Squares & Plazas",0.17578444,
+Boston,Commercial Wharf Harborwalk,"Malls, Squares & Plazas",0.19451547,
+Boston,Adams/King Playground,"Parks, Playgrounds & Athletic Fields",0.67749589,
+Boston,Lincoln Square,"Malls, Squares & Plazas",0.05462812,
+Boston,Elmhurst Street Park,"Parks, Playgrounds & Athletic Fields",0.2348563,
+Boston,Dunbarton Woods,Urban Wilds,0.73523219,Boston type=Urban Wilds
+Boston,Joe's American Harborwalk,"Malls, Squares & Plazas",0.04359808,
+Boston,Bradford Street Play Area,"Parks, Playgrounds & Athletic Fields",0.0366524,
+Boston,Shubow Park II,"Parks, Playgrounds & Athletic Fields",0.15557747,
+Boston,Rossmore/Stedman Park,"Parks, Playgrounds & Athletic Fields",0.0735655,
+Boston,Public Ground,"Malls, Squares & Plazas",0.06371687,
+Boston,Tebroc Street Playlot,"Parks, Playgrounds & Athletic Fields",0.07342224,
+Boston,Aquarium Harborwalk I,"Malls, Squares & Plazas",0.57319825,
+Boston,Emmel Square,"Malls, Squares & Plazas",0.01828284,
+Boston,Tremlett Square,"Malls, Squares & Plazas",0.15810029,
+Boston,Bonito Square,"Malls, Squares & Plazas",0.06216135,
+Boston,Raymond V. Mellone Park II,"Parks, Playgrounds & Athletic Fields",0.47515493,
+Boston,Rena Park,"Parks, Playgrounds & Athletic Fields",2.22405521,
+Boston,DeForest Urban Wild,Urban Wilds,1.02382318,Boston type=Urban Wilds
+Boston,ICA Pier Walk,"Malls, Squares & Plazas",0.29264816,
+Boston,Fan Pier Harborwalk,"Malls, Squares & Plazas",1.66181965,
+Boston,Raymond V. Mellone Park I,"Parks, Playgrounds & Athletic Fields",1.08096868,
+Boston,Bay Village Neighborhood Park,"Malls, Squares & Plazas",0.0940145,
+Boston,Denton Square,"Malls, Squares & Plazas",0.07436144,
+Boston,Menino Park,"Parks, Playgrounds & Athletic Fields",1.23669997,
+Boston,Spaulding Rehabilitation Plaza,"Malls, Squares & Plazas",0.29724209,
+Boston,Long Wharf,"Malls, Squares & Plazas",3.90121799,
+Boston,Amory Street Park,"Parks, Playgrounds & Athletic Fields",0.1222465,
+Boston,A Street Park,"Parks, Playgrounds & Athletic Fields",1.36072622,
+Boston,Fort Point Channel Harborwalk,"Malls, Squares & Plazas",1.4139556,
+Boston,Pope John Paul II Park II,"Parkways, Reservations & Beaches",0.33162498,
+Boston,Commercial Point,"Parkways, Reservations & Beaches",2.3815353,
+Boston,Forbes Street Playground,"Parks, Playgrounds & Athletic Fields",0.09115373,
+Boston,Union Park Street Playground,"Parks, Playgrounds & Athletic Fields",0.40978108,
+Boston,Navy Fuel Pier Airport Edge Buffer,"Parks, Playgrounds & Athletic Fields",0.84353927,
+Boston,VFW Parkway I,"Parkways, Reservations & Beaches",12.44233862,
+Boston,VFW Parkway II,"Parks, Playgrounds & Athletic Fields",0.64656821,
+Boston,O'Donnell Square,"Malls, Squares & Plazas",0.06098498,
+Boston,Blue Hill Club Recreation Center,"Parks, Playgrounds & Athletic Fields",3.04202952,
+Boston,Columbia Park,"Parks, Playgrounds & Athletic Fields",0.33933371,
+Boston,Bellevue Street Green,"Malls, Squares & Plazas",0.11772257,
+Boston,Walnut Park,"Malls, Squares & Plazas",0.0601045,
+Boston,Theresa Hynes Park Access Easement,"Parks, Playgrounds & Athletic Fields",0.02090899,
+Boston,Mount Hope Park,"Parks, Playgrounds & Athletic Fields",0.10924642,
+Boston,Henry Square,"Malls, Squares & Plazas",0.05217626,
+Boston,East Boston Greenway Extension,"Parks, Playgrounds & Athletic Fields",1.24142225,
+Boston,Wood Island Bay Edge Park,"Parks, Playgrounds & Athletic Fields",0.58722739,
+Boston,Dearborn Street Square,"Malls, Squares & Plazas",0.02932378,
+Boston,Babson Cookson Tract,Urban Wilds,2.4113522,Boston type=Urban Wilds
+Boston,Nonquit Street Green,"Parks, Playgrounds & Athletic Fields",0.34046588,
+Boston,Mahoney Park,"Parks, Playgrounds & Athletic Fields",0.38110073,
+Boston,Sprague Pond,Urban Wilds,1.19620316,Boston type=Urban Wilds
+Boston,Union Square Plaza I,"Malls, Squares & Plazas",0.31130858,
+Boston,Union Square Plaza II,"Malls, Squares & Plazas",0.07861874,
+Boston,Egleston Square Peace Garden,Community Gardens,0.11690281,
+Boston,Sherrin Woods II,Urban Wilds,1.10639002,Boston type=Urban Wilds
+Boston,Peters Park II,"Parks, Playgrounds & Athletic Fields",0.50712637,
+Boston,Steven P. Odom Serenity Garden,"Parks, Playgrounds & Athletic Fields",0.14063195,
+Boston,Winthrop Playground II,"Parks, Playgrounds & Athletic Fields",0.1418847,
+Boston,Navy Yard Grounds,"Parks, Playgrounds & Athletic Fields",3.58076532,
+Boston,Kennedy Library Harborwalk,"Malls, Squares & Plazas",3.35985728,school/institution
+Boston,Jackson Square Greenway,"Parks, Playgrounds & Athletic Fields",0.91206652,
+Boston,Shirley Eustis House Grounds,"Malls, Squares & Plazas",1.45937492,
+Boston,A Street Park II,"Parks, Playgrounds & Athletic Fields",0.24824965,
+Boston,Garden of Peace,"Malls, Squares & Plazas",0.6786154,
+Boston,Dell Rock II,Urban Wilds,0.04236724,Boston type=Urban Wilds
+Boston,Robert G. Lawson Park II,"Malls, Squares & Plazas",0.01150455,
+Boston,Wellington Green,Open Land,0.05440556,Boston type=Open Land
+Boston,Wellington Common,Open Land,0.04371297,Boston type=Open Land
+Cambridge,Haggerty School,FCODE 3 / School Dep,1.1,FCODE=3
+Cambridge,Vellucci Park,FCODE 14 / City,0.1,
+Cambridge,Carl Barron Plaza,FCODE 6 / City,0.2,
+Cambridge,,FCODE 22 / State,0.4,
+Cambridge,,FCODE 22 / State,0.3,
+Cambridge,MIT Barry Astroturf Field,FCODE 49 / Private,2.3,FCODE=49
+Cambridge,Fort Washington Park,FCODE 1 / City,1.0,
+Cambridge,,FCODE 27 / State,0.0,FCODE=27
+Cambridge,,FCODE 27 / State,0.2,FCODE=27
+Cambridge,MLK School,FCODE 3 / School Dep,3.4,FCODE=3
+Cambridge,Dawes Park,FCODE 14 / City,0.1,
+Cambridge,Arsenal Square,FCODE 14 / City,0.1,
+Cambridge,Aberdeen Ave Median North,FCODE 7 / City,0.4,FCODE=7
+Cambridge,George A. Kennedy Square,FCODE 14 / City,0.1,
+Cambridge,Aberdeen Ave Median South,FCODE 7 / City,0.3,FCODE=7
+Cambridge,,FCODE 27 / State,0.3,FCODE=27
+Cambridge,Mt. Auburn Cemetery,FCODE 5 / Private,40.3,FCODE=5
+Cambridge,Reverend Williams Park,FCODE 1 / City,0.8,
+Cambridge,Easement,FCODE 41 / Easement,0.2,
+Cambridge,Peabody School,FCODE 3 / School Dep,3.6,FCODE=3
+Cambridge,Baldwin School,FCODE 3 / School Dep,0.7,FCODE=3
+Cambridge,Longfellow Building,FCODE 3 / School Dep,1.2,FCODE=3
+Cambridge,,FCODE 22 / State,0.2,
+Cambridge,Fletcher Maynard Academy,FCODE 3 / School Dep,0.8,FCODE=3
+Cambridge,Binney Street Park,FCODE 1 / City,1.2,
+Cambridge,Amigos School,FCODE 3 / School Dep,0.8,FCODE=3
+Cambridge,,FCODE 22 / State,0.9,
+Cambridge,Fulmore Park,FCODE 1 / City,0.4,
+Cambridge,Grand Junction Path,FCODE 41 / Private,0.6,
+Cambridge,Charles Hotel Plaza,FCODE 42 / Private,0.3,
+Cambridge,Graham and Parks School,FCODE 3 / School Dep,2.2,FCODE=3
+Cambridge,Mary Conlan Park,FCODE 1 / City,0.3,
+Cambridge,Town of Belmont Cemetery,FCODE 5 / Belmont,12.1,FCODE=5
+Cambridge,Charles Hotel Courtyard,FCODE 42 / Private,0.4,
+Cambridge,New Riverside Neighborhood Park,FCODE 1 / City,0.8,
+Cambridge,Cambridgeport School,FCODE 3 / School Dep,0.9,FCODE=3
+Cambridge,Charles Park,FCODE 1 / City,0.9,
+Cambridge,,FCODE 22 / State,0.4,
+Cambridge,Henri A. Termeer Square,FCODE 42 / Private,0.8,
+Cambridge,Cambridge Rindge & Latin School,FCODE 3 / School Dep,8.6,FCODE=3
+Cambridge,Morse School,FCODE 3 / School Dep,3.9,FCODE=3
+Cambridge,Bishop Allen Plaza,FCODE 14 / City,0.1,
+Cambridge,1 Rogers Street,FCODE 42 / Private,0.4,
+Cambridge,Rooftop Garden at 55 Cambridge Parkway,FCODE 43 / Private,0.5,
+Cambridge,Kendall Square,FCODE 42 / Cambridge,0.3,
+Cambridge,Pacific Street Open Space,FCODE 1 / City,1.3,
+Cambridge,Alewife Brook Reservation,FCODE 22 / State,0.9,
+Cambridge,Loughrey Walkway,FCODE 1 / City,0.9,
+Cambridge,Trolley Square Park,FCODE 14 / City,0.1,
+Cambridge,One Mifflin Place Walkway,FCODE 44 / Private,0.0,FCODE=44
+Cambridge,Harvard Sq Post Office Walkway,FCODE 44 / Private,0.0,FCODE=44
+Cambridge,One Brattle Square Walkway,FCODE 44 / Private,0.1,FCODE=44
+Cambridge,286 Third St Walkway,FCODE 44 / Private,0.1,FCODE=44
+Cambridge,Arrow Street Walkway,FCODE 44 / Private,0.0,FCODE=44
+Cambridge,Bent Street Open Space,FCODE 41 / Private,0.2,
+Cambridge,University Place Walkway and Arcade,FCODE 44 / Private,0.2,FCODE=44
+Cambridge,Amelia Earhart Square,FCODE 41 / Private,0.2,
+Cambridge,Kendall Square South Plaza Adjunct,FCODE 44 / Private,0.3,FCODE=44
+Cambridge,Kennedy-Longfellow School,FCODE 3 / School Dep,2.3,FCODE=3
+Cambridge,"Timothy J. Toomey, Jr. Park",FCODE 1 / City,2.3,
+Cambridge,303 Third Walkway Access,FCODE 44 / Private,0.1,FCODE=44
+Cambridge,University Park at Landsdowne St,FCODE 41 / nan,0.5,school/institution
+Cambridge,University Park East Walkway,FCODE 42 / nan,0.1,school/institution
+Cambridge,University Park West Walkway,FCODE 42 / nan,0.1,school/institution
+Cambridge,Auburn Court,FCODE 41 / Private,0.2,
+Cambridge,University Park at Massachusetts Ave,FCODE 41 / nan,0.4,school/institution
+Cambridge,University Park Common,FCODE 41 / nan,1.3,school/institution
+Cambridge,Kendall Square Rooftop Park (UP - Urban Park),FCODE 43 / Private,0.6,
+Cambridge,Linear Park,FCODE 1 / City,3.3,
+Cambridge,Cronin Park,FCODE 14 / City,0.1,
+Cambridge,Point Park & Galaxy Park,FCODE 14 / City,0.4,
+Cambridge,Triangle Park,FCODE 1 / City,0.8,
+Cambridge,Lafayette Square,FCODE 6 / City,0.4,
+Cambridge,Plaza at 344 Broadway,FCODE 14 / City,0.1,
+Cambridge,Quincy Square,FCODE 14 / City,0.2,
+Cambridge,Brattle Square,FCODE 6 / City,0.3,
+Cambridge,Brattle Square South,FCODE 14 / City,0.1,
+Cambridge,Smith Center Plaza,FCODE 42 / Private,0.1,
+Cambridge,Field of Dreams Garden,FCODE 13 / Private,0.1,
+Cambridge,Emily Garden,FCODE 13 / Private,0.1,
+Cambridge,Peggy Hayes Memorial Garden,FCODE 13 / City,0.1,
+Cambridge,,FCODE 27 / State,0.1,FCODE=27
+Cambridge,,FCODE 22 / State,0.9,
+Cambridge,Surface Water,FCODE 99 / nan,158.5,FCODE=99
+Cambridge,BB&N Athletic Fields,FCODE 49 / Private,7.2,FCODE=49
+Cambridge,Friends School Field,FCODE 49 / Private,1.4,FCODE=49
+Cambridge,,FCODE 22 / State,1.5,
+Cambridge,Water Treatment Facility,FCODE 99 / nan,4.8,FCODE=99
+Cambridge,,FCODE 22 / State,0.2,
+Cambridge,Gold Star Mothers Pool,FCODE 15 / City,0.2,
+Cambridge,King Open School,FCODE 3 / School Dep,4.6,FCODE=3
+Cambridge,Broad Canal Boardwalk,FCODE 45 / Private,0.2,FCODE=45
+Cambridge,Broad Canal Walkway Landing,FCODE 41 / Private,0.1,
+Cambridge,Broad Canal Boat Dock,FCODE 45 / Private,0.0,FCODE=45
+Cambridge,Broad Canal Walkway,FCODE 42 / Private,0.6,
+Cambridge,South Plaza Park,FCODE 42 / Private,1.2,
+Cambridge,Danny Lewin Park,FCODE 41 / Cambridge,0.3,
+Cambridge,Smith Center Rear,FCODE 41 / Private,0.1,
+Cambridge,University Park at Pacific Street,FCODE 42 / nan,0.1,school/institution
+Cambridge,Alvin F. Thompson Memorial Park,FCODE 6 / City,0.1,
+Cambridge,Porter Square Hotel,FCODE 41 / Private,0.1,
+Cambridge,Porter Square,FCODE 6 / State,0.4,
+Cambridge,Novartis Courtyard,FCODE 42 / POPS,1.4,
+Cambridge,40 Thorndike Open Space,FCODE 42 / nan,0.3,
+Cambridge,Vellucci Plaza,FCODE 6 / City,0.2,
+Cambridge,The Common at CX,FCODE 41 / Private,3.9,
+Cambridge,Kendall/MIT Open Space,FCODE 41 / POPS,1.1,school/institution
+Cambridge,Wheeler Street Open Space,FCODE 41 / POPS,1.0,
+Cambridge,NoMa Open Space & Walkways,FCODE 41 / POPS,0.2,
+Cambridge,87-101 Cambridgepark Dr Multi-use Path,FCODE 41 / POPS,1.0,
+Cambridge,325 Binney St: Open Space,FCODE 41 / POPS,1.4,
+Cambridge,325 Binney St: Binney Street Plaza,FCODE 41 / POPS,0.1,
+Cambridge,325 Binney St: Fulkerson Street Plaza,FCODE 42 / POPS,0.1,
+Cambridge,Alewife Park: Jerry's Pond,FCODE 41 / POPS,9.1,
+Cambridge,Alewife Park: Four Acre Habitat,FCODE 41 / POPS,5.9,
+Cambridge,Maria Baldwin Courtyard,FCODE 42 / POPS,0.5,
+Cambridge,William Dawes Field,FCODE 41 / POPS,0.6,
+Cambridge,Alberta Virginia Scott Station Plaza,FCODE 42 / POPS,0.2,
+Cambridge,Brian P. Murphy Staircase,FCODE 44 / POPS,0.3,FCODE=44
+Cambridge,The Dog Run at Child Street Plaza,FCODE 41 / POPS,0.6,
+Cambridge,Lois Lilley Howe Event Plaza,FCODE 42 / POPS,0.3,
+Cambridge,Pauline Elizabeth Hopkins Lawn & Plaza,FCODE 41 / POPS,1.1,
+Cambridge,Yard at The Foundry,FCODE 44 / POPS,0.1,FCODE=44
+Cambridge,"University Park, Green Street Pocket Park",FCODE 42 / POPS,0.1,school/institution
+Cambridge,Morgan Ave Bike Path (East),FCODE 46 / POPS,0.5,FCODE=46
+Cambridge,Morgan Ave Bike Path (Middle),FCODE 46 / POPS,0.3,FCODE=46
+Cambridge,Morgan Ave Bike Path (West),FCODE 46 / POPS,0.4,FCODE=46
+Cambridge,Parcel W Plaza,FCODE 42 / POPS,0.3,
+Cambridge,Parcel V2 Triangle,FCODE 41 / POPS,0.3,
+Cambridge,100 Binney Through Block Passage,FCODE 44 / POPS,0.3,FCODE=44
+Cambridge,Tobin Montessori School,FCODE 3 / School Dep,4.5,FCODE=3
+Cambridge plazas,,basemap PLAZA,0.020263772829845872,too small
+Cambridge plazas,,basemap PLAZA,0.07184693930790569,
+Cambridge plazas,,basemap PLAZA,0.2594952498438686,
+Cambridge plazas,,basemap PLAZA,1.2455126369185794,
+Cambridge plazas,,basemap PLAZA,0.2846642906070616,
+Cambridge plazas,,basemap PLAZA,1.0428887128237327,
+Cambridge plazas,,basemap PLAZA,0.09392376852344163,
+Cambridge plazas,,basemap PLAZA,0.1429867370678496,
+Cambridge plazas,,basemap PLAZA,0.034825456564546234,
+Cambridge plazas,,basemap PLAZA,0.24951760977951812,
+Cambridge plazas,,basemap PLAZA,0.07289800072029161,
+Cambridge plazas,,basemap PLAZA,0.21339676879269232,
+Cambridge plazas,,basemap PLAZA,0.04321984007368622,
+Cambridge plazas,,basemap PLAZA,0.06141100635147702,
+Cambridge plazas,,basemap PLAZA,0.09722181971215357,
+Cambridge plazas,,basemap PLAZA,0.11195275749186875,
+Cambridge plazas,,basemap PLAZA,0.01366047480147495,too small
+Cambridge plazas,,basemap PLAZA,0.06885466294127371,
+Cambridge plazas,,basemap PLAZA,0.002729024224083807,too small
+Cambridge plazas,,basemap PLAZA,0.20292098788604032,
+Cambridge plazas,,basemap PLAZA,0.05205333099960252,
+Cambridge plazas,,basemap PLAZA,0.035921626717627525,
+Cambridge plazas,,basemap PLAZA,0.05800675466401128,
+Cambridge plazas,,basemap PLAZA,0.019658675291272132,too small
+Cambridge plazas,,basemap PLAZA,0.047132770833799444,
+Cambridge plazas,,basemap PLAZA,0.19675972164793273,
+Cambridge plazas,,basemap PLAZA,0.18886703514199443,
+Cambridge plazas,,basemap PLAZA,0.2910757499848,
+Cambridge plazas,,basemap PLAZA,0.3681439752168087,
+Cambridge plazas,,basemap PLAZA,0.08742751100038688,
+Cambridge plazas,,basemap PLAZA,0.11530477458431203,
+Cambridge plazas,,basemap PLAZA,0.11451763072859096,
+Cambridge plazas,,basemap PLAZA,0.09478636430934316,
+Somerville,Zero New Washington Street Park,,8.502005703681373,
+Somerville,Milk Row Cemetery,,7.497516151238243,cemetery
+Somerville,Sylvester Baxter Riverfront Park,,58.65493162451877,
+Somerville,Concord Square,,1.3888891408326454,
+Somerville,Matignon High School Athletic Field,,44.783615254790135,school/institution
+Somerville,Healey Community Schoolyard,,13.799643348398511,school/institution
+Somerville,Cummings Schoolyard,,4.76739949793173,school/institution
+Somerville,Kennedy Schoolyard,,5.785870248439531,school/institution
+Somerville,Powderhouse School Community Park,,7.014931222108005,school/institution
+Somerville,East Branch Library Lawn,,1.9822358148416301,school/institution
+Somerville,South St Farm,,3.6701410825430085,
+Somerville,Argenziano Schoolyard,,5.5936713100774424,school/institution
+Somerville,Avon Street Community Garden,,1.04507801477936,
+Somerville,Tufts Community Garden,,2.0747174841753857,
+Somerville,Brown Schoolyard,,3.9830745554578115,school/institution
+Somerville,Edgerly Education Center Schoolyard,,2.2160550666788574,school/institution
+Somerville,West Branch Library,,2.3914945391389866,school/institution
+Somerville,Union Square Plaza,,4.028265808676356,
+Somerville,Union Square Triangle,,0.34010934447695246,
+Somerville,Tufts University Triangle Field,,12.65447866227149,school/institution
+Somerville,Tufts University Recreational Field,,136.0539210311204,school/institution
+Somerville,Gilman Square,,3.8681152149567812,
+Somerville,Assembly Square Block 2A Plaza,,3.5482857626406648,
+Somerville,MaxPac Square,,3.7452810706819606,
+Somerville,MaxPac Dog Park,,1.162306449793173,
+Somerville,Middlesex Park,,2.085047863842584,
+Somerville,Middlesex Plaza,,1.1147009492989626,
+Somerville,Art Farm,,22.088438902976627,
+Somerville,East Somerville Community Schoolyard,,16.32763483770133,school/institution
+Somerville,Mystic Housing Development,,44.406410259806364,school/institution
+Somerville,Partners Campus,,49.35663388231864,school/institution
+Somerville,Millbrook Park,,0.8278738370465002,
+Somerville,Central Hill Park,,61.995961846468624,
+Somerville,Central Hill Park Library,,15.062269231626495,school/institution

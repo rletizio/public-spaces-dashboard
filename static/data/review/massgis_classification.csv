@@ -1,0 +1,1293 @@
+city,SITE_NAME,OWNER_TYPE,PRIM_PURP,PUB_ACCESS,OS_TYPE,b_type,GIS_ACRES,excl,cat
+Cambridge,Fresh Pond Golf Course,M,R,Y,,,84.77667487,school/institution,
+Somerville,Osgood Park and Community Garden,M,R,Y,,,0.32908778,,garden
+Somerville,Allen Street Playground and Community Garden,M,B,Y,,,0.12450983,,garden
+Boston,Southwest Corridor Park,S,A,L,,,0.08366126,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.24042175,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.45347508,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.00284702,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01296643,,parkway
+Boston,Southwest Corridor Park,S,R,L,,"Parkways, Reservations & Beaches",0.01549174,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.00467073,,parkway
+Boston,Southwest Corridor Park,S,R,L,,"Parkways, Reservations & Beaches",0.08004311,,parkway
+Boston,Southwest Corridor Park,S,R,L,,"Parkways, Reservations & Beaches",0.08987162,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.07667604,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.06717124,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.04580838,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.72856656,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.21319611,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.62874902,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.39475249,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.06931692,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.03719577,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.02253158,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.05659814,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.01898709,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.04765666,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.08358437,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.29915168,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.01419847,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.00312917,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.02123688,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.00798664,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.04051968,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.04826985,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.07812979,,parkway
+Boston,Hooker-Sorrento Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.00406957,,play
+Boston,Fern Square,M,H,Y,,"Malls, Squares & Plazas",0.04450739,,plaza
+Boston,Cemetery,M,H,Y,,Cemeteries & Burying Grounds,0.66992614,Boston type=Cemeteries & Burying Grounds,
+Boston,Cemetery,N,H,L,,Cemeteries & Burying Grounds,0.92769217,Boston type=Cemeteries & Burying Grounds,
+Boston,Cemetery,N,H,L,,Cemeteries & Burying Grounds,6.03132237,Boston type=Cemeteries & Burying Grounds,
+Boston,Cemetery,N,H,L,,Cemeteries & Burying Grounds,1.77617952,Boston type=Cemeteries & Burying Grounds,
+Boston,Joslin Park,M,O,Y,,"Malls, Squares & Plazas",0.30791067,,plaza
+Boston,The Riverway,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.23396,,park
+Boston,Smith Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",15.02433338,,play
+Boston,Portsmouth Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.26103797,,play
+Boston,Ramler Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.5057023,,park
+Boston,Riverway,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.97486521,,park
+Boston,McLaughlin Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.67966622,,play
+Boston,Lawn Street Garden,P,A,X,,,0.04658258,,garden
+Boston,Lawn Street Garden,P,A,X,,,0.10140624,,garden
+Boston,Gibbons Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.04113708,,play
+Boston,Gibbons Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.03585051,,play
+Boston,Gibbons Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.02790507,,play
+Somerville,Community Path Extension,S,R,Y,,,2.60284624,,parkway
+Somerville,Community Path Extension,S,R,Y,,,1.96908042,,parkway
+Boston,The Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.27029642,,parkway
+Somerville,Nathan Tufts/Powder House Park,M,R,Y,,,4.32129764,,park
+Somerville,Powderhouse Square,M,O,Y,,,0.20398903,,plaza
+Boston,Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.6280456,,parkway
+Boston,Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.21030611,,parkway
+Boston,The Riverway,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.09742008,,park
+Boston,The Riverway,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.89588528,,park
+Boston,The Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.03839548,,parkway
+Boston,The Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.11738363,,parkway
+Boston,Hanlon Square,M,R,Y,,"Malls, Squares & Plazas",0.049244,,plaza
+Boston,Kevin W Fitzgerald Park,N,R,Y,,,6.84808821,,park
+Boston,Parker Hilltop / Parker Hill Meadow CR,P,C,L,,Urban Wilds,1.69675372,purpose=C,
+Boston,The Riverway,M,R,Y,,"Parkways, Reservations & Beaches",0.53149196,,parkway
+Boston,The Riverway,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.15431568,,park
+Boston,Puopolo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.07232852,,play
+Boston,Prince Street Park,S,R,Y,,"Parkways, Reservations & Beaches",1.27468274,,parkway
+Boston,Bremen Street Park,L,R,Y,Conservation Area,"Parks, Playgrounds & Athletic Fields",3.41565927,OS_TYPE=Conservation Area,
+Boston,Bremen Street Park,L,R,Y,Conservation Area,"Parks, Playgrounds & Athletic Fields",0.57430107,OS_TYPE=Conservation Area,
+Boston,Bremen Street Park,L,R,Y,Conservation Area,"Parks, Playgrounds & Athletic Fields",0.56974169,OS_TYPE=Conservation Area,
+Boston,Walden Street Community Garden,B,A,L,,,0.24410217,,garden
+Boston,Market Street Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.39586871,OS_TYPE=Cemetery,
+Boston,South Street Community Garden,S,A,L,,,0.43309383,,garden
+Boston,Phipps Street Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.72665596,OS_TYPE=Cemetery,
+Boston,Bennington Street Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,3.59004081,OS_TYPE=Cemetery,
+Boston,Bunker Hill Burying Ground,M,H,X,Cemetery,Cemeteries & Burying Grounds,1.11144778,OS_TYPE=Cemetery,
+Boston,Rutland/Washington Community Garden,L,A,L,Conservation Area,,0.28184551,OS_TYPE=Conservation Area,
+Boston,Dartmouth Garden,L,C,X,Conservation Area,Open Land,0.03622404,OS_TYPE=Conservation Area,
+Boston,Dartmouth Garden,L,C,X,Conservation Area,Open Land,0.03472043,OS_TYPE=Conservation Area,
+Boston,Warren And Clarendon Streets Garden,L,A,X,Conservation Area,,0.05247394,OS_TYPE=Conservation Area,
+Boston,Worcester Street Community Garden,L,A,X,Conservation Area,,0.56600374,OS_TYPE=Conservation Area,
+Boston,Lenox and Kendall Streets Community Garden,L,A,X,Conservation Area,,0.43453011,OS_TYPE=Conservation Area,
+Cambridge,North Cambridge Catholic Cemetery,N,H,Y,Cemetery,,6.94699362,OS_TYPE=Cemetery,
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",247.9393527,,parkway
+Boston,Shag Rocks Island,F,C,Y,,,0.89813168,purpose=C,
+Cambridge,Charles River Reservation,S,C,Y,,,0.46109572,purpose=C,
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.34401342,,parkway
+Boston,Temple Ohabei Shalom Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,2.42332259,OS_TYPE=Cemetery,
+Boston,Mt Benedict Cemetery,N,H,Y,Cemetery,Cemeteries & Burying Grounds,85.05784359,OS_TYPE=Cemetery,
+Cambridge,AP Cambridge II LLC CR,P,B,Y,,,1.78278266,conservation,
+Cambridge,Mount Auburn Cemetery,P,H,Y,Cemetery,,11.59347883,OS_TYPE=Cemetery,
+Boston,Forest Hill Cemetery,P,H,Y,Cemetery,Cemeteries & Burying Grounds,237.90672963,OS_TYPE=Cemetery,
+Boston,Eliot Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.77230399,OS_TYPE=Cemetery,
+Boston,Nightingale Community Garden,L,A,L,,,1.37050625,,garden
+Boston,Dahlstrom CR,P,C,N,,,0.54871116,purpose=C,
+Boston,Leyland Street Community Garden,L,A,L,,,0.33218731,,garden
+Boston,Bromley Heath Community Garden,M,A,L,,,0.06340892,,garden
+Boston,Commonwealth Pier,P,R,Y,,,11.37690927,,parkway
+Boston,Berkeley Street Community Garden,L,A,L,Conservation Area,,1.10222179,OS_TYPE=Conservation Area,
+Boston,Dahlstrom CR,P,C,N,,,0.18235811,purpose=C,
+Boston,Boston Fish Pier,M,R,L,,,8.174811,,parkway
+Boston,The Graves Island,F,C,Y,,,0.29335318,purpose=C,
+Boston,Little Brewster Island,F,B,Y,,,3.39326917,,park
+Boston,140 Highland Street CR,P,C,N,,"Parks, Playgrounds & Athletic Fields",0.91795649,purpose=C,
+Boston,Roaring Bulls Island,F,C,Y,,,0.04659754,purpose=C,
+Cambridge,Charles River Reservation,S,R,Y,,,2.19474282,,parkway
+Somerville,Durrell Playground and Community Garden,M,R,Y,,,0.12068103,,garden
+Cambridge,Cambridge Cemetery,M,H,Y,Cemetery,,51.20281916,OS_TYPE=Cemetery,
+Boston,Paula Pina Titus Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.18236309,,park
+Boston,Neponset River Reservation,S,B,Y,,,4.24019717,,parkway
+Boston,Codman Square Park,M,H,Y,,"Malls, Squares & Plazas",0.35068858,,plaza
+Boston,Neponset River Reservation,S,B,Y,,,0.35617072,,parkway
+Boston,Neponset River Reservation,S,B,Y,,,0.21154644,,parkway
+Boston,Neponset River Reservation,P,B,Y,,,0.03396836,,parkway
+Boston,Neponset River Reservation,S,B,Y,,,0.85174418,,parkway
+Boston,Neponset River Reservation,S,B,Y,,,0.62771873,,parkway
+Somerville,Kemp Nut Park and Community Garden,M,R,Y,,,0.74308155,,garden
+Boston,Roslindale Wetlands Urban Wild,M,C,Y,,Urban Wilds,0.88942592,purpose=C,
+Boston,Roslindale Wetlands Urban Wild,M,C,Y,,Urban Wilds,1.07239735,purpose=C,
+Cambridge,Sacramento Street Community Garden,M,R,Y,,,0.24483041,,garden
+Boston,Winthrop Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.55762483,,play
+Boston,Martin Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.31390993,,play
+Boston,McCormack Middle School Athletic Fields,M,R,Y,,,2.92519648,school/institution,
+Boston,Paul A Dever Elemetary School Playground,M,R,Y,,,0.65076144,school/institution,
+Boston,Paul A Dever Elemetary School Playground,M,R,Y,,,0.24619802,school/institution,
+Boston,Neponset Valley Parkway,S,C,Y,,,4.74428809,purpose=C,
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.07057863,,parkway
+Boston,Back Of The Hill,M,C,Y,,Urban Wilds,3.73585013,purpose=C,
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.22789753,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.12502531,,parkway
+Boston,Kelly Outdoor Skating Rink,S,R,Y,,,0.24582594,,play
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.70297821,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.18514378,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.07384578,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.17141056,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.0549071,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.12716054,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.10272557,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.24605907,,parkway
+Boston,Laviscount Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.86051669,,park
+Boston,Reverend Doctor Loesch Family Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.25096197,,park
+Boston,Howes Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.86849475,,play
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.03320246,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.57827834,,parkway
+Boston,Southwest Corridor Park,S,R,N,,,0.85822215,no public access,
+Boston,Southwest Corridor Park,M,R,Y,,,0.02287038,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01081104,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.02000123,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.28690357,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.41676179,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",1.15894384,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.55870753,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.62156279,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.08400291,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.90781995,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.08295513,,parkway
+Boston,East Boston Greenway,M,R,Y,,"Parkways, Reservations & Beaches",0.04939056,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.10697172,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.88802339,,parkway
+Boston,Bremen Street Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",4.36398985,,park
+Boston,Bremen Street Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.88682757,,park
+Boston,Bremen Street Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.09728345,,park
+Boston,Bremen Street Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",2.04003767,,park
+Boston,Bremen Street Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",3.54277625,,park
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.00388005,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.02965798,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",2.37774628,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.96179675,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.72545288,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.12527806,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.99513232,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.07033001,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.21469953,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.05668604,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.08528644,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.01855867,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.55691233,,parkway
+Boston,Plaza Betances,M,R,Y,,,0.28240282,,plaza
+Boston,James Hayes Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.28337517,,park
+Boston,Harriet Tubman Square,M,H,Y,,"Malls, Squares & Plazas",0.14177747,,plaza
+Boston,Hiscock Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.04423917,,park
+Boston,Hiscock Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.0620929,,park
+Boston,Rutland Square,M,R,Y,,"Malls, Squares & Plazas",0.05236738,,plaza
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.29655152,,parkway
+Boston,Endicott Triangle,S,R,Y,,"Malls, Squares & Plazas",0.03842828,,plaza
+Somerville,Stone Place Playground,M,R,Y,,,0.10083861,,plaza
+Somerville,Quincy St Park,M,R,Y,,,0.11702527,,park
+Somerville,Osgood Park And Garden,M,R,Y,,,0.07755347,,park
+Somerville,Nunziato Field And Dog Park / Community Growing Center,M,R,Y,,,1.47904844,,play
+Somerville,Glen Park,M,R,Y,,,1.66758523,,park
+Somerville,Paul Revere Park,M,R,Y,,,0.0324948,,park
+Boston,Chandler Pond,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.03087186,,park
+Boston,Cassidy Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",9.60712737,,play
+Boston,Shubow Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.57164222,,park
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03046015,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03986395,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.02540266,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.0800617,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.0168342,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.30307757,,parkway
+Boston,Chandler Pond,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.10781377,,park
+Boston,Rogers Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",8.16723804,,park
+Boston,Hardiman Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.4947214,,play
+Boston,Wilson Square,M,O,Y,,"Malls, Squares & Plazas",0.05749721,,plaza
+Boston,Mckinney Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.89602871,,play
+Boston,Joyce Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.36473962,,play
+Boston,Jackson Square,M,H,Y,,"Malls, Squares & Plazas",0.12031588,,plaza
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03085827,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.11749107,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.19394722,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.1511214,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.1753409,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03724291,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",1.07196757,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,,0.25262432,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",7.55561727,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.14284658,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.08310039,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.31568114,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.07697789,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.05916716,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",6.34933177,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.79445417,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.9046063,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.19490036,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.30787932,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",9.75913615,,parkway
+Boston,Mother Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.5170098,,parkway
+Boston,Cemetery,N,H,L,,Cemeteries & Burying Grounds,0.01777966,Boston type=Cemeteries & Burying Grounds,
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.61340563,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.02494231,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.01038749,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.01944025,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.01902625,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.61300478,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.01803102,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.00719051,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.22505042,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03474839,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.01037494,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.11153694,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.07089852,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.02597603,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.02787388,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.02920583,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.04654136,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03717331,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.03214814,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.16267401,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.40561971,,parkway
+Cambridge,Old Burying Ground,M,H,Y,Cemetery,,1.95784449,OS_TYPE=Cemetery,
+Boston,Hawes Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.24321197,OS_TYPE=Cemetery,
+Boston,Union Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.12031643,OS_TYPE=Cemetery,
+Boston,Fanny Lou Hamer Community Garden,N,A,X,,,0.10688145,,garden
+Boston,Westerly Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.91122646,OS_TYPE=Cemetery,
+Boston,Saint Augustine Burying Ground,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.9645869,OS_TYPE=Cemetery,
+Boston,Goddard House CR,P,C,N,,,0.05408759,purpose=C,
+Boston,Harambee Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",44.7436713,,park
+Boston,St Frances de Sales Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.79959027,OS_TYPE=Cemetery,
+Boston,Common Ground Co-Op Community Garden,L,A,L,Conservation Area,,0.0683187,OS_TYPE=Conservation Area,
+Boston,Bessie Barnes Park,L,R,Y,Conservation Area,"Malls, Squares, & Plazas",0.09629404,OS_TYPE=Conservation Area,
+Boston,Bessie Barnes Community Garden,L,A,Y,Conservation Area,,0.14619575,OS_TYPE=Conservation Area,
+Boston,Museum Wharf (Childrens Museum),N,H,Y,,,0.64891813,,parkway
+Boston,Northampton Community Garden,L,A,L,Conservation Area,,0.22092956,OS_TYPE=Conservation Area,
+Boston,Eagle Hill Memorial Community Garden,L,A,L,,,0.15314643,,garden
+Boston,Symphony Road Community Garden,L,A,L,,,0.29796549,,garden
+Somerville,Walnut Street Park and Community Garden,M,R,Y,,,0.29842579,,garden
+Somerville,Prospect Hill Park,M,H,Y,,,1.67941359,,park
+Boston,Lydon Way Community Garden,L,A,L,,,0.18573667,,garden
+Boston,Lucerne-Balsam Streets Community Garden,L,A,L,,,0.22566308,,garden
+Boston,Lucerne-Balsam Streets Community Garden,L,A,L,,,0.18571688,,garden
+Boston,Nira Avenue Community Garden,L,A,L,,,0.15086908,,garden
+Boston,Roundhill Street Community Garden,L,A,L,,,0.06952086,,garden
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",1.4344343,,parkway
+Boston,Brookside Community Garden,L,A,L,,,0.12855201,,garden
+Boston,Granada Park Community Garden,L,A,L,,,0.29967952,,garden
+Boston,Leyland Street Community Garden Extension,L,A,L,Conservation Area,,0.08185832,OS_TYPE=Conservation Area,
+Boston,Leyland St. Park,L,R,Y,Conservation Area,,0.08085688,OS_TYPE=Conservation Area,
+Boston,Leyland Street Community Garden,L,A,L,Conservation Area,,0.15543229,OS_TYPE=Conservation Area,
+Boston,Leyland Street Community Garden,L,A,L,,,0.08067217,,garden
+Boston,Julian-Judson-Dean Sts. Community Garden,L,A,L,Conservation Area,,0.20548788,OS_TYPE=Conservation Area,
+Boston,Boston Nature Center,L,B,X,Conservation Area,Urban Wilds,0.99975089,OS_TYPE=Conservation Area,
+Boston,Boston Nature Center,L,B,X,Conservation Area,Urban Wilds,0.99941873,OS_TYPE=Conservation Area,
+Boston,Magazine Street Community Garden,L,A,L,,,0.19133037,,garden
+Boston,Winthrop Street Community Garden,L,A,L,,,0.11101054,,garden
+Boston,Dacia-Woodcliff Streets Community Garden,L,A,L,,,0.48352606,,garden
+Boston,Savin-Maywood Streets Community Garden,L,A,L,,,0.45996301,,garden
+Boston,Monadnock St. Community Garden,L,A,L,Conservation Area,,0.21689947,OS_TYPE=Conservation Area,
+Boston,Norton-Stonehurst Streets Community Garden,L,A,L,,,0.08477178,,garden
+Boston,Audrey Jacobs Memorial Community Garden,L,A,L,,,0.10457555,,garden
+Boston,Edward J Cooper Memorial Community Garden,N,A,L,,,0.67185267,,garden
+Boston,Highland Avenue Community Garden,L,A,L,,,0.10174753,,garden
+Boston,Julia-Judson-Dean Sts. Community Garden,L,A,L,Conservation Area,,0.19052329,OS_TYPE=Conservation Area,
+Boston,Forbes Street Community Garden,L,A,L,,,0.37109435,,garden
+Boston,Paul Gore-Beecher Streets Community Garden,L,A,L,,,0.50781696,,garden
+Boston,Minton Stable Community Garden,L,A,L,,,1.2553596,,garden
+Boston,Greenwood Street Community Garden,L,A,L,,,0.20503151,,garden
+Boston,Boston Nature Center,L,B,X,Conservation Area,Urban Wilds,1.00024376,OS_TYPE=Conservation Area,
+Boston,Boston Nature Center,L,C,X,Conservation Area,,3.57124867,OS_TYPE=Conservation Area,
+Boston,Boston Nature Center,L,B,X,Conservation Area,Urban Wilds,62.28616002,OS_TYPE=Conservation Area,
+Boston,Spencer Street Community Garden,L,A,L,,,0.10353284,,garden
+Somerville,Veterans Cemetery,M,H,Y,Cemetery,,0.79098794,OS_TYPE=Cemetery,
+Boston,BNAN Parcel,L,C,Y,Conservation Area,Open Land,0.26540934,OS_TYPE=Conservation Area,
+Boston,Mission Hill Community Garden,O,A,Y,,,0.15980149,,garden
+Boston,Mission Hill Community Garden,L,A,L,,,0.34120462,,garden
+Boston,Saint Rose Street Community Garden,L,A,L,Conservation Area,,0.07984771,OS_TYPE=Conservation Area,
+Boston,Wheatland Avenue Community Garden,L,A,L,,,0.14938388,,garden
+Boston,Neponset River Reservation,S,C,Y,,,0.0584196,purpose=C,
+Cambridge,Charles River Reservation,S,B,Y,,,0.25156863,,parkway
+Boston,60 Paul Gore St. Community Garden,M,A,L,,"Parks, Playgrounds & Athletic Fields",0.75173254,,park
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.95110499,,parkway
+Somerville,Palmer Avenue CR,M,C,Y,,,0.0415944,purpose=C,
+Boston,New Calvary Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,54.57535779,OS_TYPE=Cemetery,
+Cambridge,Charles River Reservation,S,R,Y,,,0.64618454,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,0.09846791,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,0.14190875,,parkway
+Cambridge,Belmont Cemetery,M,H,Y,Cemetery,,4.36028693,OS_TYPE=Cemetery,
+Boston,Lodge CR,P,C,N,,"Parkways, Reservations & Beaches",2.56543156,purpose=C,
+Cambridge,Charles River Reservation,S,B,Y,,,0.88431199,,parkway
+Boston,Steriti Rink,S,R,Y,,,1.23953724,,play
+Boston,Joe Ciampa Memorial Community Garden,L,A,L,,,0.22336453,,garden
+Cambridge,Charles River Reservation,S,C,Y,,,1.18148334,purpose=C,
+Boston,Charles River Reservation,S,B,Y,,"Parks, Playgrounds & Athletic Fields",2.26347991,,park
+Boston,Southwest Corridor Park,S,B,Y,,,0.14256515,,parkway
+Cambridge,Sennott Park,M,R,Y,,,2.53579153,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.65995732,,park
+Boston,Edna V. Bynoe Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.36204232,,park
+Somerville,Morse-Kelley Park,M,R,Y,,,0.67159403,,park
+Boston,City Square Park,S,R,Y,,"Malls, Squares & Plazas",1.41735157,,plaza
+Boston,Clemente Field,M,R,Y,,"Parks, Playgrounds & Athletic Fields",6.88026392,,play
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.32223763,,parkway
+Boston,Charlestown Naval Shipyard Park I,M,R,X,,"Parks, Playgrounds & Athletic Fields",8.47517894,,park
+Boston,John W McCormack Memorial Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10638428,,park
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.10293063,,parkway
+Boston,Back Bay Fens,M,R,Y,,,0.02902799,,park
+Boston,Back Bay Fens,M,R,Y,,,0.09198941,,park
+Boston,King School Park,O,R,Y,,,0.84690583,school/institution,
+Boston,Childrens Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.23386264,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",7.9731743,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.16594424,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.10750526,,parkway
+Boston,Neponset River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.22970154,,parkway
+Boston,Veterans Park,M,H,Y,,,0.55585791,,park
+Boston,Paris Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.72540622,,play
+Boston,Ceylon Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.06782798,,park
+Cambridge,Reverend Romano Simoni Skating Rink,S,R,Y,,,0.78977304,,play
+Cambridge,Reverend Romano Simoni Skating Rink,S,R,Y,,,0.2151204,,play
+Boston,South Street Mall and Courts,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.42221017,,play
+Boston,Neponset River Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",7.18814138,purpose=C,
+Boston,Clifford Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",7.59278083,,play
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.38848929,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.26593938,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.25419618,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.20923518,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.37486661,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",0.86185668,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.58150815,,plaza
+Boston,Deer Street Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.24655968,,park
+Boston,Hynes Field,M,R,Y,,"Parks, Playgrounds & Athletic Fields",6.41770801,,play
+Boston,Downer Avenue Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.77912291,,play
+Boston,Coppens Square,M,R,Y,,"Malls, Squares & Plazas",0.39850151,,plaza
+Boston,Fernald Terrace Rock,M,R,Y,,,0.93186249,,park
+Boston,Lambert Avenue Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.66616331,,play
+Somerville,Reverend Romano Simoni Skating Rink,S,R,Y,,,0.26943955,,play
+Boston,Union Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.36848748,,park
+Boston,Ringgold Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.37581308,,park
+Boston,Hanson Street Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.06957914,,play
+Boston,Quincy-Stanley Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.37536583,,play
+Boston,Murphy Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.24145252,,play
+Cambridge,Cooper Square,M,R,Y,,,0.2277998,,plaza
+Boston,Thetford Evans Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.86631334,,play
+Boston,Malcolm X Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",13.57223903,,park
+Boston,Charter Street Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.21083618,,park
+Boston,Cook Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10131092,,play
+Boston,Doherty Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.74087858,,play
+Boston,Byrne Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.18838351,,play
+Boston,Fernald Rock,M,R,Y,,Urban Wilds,0.06348167,Boston type=Urban Wilds,
+Boston,Crawford Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.66957874,,play
+Boston,Mary Hannon Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.96725592,,park
+Boston,Vietnam War Memorial,M,R,Y,,"Parkways, Reservations & Beaches",8.02396389,,parkway
+Somerville,Corbett-McKenna Park,M,R,Y,,,0.62017571,,park
+Somerville,Florence Playground,M,R,Y,,,0.2609863,,play
+Boston,Marcella Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.4286196,,park
+Boston,Horatio Harris Park,M,O,Y,,"Parks, Playgrounds & Athletic Fields",2.49061894,,park
+Boston,Little Scobie Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.79347775,,play
+Boston,Mount Pleasant Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.39854699,,play
+Boston,Highland Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.62370694,,park
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.14623209,,plaza
+Boston,Healy Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",9.60525038,,play
+Boston,Adams Park,M,H,Y,,"Parks, Playgrounds & Athletic Fields",0.72423367,,park
+Boston,Buckley Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.64947941,,play
+Boston,Orton Field,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.93726712,,play
+Boston,Hannigan Square,M,H,Y,,"Malls, Squares & Plazas",0.21587639,,plaza
+Boston,Ryan Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",8.77604405,,play
+Boston,Braddock Park,M,R,Y,,"Malls, Squares & Plazas",0.09172352,,plaza
+Boston,Savin Hill Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",8.31376923,,park
+Boston,Doherty-Gibson Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.79321223,,play
+Boston,Centervale Park,M,R,Y,,"Malls, Squares & Plazas",0.22372129,,plaza
+Boston,Wellesley Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.7003851,,park
+Boston,Hemenway Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.411264,,play
+Boston,Dorchester Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",27.24845802,,park
+Boston,Walker Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.9802074,,play
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.34058531,,parkway
+Boston,Hunt Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",17.70523946,,play
+Boston,Cedar Square Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.61562091,,park
+Boston,Billings Field,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",10.83331482,,play
+Cambridge,Rindge Field,M,R,Y,,,3.4134763,,play
+Cambridge,Maple Avenue Tot Lot,M,R,Y,,,0.12260925,,play
+Boston,Prudential Center Plaza,P,O,L,,,1.14070319,,plaza
+Cambridge,Dana Square,M,R,Y,,,1.42586791,,plaza
+Boston,Garvey Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.1357076,,play
+Boston,Miranda Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.08738665,,play
+Boston,Mozart Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.79993886,,play
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",1.23627476,purpose=C,
+Boston,Christian Science Plaza,N,O,Y,,,6.27068624,,plaza
+Boston,Christian Science Plaza,N,O,Y,,,0.70615768,,plaza
+Boston,Mullen Square,M,R,Y,,"Malls, Squares & Plazas",0.23307298,,plaza
+Cambridge,Franklin Street Park,M,R,Y,,,0.10519687,,park
+Cambridge,James Cronin Park,M,R,Y,,,0.03684777,,park
+Boston,Toohig Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",2.29667153,,park
+Cambridge,Glacken Field,M,R,Y,,,8.61313269,,play
+Cambridge,Peabody Terrace Playground,P,R,Y,,,0.8419113,,play
+Somerville,Mystic River Reservation,S,C,Y,,,6.61997605,purpose=C,
+Boston,Dorchester Heights National Historic Site,F,H,Y,,"Malls, Squares & Plazas",4.33703091,,plaza
+Cambridge,McElroy Park,M,R,Y,,,0.05905971,,park
+Cambridge,Veterans of Foreign Wars Memorial Park,M,H,Y,,,0.11005337,,park
+Boston,Gallivan Boulevard,S,O,Y,,"Malls, Squares & Plazas",0.81512766,,plaza
+Cambridge,Front Park,M,R,Y,,,0.85222328,,park
+Cambridge,Rafferty Park,M,R,Y,,,2.27707272,,park
+Cambridge,Graham & Parks School Playground,M,R,Y,,,0.52888817,school/institution,
+Boston,Sumner and Lamson Street Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.47863078,,play
+Boston,Hancock Woods,S,C,Y,,"Parkways, Reservations & Beaches",47.71154596,purpose=C,
+Boston,Oreilly Playground,M,R,Y,,,0.29476563,,play
+Boston,Edwards Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.33866378,,play
+Boston,Stanley-Bellevue Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.35807675,,park
+Boston,Mission Hill School Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.15231372,school/institution,
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.77648856,,plaza
+Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",0.97037743,,plaza
+Boston,George Robert White Play Space,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12514677,,park
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.22915401,,park
+Somerville,Winter Hill Community School Yard,M,R,Y,,,0.97951872,school/institution,
+Cambridge,McMath Park,M,R,Y,,,0.61643041,,park
+Cambridge,Anderson Courts,M,R,Y,,,1.4880372,,play
+Cambridge,Bergin Park,M,R,Y,,,1.10332116,,park
+Cambridge,Comeau Field,M,R,Y,,,1.79102011,,play
+Cambridge,Green Rose Heritage Park,M,R,Y,,,0.14418363,,plaza
+Boston,Ryan Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.58224512,,play
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.2846004,purpose=C,
+Boston,Private First Class Robert M. Devine Skating Rink,S,R,Y,,"Parks, Playgrounds & Athletic Fields",3.95642062,,play
+Cambridge,Centanni Park,M,O,Y,,,0.53483731,,park
+Boston,Drydock Overlook,M,R,Y,,,1.18082259,,park
+Boston,Jones Sq,M,R,Y,,"Malls, Squares & Plazas",0.05578943,,plaza
+Cambridge,Russell Field,M,R,Y,,,2.51922486,,play
+Cambridge,Alewife Linear Park,M,R,Y,,,3.33456936,,park
+Cambridge,Rothlisberger Memorial Park,M,H,Y,,,1.28009528,,park
+Cambridge,St Peter's Field,M,R,Y,,,6.96991751,,play
+Cambridge,Danehy Park,M,R,Y,,,49.47386591,,park
+Cambridge,Samp Field,M,R,Y,,,1.1198479,,play
+Boston,Charlestown Naval Shipyard Park II,P,R,X,,,0.65336065,,park
+Cambridge,Squirrel Brand Park,M,R,Y,,,0.26702673,,park
+Cambridge,Sacramento Field,M,R,Y,,,0.94246909,,play
+Cambridge,Clarendon Avenue Playground,M,R,Y,,,0.0591094,,play
+Cambridge,Clarendon Avenue Playground,M,R,Y,,,0.06618145,,play
+Cambridge,Clarendon Avenue Playground,M,R,Y,,,0.30236138,,play
+Somerville,Otis Street Playground,M,R,Y,,,0.08515001,,play
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",28.13586816,purpose=C,
+Somerville,Perry Park,M,R,Y,,,1.26616067,,park
+Cambridge,Old Morse Playground,M,R,Y,,,0.8488995,,play
+Cambridge,Gold Star Mothers Park,M,R,Y,,,3.61361649,,park
+Boston,Winthrop Sq,M,H,Y,,"Malls, Squares & Plazas",0.96667948,,plaza
+Boston,Old Harbor Reservation,S,R,Y,,,59.89315314,,parkway
+Boston,Foley Square,M,R,Y,,"Malls, Squares & Plazas",0.16035015,,plaza
+Boston,Prescott Square,M,R,Y,,"Malls, Squares & Plazas",0.29055037,,plaza
+Boston,Boston Public Garden,M,O,Y,,"Parks, Playgrounds & Athletic Fields",24.98671897,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",3.9379178,purpose=C,
+Boston,Holborn Street Totlot,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.18295736,,park
+Boston,State House Grounds,S,R,Y,,,0.7016235,,park
+Cambridge,Fresh Pond Parkway,S,O,Y,,,0.22402175,,parkway
+Boston,Somerset Plaza,M,R,Y,,,0.16128608,,plaza
+Boston,Neponset Valley Parkway,S,C,Y,,"Parkways, Reservations & Beaches",4.97360418,purpose=C,
+Boston,Morrissey Boulevard,S,O,Y,,,0.24498986,,parkway
+Boston,Mt. Bowdoin Green,M,O,Y,,"Malls, Squares & Plazas",0.49193687,,plaza
+Somerville,Veterans Memorial Skating Rink - Somerville,S,R,Y,,,1.69652246,,play
+Somerville,Mystic River Reservation,S,C,Y,,,12.44746509,purpose=C,
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.21009658,,parkway
+Cambridge,Harvard Square,M,R,Y,,,0.2364179,,plaza
+Cambridge,Harvard Yard,P,R,Y,,,15.14714624,,park
+Boston,Mother's Rest at Four Corners Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.14638248,,park
+Boston,Savage Mini Park,M,H,Y,,,0.00221525,,park
+Boston,Stony Brook Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",4.57827833,purpose=C,
+Boston,Neponset River Reservation,S,C,X,,"Parkways, Reservations & Beaches",3.31807661,purpose=C,
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.30602497,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",2.09413569,purpose=C,
+Boston,Phillips Street Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.14865078,,park
+Boston,Louisburg Square,M,R,L,,,0.29414913,,plaza
+Boston,Washington/Beech St. Play Area,M,R,Y,,,0.12811181,,play
+Cambridge,Sullivan Park,N,R,Y,,,0.12661078,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.75071844,purpose=C,
+Boston,English High Fields,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.97728996,,play
+Boston,West Roxbury Parkway,S,C,Y,,"Parkways, Reservations & Beaches",36.13363834,purpose=C,
+Boston,Oliver Hazard Perry School Playground,M,R,Y,,,0.5493487,school/institution,
+Boston,English High Fields,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.77085034,,play
+Boston,Caldwell Play Area,M,R,Y,,,0.25649048,,play
+Boston,Frederick Douglass Peace Garden,M,R,X,,,0.12158603,,park
+Boston,Hurley Elementary School Playground,M,R,Y,,,0.76254786,school/institution,
+Boston,Blackstone Innovation School Playground,M,R,Y,,,0.81971484,school/institution,
+Boston,Watson Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.01517791,,park
+Boston,Watson Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.06886111,,park
+Boston,Josiah Quincy Upper School Playground,M,R,Y,,,0.29729856,school/institution,
+Cambridge,Killian Court,P,O,L,,,4.27263718,,play
+Boston,Neponset River Reservation,S,C,Y,,,5.29463211,purpose=C,
+Somerville,Mystic River Reservation,S,C,Y,,,2.39837546,purpose=C,
+Cambridge,Reverend Romano Simoni Skating Rink,S,R,Y,,,0.05463176,,play
+Boston,Morrissey Boulevard,S,O,Y,,,0.22115827,,parkway
+Boston,Piers Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",10.86549749,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.95355173,purpose=C,
+Boston,Pagel Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.80066777,,play
+Boston,Golden Stairs Park,M,O,Y,,"Parks, Playgrounds & Athletic Fields",0.15844476,,park
+Boston,White Stadium,N,R,X,,"Parks, Playgrounds & Athletic Fields",12.58060518,,play
+Boston,Higginson-Lewis School Playground,M,R,Y,,,0.36572665,school/institution,
+Boston,Noyes Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",8.31117106,,play
+Boston,Frieda Garcia Children's Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.27066616,,park
+Boston,Gladeside Conservation Area,M,C,Y,,Urban Wilds,10.29814047,purpose=C,
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",9.64999662,purpose=C,
+Boston,Hayes Square,M,H,Y,,"Malls, Squares & Plazas",0.09972531,,plaza
+Boston,Quincy/Coleman Garden,N,A,L,,,0.30053639,,garden
+Cambridge,Alewife Brook Parkway,S,O,Y,,,0.96067959,,parkway
+Boston,Mission Hill Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.76230082,,play
+Boston,Carroll Pond Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.46178522,,play
+Boston,Draper Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.75591412,,play
+Boston,Readville Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.86258623,,play
+Boston,Jeremiah Hurley Memorial Park,M,H,Y,,"Malls, Squares & Plazas",0.07630052,,plaza
+Boston,Buena Vista Urban Wild,M,R,Y,,Urban Wilds,1.47767788,Boston type=Urban Wilds,
+Somerville,Community Garden at Glen Park,M,A,Y,,,0.06888045,,garden
+Boston,Justice Edward O Gourdin Veterans Memorial Park,M,R,Y,,"Malls, Squares & Plazas",0.5034768,,plaza
+Cambridge,Corporal Burns Playground,M,R,Y,,,1.0864789,,play
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.22180335,,park
+Boston,Roberts Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",10.22352514,,play
+Boston,Shipyard Park,O,H,Y,,"Parks, Playgrounds & Athletic Fields",1.16063217,,park
+Boston,The Garden,N,A,Y,,,0.40812377,,garden
+Cambridge,Steinbrenner Stadium,P,R,L,,,4.72073479,,play
+Boston,Stony Brook Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",0.35466251,purpose=C,
+Somerville,West Somerville Neighborhood School Playground,M,R,Y,,,0.40517356,school/institution,
+Boston,Temple St. Mall,M,O,Y,,,0.07117589,,plaza
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.30435709,purpose=C,
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.47696669,purpose=C,
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.0887713,,park
+Cambridge,Longfellow Park,M,H,Y,,,2.04726601,,park
+Cambridge,Longfellow National Historic House,M,H,Y,,,1.97026115,,park
+Cambridge,Pine Street Park,M,R,Y,,,0.09953596,,park
+Cambridge,Columbia Park,M,R,Y,,,1.0405465,,park
+Cambridge,Green Rose Heritage Park,M,R,Y,,,1.52535382,,plaza
+Boston,City Sq,M,H,Y,,,0.12544788,,plaza
+Boston,Beethoven Elementary School Playground,M,R,Y,Elementary School Playground,"Parks, Playgrounds & Athletic Fields",0.54129577,OS_TYPE=Elementary School Playground,
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.53411036,,parkway
+Cambridge,Kresge Oval,P,O,L,,,1.68046973,,park
+Boston,Old Harbor Reservation,S,R,Y,,"Parkways, Reservations & Beaches",60.8446526,,parkway
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.22149923,,parkway
+Boston,Brunswick-King Play Area,M,O,Y,,,0.25401571,,play
+Cambridge,Francis J. McCrehan Swimming Pool,S,R,Y,,,1.78847749,,play
+Boston,DeFilippo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.09731878,,play
+Boston,Scarmella / Maverick Square,S,O,Y,,,0.31062647,,plaza
+Boston,Copps Hill Terrace,M,R,Y,,"Malls, Squares & Plazas",0.61152375,,plaza
+Boston,Paul Revere Mall,M,R,Y,,"Malls, Squares & Plazas",0.7809957,,plaza
+Boston,Hillside St. Play Area,M,O,Y,,,0.38653136,,play
+Boston,Old City Hall Grounds,M,H,Y,,,0.16517992,,park
+Cambridge,Longfellow School,M,R,Y,,,0.88506113,school/institution,
+Cambridge,,M,R,Y,,,1.16706658,,park
+Boston,Neponset River Reservation,S,C,Y,,,0.07853226,purpose=C,
+Boston,Carter Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.89108651,,play
+Boston,Puopolo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.68386059,,play
+Boston,Puopolo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.6288074,,play
+Boston,Puopolo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.46258884,,play
+Boston,Christopher Columbus Waterfront Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.00261282,,park
+Boston,Christopher Columbus Waterfront Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.74074431,,park
+Boston,Puopolo Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.79194951,,play
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.14533295,,park
+Boston,Amatucci Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.4465758,,play
+Boston,Neponset River Reservation,S,C,Y,,,9.12457645,purpose=C,
+Boston,Neponset River Reservation,S,R,Y,,,10.91936448,,parkway
+Boston,Neponset River Reservation,S,C,Y,,,2.16288211,purpose=C,
+Cambridge,Costa Lopez Playground,M,R,Y,,,0.49782804,,play
+Boston,Baker Chocolate Factory,S,B,X,,,0.39651566,,park
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",2.26444375,,parkway
+Boston,Old Harbor Reservation,S,R,Y,,,10.20281805,,parkway
+Boston,Edgeworth St Play Area,M,R,Y,,,0.1262887,,play
+Cambridge,Donnelly Field,M,R,Y,,,6.71594837,,play
+Cambridge,Reardon Square,M,R,Y,,,0.17374997,,plaza
+Boston,Neponset River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",15.52892154,,parkway
+Boston,Myrtle St. Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10516741,,play
+Cambridge,Fort Washington,M,H,Y,,,2.38878146,,park
+Boston,Oakview Terrace,M,O,Y,,"Malls, Squares & Plazas",0.10068449,,plaza
+Boston,Leatherbee Woods,L,C,Y,Conservation Area,,16.38131137,OS_TYPE=Conservation Area,
+Cambridge,Fresh Pond Parkway,S,O,Y,,,0.92063313,,parkway
+Cambridge,Buckingham Brown And Nichols School Athletic Field,N,R,L,,,4.08210174,school/institution,
+Boston,Polcari Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.28012922,,park
+Boston,North Square,M,R,Y,,,0.07677207,,plaza
+Boston,Lewis Mall Harbor Park,M,R,Y,,,0.23451387,,plaza
+Boston,Brophy Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.77414975,,park
+Boston,Stony Brook Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",5.28165931,purpose=C,
+Cambridge,Tubman Square,M,R,Y,,,0.04847469,,plaza
+Somerville,Mystic River Reservation,S,X,Y,,,0.23652212,,parkway
+Cambridge,Charles River Reservation,S,R,Y,,,0.74458935,,parkway
+Boston,Beecher St Play Area,M,O,Y,,"Parks, Playgrounds & Athletic Fields",0.17369004,,play
+Boston,Lewis Mall,M,R,Y,,,1.28845227,,plaza
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",84.87603023,purpose=C,
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.59954339,purpose=C,
+Boston,New Charles River Dam,S,X,Y,,,4.41671951,infrastructure/water,
+Cambridge,Market St Tot Lot,M,R,Y,,,0.25171442,,play
+Boston,Neponset River Reservation,S,B,Y,,,0.22351255,,parkway
+Cambridge,Morse School/Lindstrom Field,M,R,Y,,,1.48187361,school/institution,
+Boston,Old Harbor Reservation,S,R,Y,,"Parkways, Reservations & Beaches",10.73919707,,parkway
+Boston,Childrens Park,M,R,Y,,,0.10690182,,park
+Boston,Dell Ave Rock,M,C,Y,,Urban Wilds,1.12987993,purpose=C,
+Boston,Bradford St. Play Area,M,R,Y,,,0.03618389,,play
+Boston,Roxbury Heritage State Park,M,H,Y,,"Parks, Playgrounds & Athletic Fields",0.38331655,,park
+Cambridge,Shady Hill Square,M,R,Y,,,0.30470078,,plaza
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.05217028,purpose=C,
+Boston,Horan Way Play Area,M,R,Y,,,0.77749177,,play
+Boston,Cuneo Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.1731004,,park
+Boston,Old Harbor Reservation,S,O,Y,,"Parkways, Reservations & Beaches",3.42139508,,parkway
+Boston,Neponset River Reservation,S,C,Y,,,1.81749234,purpose=C,
+Boston,Pier 10 Park,M,R,Y,,,0.68430107,,parkway
+Cambridge,Hastings Square,M,O,Y,,,0.89965718,,plaza
+Boston,Eldon St. Urban Wild,M,C,Y,,Urban Wilds,1.3832892,purpose=C,
+Cambridge,Winthrop Square,M,O,Y,,,0.24515796,,plaza
+Boston,Cardillo Playground,M,R,Y,,,0.99093647,,play
+Cambridge,Haggerty School Play Area,M,R,Y,,,0.36786796,school/institution,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.23061181,purpose=C,
+Boston,Neponset River Reservation,S,C,Y,,,0.58146498,purpose=C,
+Boston,Morton Street,S,X,X,,,24.50943973,,park
+Cambridge,Riverside Press Park,M,R,Y,,,3.71539918,,park
+Boston,Morrissey Boulevard,S,R,Y,,,0.98116061,,parkway
+Boston,Condor Street Beach,M,R,Y,,Urban Wilds,2.80089202,Boston type=Urban Wilds,
+Somerville,Harris Playground,M,R,Y,,,0.33663119,,play
+Somerville,Somerville Junction Park,M,R,Y,,,0.68090102,,park
+Boston,Neponset Valley Parkway,S,R,Y,,,0.83248598,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.71716791,,park
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",2.34009557,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.06218755,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.87865283,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.43958349,,parkway
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",4.59328968,purpose=C,
+Somerville,Otis Street Playground,M,R,Y,,,0.08899924,,play
+Somerville,Hoyt-Sullivan Playground,M,R,Y,,,0.51259842,,play
+Boston,Neponset River Reservation,S,C,Y,,Urban Wilds,1.14476804,purpose=C,
+Somerville,Hodgkins-Curtin Park,M,R,Y,,,1.43908294,,park
+Boston,Southwest Corridor Park,S,B,Y,,"Parkways, Reservations & Beaches",1.31973437,,parkway
+Boston,Brandegee Estate CR,P,C,L,,Urban Wilds,0.89211394,purpose=C,
+Somerville,Central Hill Memorial Park,M,R,Y,,,1.65428225,,park
+Cambridge,Callanan/Tobin School Playground,M,R,Y,,,3.84500843,school/institution,
+Boston,Brandegee Estate CR,P,C,L,,Urban Wilds,17.21763808,purpose=C,
+Boston,Allandale Woods I,M,B,L,,Urban Wilds,52.21283187,Boston type=Urban Wilds,
+Boston,Allandale Woods Conservation Area,M,C,Y,,Urban Wilds,5.39363866,purpose=C,
+Boston,Allandale Woods Conservation Area,M,C,Y,,Urban Wilds,5.1965229,purpose=C,
+Boston,Allandale,P,C,L,,Urban Wilds,2.84345776,purpose=C,
+Boston,Allandale Woods III CR,P,C,X,,,6.04911087,purpose=C,
+Boston,McConnell Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.53624557,,park
+Boston,Sherrin Woods Urban Wild,M,R,Y,,Urban Wilds,7.22592997,Boston type=Urban Wilds,
+Boston,Sherrin Woods Urban Wild,M,R,Y,,Urban Wilds,16.19540225,Boston type=Urban Wilds,
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.9777401,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",8.30295944,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",4.59453523,,park
+Boston,Erie-Ellington Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.16049466,,play
+Boston,Erie-Ellington Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10209743,,play
+Boston,Erie-Ellington Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10784834,,play
+Boston,Olmsted Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",5.03394613,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.25755252,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.4530165,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.09069041,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.27580075,,parkway
+Boston,Fallon Field,M,R,Y,,"Parks, Playgrounds & Athletic Fields",7.46363893,,play
+Boston,Parkman Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.05844528,,play
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",12.19009866,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.07368627,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.09278863,,park
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.03232035,,parkway
+Boston,Whittier Playground,M,R,Y,,,0.18093657,,play
+Boston,Jenney Plaza,P,H,Y,,,0.13727225,,plaza
+Boston,Grain Exchange Plaza,P,H,Y,,,0.07101446,,plaza
+Somerville,Perkins Park,M,R,Y,,,0.15596714,,park
+Boston,Back Bay Fens,M,R,Y,,,0.39958708,,park
+Somerville,Kenney Park,M,R,Y,,,0.52060214,,park
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.7180934,,parkway
+Boston,Joyce Kilmer School Playground,N,R,N,,,1.10218005,no public access,
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.54431805,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.38489824,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.0941318,,park
+Boston,Faneuil Dream Garden,M,A,Y,,,0.29386189,,garden
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",13.04483205,,park
+Boston,Willowwood Rock,M,C,Y,,Urban Wilds,0.55480802,purpose=C,
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.4539451,,parkway
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.65515064,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.86187414,,parkway
+Boston,Melnea A. Cass Recreational Complex,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.37362527,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.9456794,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.19244183,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.18135657,,parkway
+Somerville,North Street Veterans Playground,M,R,Y,,,0.23089358,,play
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.13849349,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.02382525,,parkway
+Boston,Ballfield,N,R,Y,,,2.62127503,,play
+Boston,Cutillo Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.2894906,,park
+Boston,Hobart Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.81299036,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.12185957,,parkway
+Somerville,Trum Field Park,M,R,Y,,,4.7172923,,play
+Cambridge,King Community School Yard,M,R,Y,,,0.67135679,school/institution,
+Boston,Nira Avenue Rock,M,O,Y,,Urban Wilds,1.35652634,Boston type=Urban Wilds,
+Somerville,Dickerman Park,M,R,Y,,,0.41149994,,park
+Cambridge,Raymond Park,M,R,Y,,,2.78745965,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.12304119,,parkway
+Boston,Long Island,F,O,N,,,223.5443116,no public access,
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.12249288,,parkway
+Somerville,Lexington Street Playground,M,R,Y,,,0.31204241,,play
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.09225946,,parkway
+Boston,Pilot House Park,M,B,Y,,,0.16101765,,park
+Boston,Jefferson Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.29740811,,play
+Cambridge,Cambridge Common,M,R,Y,,,8.21252678,,plaza
+Boston,Parkway Little League Fields,N,R,X,,,4.70632679,,play
+Boston,William H Ohrenberger Elementary School Playground,M,R,Y,,,7.85410523,school/institution,
+Boston,Rockledge St. Urban Wild,M,O,Y,,Urban Wilds,0.37710432,Boston type=Urban Wilds,
+Cambridge,Ahern Field,M,R,Y,,,2.52485303,,play
+Boston,Essex Square,M,H,Y,,"Malls, Squares & Plazas",0.025579,,plaza
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.2846315,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.61704481,,parkway
+Boston,Al Festa Little League Field,S,R,Y,,,1.1311524,,play
+Boston,Neponset River Reservation,S,C,Y,,,9.68425698,purpose=C,
+Boston,State House Grounds,S,R,Y,,,1.63429759,,park
+Boston,American Legion Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.35138386,,play
+Somerville,Bailey Park,M,R,Y,,,0.38869729,,park
+Boston,107 Cedar St.,M,C,Y,,,0.47930151,purpose=C,
+Boston,Dennis Street Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.70920093,,park
+Somerville,Grimmons Park,M,R,Y,,,0.42946178,,park
+Somerville,Albion Playground,M,R,Y,,,0.78684474,,play
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.14433001,,park
+Cambridge,Library/War Memorial Park,M,R,Y,,,2.78552686,school/institution,
+Boston,Sherrin And Dale Street Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",7.52580221,,play
+Boston,Harborside Walkway,S,R,Y,,,4.79256035,,park
+Boston,Columbus Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",57.55749065,,park
+Boston,Linwood Park,M,O,Y,,"Malls, Squares & Plazas",0.07396694,,plaza
+Boston,L Street Public Baths,M,R,Y,,"Parkways, Reservations & Beaches",6.95974158,,parkway
+Cambridge,Hurly St/Vfw Playground,M,R,Y,,,0.24707637,,play
+Somerville,Palmacci Playground,M,R,Y,,,0.08293514,,play
+Somerville,Mystic River Reservation,S,C,Y,,,7.20452676,purpose=C,
+Boston,Puddingstone Park,M,C,Y,,"Parks, Playgrounds & Athletic Fields",0.17996664,purpose=C,
+Boston,Dudley Town Common,M,R,Y,,"Malls, Squares & Plazas",0.32444881,,plaza
+Boston,Williams Sq,M,O,Y,,,0.03863697,,plaza
+Boston,Ross Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",12.58888664,,park
+Somerville,Mystic River Reservation,S,C,Y,,,2.43180533,purpose=C,
+Cambridge,General Mcarthur Square,M,R,Y,,,0.17759645,,plaza
+Cambridge,Alewife Brook Parkway,S,O,Y,,,1.71053685,,parkway
+Boston,Public Ground,M,O,Y,,,0.0332552,,park
+Somerville,Central Hill Playground,M,R,Y,,,0.74784021,,play
+Boston,Rossmore/Steadman Park,M,O,Y,,,0.09430149,,park
+Cambridge,Fulmore Playground,M,R,Y,,,0.34109616,,play
+Boston,Trotter St Plaza,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.11062912,,park
+Cambridge,Alberico Play Ground,M,R,Y,,,0.5453935,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.53644036,purpose=C,
+Boston,Neponset River Reservation,S,C,Y,,,1.92902154,purpose=C,
+Cambridge,Gannett Playground,M,R,Y,,,0.27031302,,play
+Boston,Birmingham Parkway,S,X,Y,,"Parkways, Reservations & Beaches",2.45986478,,parkway
+Cambridge,Briggs Field,P,R,L,,,14.58881648,,play
+Boston,Walnut Park Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.32258806,,play
+Boston,Webster Sq,M,O,Y,,"Malls, Squares & Plazas",0.05835243,,plaza
+Boston,Roxbury Heritage State Park,S,B,Y,,,0.92196309,,park
+Boston,Dudley Town Common,M,R,Y,,"Malls, Squares & Plazas",0.29430913,,plaza
+Boston,Clarendon Tot Lot,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.30577314,,play
+Boston,Bromley Heath Playground,M,R,Y,,,0.09602735,,play
+Boston,Neponset River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",3.06700138,,parkway
+Boston,Little Mystic Access Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",9.25826828,,park
+Cambridge,Wilder Lee St Playground,M,R,Y,,,0.28315146,,play
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.54114091,,park
+Boston,Morton Street,S,X,X,,,7.00467595,,park
+Somerville,Mystic River Reservation,S,C,Y,,,1.80888767,purpose=C,
+Cambridge,Neveille Manor,M,O,Y,,,9.53075654,,park
+Boston,Umana School,M,R,Y,,,2.65221805,school/institution,
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.14767282,,parkway
+Boston,Elm Hill Park,M,O,Y,,,0.34068397,,park
+Boston,Neponset River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",43.0600256,,parkway
+Boston,,S,U,X,,,5.83246095,,park
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.3357547,purpose=C,
+Boston,Union St Play Area,M,O,Y,,,0.11581402,,play
+Cambridge,Alden Park,M,R,Y,,,0.2712397,,park
+Boston,Camp Meigs,S,H,Y,,"Parks, Playgrounds & Athletic Fields",2.86573293,,park
+Boston,Ronan Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.27172924,,park
+Boston,Allen Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.34589827,,park
+Boston,Quincy Street Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.52926638,,play
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",13.17633007,purpose=C,
+Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.11671405,,park
+Cambridge,Fresh Pond Pathway,S,B,Y,,,2.10884967,,park
+Boston,LoPresti Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.52328941,,park
+Cambridge,Lechmere Canal Park,M,R,Y,,,2.6931482,,park
+Cambridge,Charles River Reservation,M,R,Y,,,0.63232285,,parkway
+Boston,Boston Common,M,R,Y,,"Parks, Playgrounds & Athletic Fields",45.31561302,,park
+Cambridge,Washington Elms Tot Lot,M,R,Y,,,0.56902099,,play
+Boston,Roxbury Heritage State Park,S,B,Y,,,0.08680986,,park
+Somerville,Marshall Street Playground,M,R,Y,,,0.24328939,,play
+Cambridge,Alewife Brook Parkway,S,O,Y,,,0.73080513,,parkway
+Cambridge,Hoyt Field,M,R,Y,,,4.6673492,,play
+Cambridge,,M,O,Y,,,0.24088524,,park
+Cambridge,Paine Playground,M,R,Y,,,0.32348035,,play
+Cambridge,Velluci Plaza,M,O,Y,,,0.13864086,,plaza
+Boston,Neponset River Reservation,S,C,Y,,,1.7894839,purpose=C,
+Cambridge,Lowell School Park,M,R,Y,,,0.47522395,school/institution,
+Boston,Beauford Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.20504535,,play
+Boston,Flaherty Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.30927137,,play
+Cambridge,Medeiros Square,M,R,Y,,,0.31326609,,plaza
+Boston,Puerto Rican Veterans Memorial Park,M,H,Y,,"Malls, Squares & Plazas",0.1187581,,plaza
+Somerville,Minuteman Trail Extension,M,R,Y,,,1.26705399,,parkway
+Somerville,Davis Square,M,R,Y,,,0.2008121,,plaza
+Somerville,Trum Playground,M,R,Y,,,0.46702666,,play
+Somerville,Tufts University Fields,P,R,Y,,,3.87765965,school/institution,
+Boston,Neponset River Reservation,S,C,Y,,,3.38178298,purpose=C,
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",1.26289948,,parkway
+Somerville,Symphony Park,M,R,Y,,,0.18712255,,park
+Boston,Back Bay Fens,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.15114634,,park
+Boston,Back Bay Fens,M,R,Y,,"Parkways, Reservations & Beaches",0.15821382,,parkway
+Boston,Old Harbor Reservation,S,R,Y,,"Parkways, Reservations & Beaches",7.5041497,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01851063,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.09020377,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.09598596,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.09474759,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.01606429,,parkway
+Boston,Barry Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.54788414,,play
+Boston,Ripley Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.82653854,,play
+Boston,Jeep Jones Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.6823745,,park
+Boston,Southwest Corridor Park,S,R,Y,,,0.17789927,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.0636671,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.02804574,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01433714,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.06497816,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01515912,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.04291144,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.04286988,,parkway
+Boston,Copley Square,M,R,Y,,"Malls, Squares & Plazas",1.85197364,,plaza
+Boston,Statler Park,M,R,Y,,"Malls, Squares & Plazas",0.22694532,,plaza
+Boston,Long Wharf Park,M,R,Y,,"Malls, Squares & Plazas",1.01475251,,plaza
+Boston,City Hall Plaza,M,R,Y,,"Malls, Squares & Plazas",5.28674327,,plaza
+Boston,Cardinal Cushing Park,M,R,Y,,,0.35573864,,park
+Boston,Union Street Park II,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10131538,,park
+Boston,New England Holocaust Memorial,M,H,Y,,"Parks, Playgrounds & Athletic Fields",0.44186249,,park
+Boston,Southwest Corridor Park,S,R,Y,,,0.50713364,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.13969628,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.20511498,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.24034684,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.02698019,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,1.08896423,,parkway
+Boston,Norman B Leventhal Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.55126303,,park
+Boston,George Thorndike Angell Memorial Square,M,R,Y,,"Malls, Squares & Plazas",0.16188814,,plaza
+Boston,Irish Famine Memorial Park,M,R,Y,,,0.08145755,,park
+Boston,Faneuil Hall Plaza,M,R,Y,,"Malls, Squares & Plazas",0.86705122,,plaza
+Boston,Liberty Square,M,R,Y,,,0.01195569,,plaza
+Boston,Broad Street Park,M,R,Y,,,0.0672378,,park
+Boston,Sweeney Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.47929414,,play
+Boston,Reggie Wong Memorial Park,M,R,Y,,,0.26505222,,park
+Boston,Southwest Corridor Park,S,R,Y,,,0.55724738,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.08926939,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,1.08362814,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.10068313,,parkway
+Boston,Madison Park High School Athletic Fields,M,R,Y,,"Parks, Playgrounds & Athletic Fields",9.29039361,school/institution,
+Boston,McLean Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.43060011,,play
+Boston,Medal of Honor Park,M,R,Y,,"Malls, Squares & Plazas",6.55583481,,plaza
+Boston,Christopher Lee Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.11147608,,play
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.18098136,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.05109711,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.12379329,,parkway
+Boston,Central Square,M,R,Y,,"Malls, Squares & Plazas",0.90507678,,plaza
+Boston,John Harvard Mall,M,R,Y,,"Malls, Squares & Plazas",0.80844509,,plaza
+Boston,Putnam Square,M,R,Y,,"Malls, Squares & Plazas",0.26418673,,plaza
+Boston,Franklin Square,M,R,Y,,"Malls, Squares & Plazas",2.46413609,,plaza
+Boston,Blackstone Square,M,R,Y,,"Malls, Squares & Plazas",2.47822464,,plaza
+Boston,Cunningham Park,M,H,Y,,"Malls, Squares & Plazas",0.1796912,,plaza
+Boston,Fidelis Way Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",5.14730026,,park
+Boston,Commonwealth Tenants Assoc Garden,M,A,Y,,,0.25119207,,garden
+Boston,Commonwealth Tenants Assoc Garden,M,A,Y,,,0.09919955,,garden
+Boston,Euston Path Rock,M,C,Y,,,0.38693621,purpose=C,
+Boston,Erie-Ellington Sts. Park,L,R,Y,,"Malls, Squares & Plazas",0.24669617,,plaza
+Boston,Mother Brook II,M,B,Y,,"Parks, Playgrounds & Athletic Fields",2.88301342,,park
+Boston,Mother Book III,M,C,Y,,"Parks, Playgrounds & Athletic Fields",3.90623464,purpose=C,
+Boston,Mother Brook II,M,B,Y,,"Parks, Playgrounds & Athletic Fields",1.945816,,park
+Boston,Geneva Avenue Cliffs,M,C,Y,,Urban Wilds,1.67977404,purpose=C,
+Boston,Geneva Avenue Cliffs,M,C,Y,,Urban Wilds,0.11959444,purpose=C,
+Boston,West Roxbury High School Recreational Fields,M,R,Y,,Open Land,35.24978158,Boston type=Open Land,
+Boston,Woodhaven Urban Wild,M,C,Y,,Urban Wilds,0.64994706,purpose=C,
+Boston,Woodhaven Urban Wild,M,C,Y,,Urban Wilds,0.53231454,purpose=C,
+Boston,Fan Pier Park,F,R,Y,,"Malls, Squares & Plazas",2.36385294,,plaza
+Boston,Porzio Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.68558235,,park
+Boston,Porzio Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.67602106,,park
+Boston,Eliot Norton Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.82341396,,park
+Somerville,Woodstock Playground,M,R,Y,,,0.22477195,,play
+Somerville,Seven Hills Park,M,R,Y,,,0.57956158,,park
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.00879625,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.20610343,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.39956831,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.23122093,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.03886221,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.58081201,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.73310119,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.19600589,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.12273531,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.12873345,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.09273026,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.12095816,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.19919259,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.40269588,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.0641329,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.49860577,,parkway
+Somerville,15-25 Cross Street East,M,R,Y,,,0.15688324,,park
+Somerville,15-25 Cross Street East,M,R,Y,,,0.07812428,,park
+Somerville,15-25 Cross Street East,M,R,Y,,,0.14905559,,park
+Boston,Bunker Hill Monument,F,H,Y,,"Malls, Squares & Plazas",3.75435794,,plaza
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",2.40264669,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.09995571,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.31515879,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.02624939,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.14210707,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.62441548,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.87817716,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.6908256,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.06992833,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",1.12225651,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.75550779,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.00607679,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.56369282,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01228204,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.27709891,,parkway
+Boston,Brighton Square,M,R,Y,,"Malls, Squares & Plazas",0.51012026,,plaza
+Boston,Rotch Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",2.74787379,,play
+Boston,Peters Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.32367074,,park
+Boston,Monsignor Reynolds Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.30593187,,play
+Boston,Chester Park,M,R,Y,,"Malls, Squares & Plazas",0.39451052,,plaza
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.14536034,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.06410331,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.09333183,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,1.21765254,,parkway
+Boston,Paul Revere Park,S,B,Y,,"Parkways, Reservations & Beaches",4.15724814,,parkway
+Boston,Chester Park,M,R,Y,,"Malls, Squares & Plazas",0.3386851,,plaza
+Boston,Melnea A. Cass Swimming Pool,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.08810285,,play
+Boston,Alvah Kittredge Park,M,R,Y,,"Malls, Squares & Plazas",0.11606515,,plaza
+Boston,Rutland Square,M,R,Y,,"Malls, Squares & Plazas",0.05412993,,plaza
+Boston,Titus Sparrow Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.18973603,,park
+Boston,Titus Sparrow Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",1.57500193,,park
+Boston,Childe Hassam Park,M,H,Y,,"Malls, Squares & Plazas",0.06037234,,plaza
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",5.68366343,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.10357004,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.07729649,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.22610041,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.12166284,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.09857661,,parkway
+Boston,Southwest Corridor Park,S,A,L,,,0.0499263,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",0.26593864,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.61104492,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.01309967,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.00667915,,parkway
+Boston,Southwest Corridor Park,S,R,Y,,,0.14160094,,parkway
+Boston,Concord Square,M,R,Y,,"Malls, Squares & Plazas",0.14955423,,plaza
+Boston,Rutland Square,M,R,Y,,"Malls, Squares & Plazas",0.04931334,,plaza
+Boston,Edgerly Road Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.10838223,,play
+Cambridge,Larch Road Park,M,R,Y,,,0.38632615,,park
+Cambridge,Silva Park,M,R,Y,,,0.26771321,,park
+Boston,Symphony Community Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.49843185,,park
+Boston,Norton Street Park,M,R,Y,,,0.0661254,,park
+Boston,Seybolt Park,N,R,Y,,,0.25019947,,park
+Boston,Jardin De La Amistad,L,A,L,,,0.23409464,,park
+Boston,Mount Calvary Holy Church Garden,N,O,L,,,0.22744037,,park
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.22311062,,parkway
+Boston,Arnold Arboretum I,M,B,Y,,"Parks, Playgrounds & Athletic Fields",159.77107662,,park
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.12160913,,parkway
+Boston,Commonwealth Avenue Outbound,M,R,Y,,"Parkways, Reservations & Beaches",0.09213197,,parkway
+Boston,Ringer Playground,M,R,Y,,"Parks, Playgrounds & Athletic Fields",10.26175784,,play
+Boston,Penniman Road Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.13548925,,play
+Boston,Penniman Road Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12357983,,play
+Boston,Penniman Road Play Area,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.17060456,,play
+Boston,Penniman Road Garden,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12341365,,park
+Boston,Penniman Road Garden,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12326741,,park
+Boston,Penniman Road Garden,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.11907077,,park
+Boston,Penniman Road Garden,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12688776,,park
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",1.312348,,parkway
+Boston,Tobin Community Center Garden,M,A,Y,,,0.2905835,,garden
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.0346722,,parkway
+Boston,Jamaica Pond Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",31.60805277,,park
+Boston,Parkman Memorial,M,B,Y,,"Parks, Playgrounds & Athletic Fields",6.70983697,,park
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.0021713,,parkway
+Boston,Arcola St. Park,L,R,Y,,"Malls, Squares & Plazas",0.06508729,,plaza
+Boston,Alvah Kittredge Square Park,L,R,Y,,Open Land,0.16364481,Boston type=Open Land,
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",4.3174756,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.00257049,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.37619423,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.0319348,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.69521777,,parkway
+Boston,,L,R,L,,,0.09958622,,park
+Boston,Starr Lane Park,L,R,Y,,"Malls, Square & Plazas",0.06224669,,plaza
+Boston,Leland Street Herb Garden,L,A,Y,,,0.26080945,,garden
+Boston,Arnold Arboretum II,M,B,Y,,"Parks, Playgrounds & Athletic Fields",65.55748051,,park
+Boston,South Street Tract,P,C,Y,,,4.75993695,purpose=C,
+Boston,Southwest Corridor Community Farm CR,N,A,L,,,0.59922715,conservation,
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.77465174,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.01206462,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.06004877,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.95351748,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.3136125,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.45651764,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",0.09075284,,parkway
+Boston,Arborway,M,R,Y,,"Parkways, Reservations & Beaches",1.51204822,,parkway
+Boston,Constitution Beach,S,R,L,,,0.01634835,,parkway
+Boston,Constitution Beach,S,U,Y,,,45.4587183,,parkway
+Boston,Soldiers Monument,M,R,Y,,"Malls, Squares & Plazas",0.13269093,,plaza
+Boston,Brewer/Burroughs Tot Lot,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.19130919,,play
+Somerville,Lincoln Park,M,R,Y,,,5.03528788,,park
+Boston,Cedar-Juniper Natural Area,L,C,Y,,,0.38507677,purpose=C,
+Boston,Leyland St. Park,L,R,Y,,,0.237895,,park
+Boston,Leyland St. Park,L,R,Y,,,0.08265046,,park
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.43991398,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.31958838,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.25440595,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.07588978,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.16581291,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.52969522,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.34038732,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.18915497,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.35403658,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.0330154,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.2063645,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.30933672,,parkway
+Boston,Jamaicaway,M,R,Y,,"Parkways, Reservations & Beaches",0.26324425,,parkway
+Boston,Olmsted Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",21.70247247,,park
+Boston,Olmsted Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",11.41872755,,park
+Boston,Jamaica Pond Park,M,R,Y,,"Parkways, Reservations & Beaches",0.01380286,,parkway
+Boston,Jamaica Pond Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.02500791,,park
+Boston,Chandler Pond,M,R,Y,,"Parks, Playgrounds & Athletic Fields",3.15424494,,park
+Boston,Oak Square,M,R,Y,,,0.03714261,,plaza
+Boston,Oak Square,M,R,Y,,"Malls, Squares & Plazas",0.23431943,,plaza
+Cambridge,Lopez Park,M,R,Y,Park (Active Outdoor Recreation),,0.117214,,park
+Boston,Monterey Hilltop Urban Wild,M,C,Y,Conservation Area,Urban Wilds,0.28077709,OS_TYPE=Conservation Area,
+Boston,Monterey Hilltop Urban Wild,M,C,Y,Conservation Area,Urban Wilds,0.17196941,OS_TYPE=Conservation Area,
+Boston,Monterey Hilltop Urban Wild,M,C,Y,Conservation Area,Urban Wilds,6.11259719,OS_TYPE=Conservation Area,
+Boston,Neponset River Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",1.26044953,purpose=C,
+Boston,Dorchester Shores Reservation,S,B,Y,,,0.03137052,,parkway
+Boston,Neponset River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",1.4159936,,parkway
+Cambridge,Fresh Pond Pathway,M,B,Y,,,0.61792972,,park
+Boston,Worcester Square,M,R,Y,Park (Passive Green Space),"Malls, Squares & Plazas",0.27824657,,plaza
+Somerville,Conway Park,M,R,Y,,,2.91687939,,park
+Boston,Boston City Councilor Brian J Honan Park CR,P,B,Y,,"Parks, Playgrounds & Athletic Fields",0.43560037,conservation,
+Boston,Blake Estates CR,P,C,L,,Urban Wilds,1.60188285,purpose=C,
+Boston,Iroquois Street Woods CR,P,C,L,,,1.03447306,purpose=C,
+Boston,Ramsay Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",5.48498839,,park
+Boston,Charles River Reservation,S,B,Y,,,0.02761898,,parkway
+Boston,Neponset River Reservation,P,B,Y,,,0.73037191,,parkway
+Boston,Neponset River Reservation,P,C,Y,,,0.03056148,purpose=C,
+Cambridge,Charles River Reservation,S,B,Y,,,0.3505671,,parkway
+Boston,Sister Mary Veronica Park,N,R,Y,Park (Passive Green Space),"Parks, Playgrounds & Athletic Fields",0.11134332,,park
+Boston,Theresa Hynes Park,P,C,L,,"Parks, Playgrounds & Athletic Fields",0.44522067,purpose=C,
+Boston,Allandale Glen CR,P,C,L,,Urban Wilds,6.26948617,purpose=C,
+Boston,Charles River Reservation,S,R,L,,,4.4749191,,parkway
+Boston,Neponset River Reservation,S,B,Y,,,1.23235592,,parkway
+Boston,Frederick Douglas Emmons John Gerald Horrigan and Matthew J ONeil Rink,S,R,Y,,,1.63362181,,play
+Boston,The Carter School Sensory Garden Outdoor Classroom,M,R,Y,,,0.36721135,school/institution,
+Boston,Boston Harbor Islands National Recreation Area,F,B,Y,Park (Passive Green Space),,20.15562914,,park
+Boston,Saint Mary's Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,10.50165772,OS_TYPE=Cemetery,
+Boston,Central Burying Ground,M,R,Y,Cemetery,Cemeteries & Burying Grounds,1.57214919,OS_TYPE=Cemetery,
+Somerville,Hansen Park,M,R,Y,Park (Passive Green Space),,0.06438098,,park
+Boston,Dorchester Shores Reservation,P,R,Y,,"Parkways, Reservations & Beaches",0.6728244,,parkway
+Boston,Dorchester Shores Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.38245344,,parkway
+Boston,Dorchester Shores Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.07732916,,parkway
+Boston,Dorchester Shores Reservation,S,R,Y,,,0.43288472,,parkway
+Boston,Dorchester Shores Reservation,S,R,Y,,"Parkways, Reservations & Beaches",9.83871585,,parkway
+Boston,Belle Isle Marsh Reservation,S,C,Y,,"Parkways, Reservations & Beaches",32.81875504,purpose=C,
+Boston,Belle Isle Marsh Reservation,S,C,Y,,"Parkways, Reservations & Beaches",101.7937362,purpose=C,
+Boston,Belle Isle Marsh Reservation,S,C,Y,,"Parkways, Reservations & Beaches",29.16378349,purpose=C,
+Boston,Belle Isle Marsh Reservation,S,C,Y,,"Parkways, Reservations & Beaches",11.15965239,purpose=C,
+Boston,Portal Park,X,R,Y,Park (Passive Green Space),"Malls, Squares & Plazas",0.38186417,,plaza
+Boston,Valenti Square,S,R,Y,Park (Passive Green Space),,0.10721163,,plaza
+Boston,Peter Looney Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.62931638,,park
+Boston,Fairview Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,55.80770541,OS_TYPE=Cemetery,
+Boston,Granary Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.85143729,OS_TYPE=Cemetery,
+Boston,King's Chapel Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.431716,OS_TYPE=Cemetery,
+Boston,Boston Day and Evening Academy Agricultural Area,N,A,X,Agricultural Area,,0.21602061,school/institution,
+Boston,Oak Lawn Cemetery,N,H,X,Cemetery,,10.86810418,OS_TYPE=Cemetery,
+Boston,Codman Burying Ground,N,H,X,Cemetery,Cemeteries & Burying Grounds,2.64808736,OS_TYPE=Cemetery,
+Boston,Abramson Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.50613874,OS_TYPE=Cemetery,
+Boston,Agudath Israel Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.62919946,OS_TYPE=Cemetery,
+Boston,American Friendship Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.53091021,OS_TYPE=Cemetery,
+Boston,Anshei Sfard Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.48937126,OS_TYPE=Cemetery,
+Boston,Congregation Atereth Israel Association,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.49921631,OS_TYPE=Cemetery,
+Boston,Beth El Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,4.4461434,OS_TYPE=Cemetery,
+Boston,Butrimantzy Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.56704569,OS_TYPE=Cemetery,
+Boston,Chevra Shas Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.07370685,OS_TYPE=Cemetery,
+Boston,Boylston Lodge Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.95407207,OS_TYPE=Cemetery,
+Boston,Custom Tailors Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.00383108,OS_TYPE=Cemetery,
+Boston,David Vicur Chomlin Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.94879026,OS_TYPE=Cemetery,
+Boston,Hebrew Rehabilitation Center for Aged Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.89470972,OS_TYPE=Cemetery,
+Boston,Saint Joseph Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,87.14552459,OS_TYPE=Cemetery,
+Boston,Codman Academy Microforest,N,R,Y,Park (Passive Green Space),,0.09991234,school/institution,
+Boston,Pulpit Rock,N,H,X,Park (Passive Green Space),Cemeteries & Burying Grounds,1.80821755,Boston type=Cemeteries & Burying Grounds,
+Boston,Hebrew Volin Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.472495,OS_TYPE=Cemetery,
+Boston,Immigrants Mutual Aid Society - Roxbury Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.97099711,OS_TYPE=Cemetery,
+Boston,Kaminker Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.43698814,OS_TYPE=Cemetery,
+Boston,Kehillath Jacob Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.50769241,OS_TYPE=Cemetery,
+Boston,Koretzer Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.46452006,OS_TYPE=Cemetery,
+Boston,Kovner Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.50949581,OS_TYPE=Cemetery,
+Boston,Lord Rothschild Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.49279551,OS_TYPE=Cemetery,
+Boston,Mohliver Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.96968958,OS_TYPE=Cemetery,
+Boston,Independent Pride of Boston Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.08253303,OS_TYPE=Cemetery,
+Boston,Independent Workmen's Circle Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.47515296,OS_TYPE=Cemetery,
+Boston,Dorchester North Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,3.30454552,OS_TYPE=Cemetery,
+Boston,Mount Hope Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,125.06240061,OS_TYPE=Cemetery,
+Boston,Mount Calvary Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,47.36064341,OS_TYPE=Cemetery,
+Boston,Saint Michael Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,39.13235285,OS_TYPE=Cemetery,
+Boston,Walter Street Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,0.88188763,OS_TYPE=Cemetery,
+Boston,Copp's Hill Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.98169285,OS_TYPE=Cemetery,
+Boston,Thompson Island CR,N,B,L,Youth Camp,"Parkways, Reservations & Beaches",151.3490354,OS_TYPE=Youth Camp,
+Boston,South Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.47934978,OS_TYPE=Cemetery,
+Boston,Cedar Grove Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,16.4722524,OS_TYPE=Cemetery,
+Boston,Cedar Grove Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,38.42920122,OS_TYPE=Cemetery,
+Boston,Dorchester South Burying Ground,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.9330268,OS_TYPE=Cemetery,
+Boston,Moses Mendelsohn Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.91600601,OS_TYPE=Cemetery,
+Boston,Tifereth Israel Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.56027361,OS_TYPE=Cemetery,
+Boston,Har Moriah Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.54036877,OS_TYPE=Cemetery,
+Boston,Siskind Family Lot,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.07012595,OS_TYPE=Cemetery,
+Boston,Sons of Benjamin Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.64392325,OS_TYPE=Cemetery,
+Boston,Pride of Jacob Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.52562325,OS_TYPE=Cemetery,
+Boston,Ohavi Sedeck Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,2.06032583,OS_TYPE=Cemetery,
+Boston,Saint Mary's Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,5.15440901,OS_TYPE=Cemetery,
+Boston,Shari Jerusalem Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.14714979,OS_TYPE=Cemetery,
+Boston,Kopaigorod Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.66082348,OS_TYPE=Cemetery,
+Boston,Lawrence Avenue Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.95143685,OS_TYPE=Cemetery,
+Boston,Olita Relief Society Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.50368117,OS_TYPE=Cemetery,
+Boston,Or Emet Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.46382282,OS_TYPE=Cemetery,
+Boston,Ostro Hebrew Marshoe Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.4937924,OS_TYPE=Cemetery,
+Boston,Polonnoe Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.55303649,OS_TYPE=Cemetery,
+Boston,Pultusker Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.50477409,OS_TYPE=Cemetery,
+Boston,Puritan Mount Sinai Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.47825023,OS_TYPE=Cemetery,
+Boston,Quincy Hebrew Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.51875086,OS_TYPE=Cemetery,
+Boston,Shara Tfilo Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,5.6579432,OS_TYPE=Cemetery,
+Boston,Shepetovka Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.47622764,OS_TYPE=Cemetery,
+Boston,Sons of Abraham Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.5653828,OS_TYPE=Cemetery,
+Boston,Staro Konstantinov Progressive Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.56310007,OS_TYPE=Cemetery,
+Boston,Stepiner Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.52959687,OS_TYPE=Cemetery,
+Boston,Temple Emeth Memorial Park,N,H,X,Cemetery,Cemeteries & Burying Grounds,2.13179853,OS_TYPE=Cemetery,
+Boston,Vilno Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.98888053,OS_TYPE=Cemetery,
+Boston,Crawford Street Memorial Park,N,H,X,Cemetery,Cemeteries & Burying Grounds,6.69343067,OS_TYPE=Cemetery,
+Boston,Zviller Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.95201799,OS_TYPE=Cemetery,
+Boston,Adath Jeshurun Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,7.64943115,OS_TYPE=Cemetery,
+Boston,Beth Abraham Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.66075263,OS_TYPE=Cemetery,
+Boston,Hebrew Progressive Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.59868611,OS_TYPE=Cemetery,
+Boston,Jewish Benevolent Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.90861571,OS_TYPE=Cemetery,
+Boston,Young Israel Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.15925834,OS_TYPE=Cemetery,
+Boston,Jewish Civil Service Employees Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,0.13463999,OS_TYPE=Cemetery,
+Boston,Adath Israel Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,1.21005061,OS_TYPE=Cemetery,
+Boston,Charles River Reservation,S,R,Y,,"Parkways, Reservations & Beaches",0.04354125,,parkway
+Boston,Charles River WMA,F,F,Y,Flood Control Area,,7.33806685,OS_TYPE=Flood Control Area,
+Boston,Charles River WMA,F,F,Y,Flood Control Area,,1.32983909,OS_TYPE=Flood Control Area,
+Boston,O'Day Playground,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.70046576,,play
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",17.37379737,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",9.21682113,purpose=C,
+Somerville,Alewife Brook Reservation,S,B,Y,,,29.61528525,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,7.1563391,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,7.0878676,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,35.00853471,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,0.4905839,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,2.56120011,,parkway
+Cambridge,Alewife Brook Reservation,S,B,Y,,,2.95064788,,parkway
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",34.10466374,purpose=C,
+Boston,Stony Brook Reservation,S,B,Y,,"Parks, Playgrounds & Athletic Fields",12.73705677,,park
+Boston,Stony Brook Reservation,S,C,Y,,,20.95653095,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",1.61405752,purpose=C,
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",1.5086621,,parkway
+Boston,George Wright Golf Course,M,R,Y,Golf Course,"Parks, Playgrounds & Athletic Fields",163.12628351,school/institution,
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",254.51296843,,parkway
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.15177532,purpose=C,
+Cambridge,Alewife Brook Reservation,S,B,Y,,,12.52138267,,parkway
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",1.70413483,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",1.90501303,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",2.95391103,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",4.20469465,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",2.57236493,purpose=C,
+Boston,Stony Brook Reservation,S,C,Y,,"Parkways, Reservations & Beaches",9.40358834,purpose=C,
+Boston,Stony Brook Reservation,S,B,Y,,,203.66109214,,parkway
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",1.78957469,,parkway
+Boston,Stony Brook Reservation,S,B,Y,,"Parkways, Reservations & Beaches",3.17617614,,parkway
+Boston,The Gardens at Gethsemane Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,21.09586576,OS_TYPE=Cemetery,
+Boston,Saint James the Apostle Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,28.05324387,OS_TYPE=Cemetery,
+Boston,Walsh Playground,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",6.94094571,,play
+Boston,Millennium Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",101.79545389,,park
+Boston,Waterworks Park LLC CR,P,C,L,,,4.50138348,purpose=C,
+Boston,Saint Joseph Cemetery,N,H,X,Cemetery,Cemeteries & Burying Grounds,15.16813864,OS_TYPE=Cemetery,
+Boston,Charles River WMA,F,F,Y,Flood Control Area,Urban Wilds,8.54726047,OS_TYPE=Flood Control Area,
+Boston,Dorchester Shores Reservation,S,B,Y,,"Parkways, Reservations & Beaches",7.21413819,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,,1.27213698,,park
+Boston,Dorchester Shores Reservation,S,R,L,,"Parkways, Reservations & Beaches",1.96638175,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",12.66263201,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,3.42031561,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,13.58194142,,park
+Somerville,Foss Park,S,R,Y,,,14.44388171,,park
+Boston,Boston Harbor Islands State Park,M,B,Y,,"Parks, Playgrounds & Athletic Fields",57.0986253,,park
+Boston,Boston Harbor Islands State Park,M,B,Y,Park (Passive Green Space),"Parks, Playgrounds & Athletic Fields",15.63614889,,park
+Boston,Dorchester Shores Reservation,S,R,Y,,"Parkways, Reservations & Beaches",24.27843548,,parkway
+Boston,Boston Harbor Islands State Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.26668146,,park
+Boston,Mother Brook Reservation,S,B,Y,,Cemeteries & Burying Grounds,3.60359159,Boston type=Cemeteries & Burying Grounds,
+Boston,Boston Harbor Islands State Park,S,B,Y,,"Parkways, Reservations & Beaches",48.51041422,,parkway
+Boston,Dorchester Shores Reservation,S,B,Y,,"Parkways, Reservations & Beaches",9.2075865,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,"Parkways, Reservations & Beaches",40.08925065,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,"Parkways, Reservations & Beaches",24.59480587,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,,21.53686303,,park
+Boston,Dorchester Shores Reservation,S,B,Y,,,3.80527838,,parkway
+Boston,Boston Harbor Islands State Park,S,B,Y,,,19.19194854,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.02859598,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.01584879,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.18455021,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.27878167,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.42057779,,park
+Somerville,Ken Kelly Park,M,R,Y,Park (Active Outdoor Recreation),,0.14984423,,park
+Boston,Boston Harbor Islands State Park,F,R,Y,Park (Passive Green Space),,2.2721836,,park
+Boston,Boston Harbor Islands State Park,S,B,Y,,,0.72454364,,park
+Cambridge,Lowell Park,S,B,Y,,,0.77895685,,park
+Cambridge,Lowell Park,S,B,Y,,,0.23975149,,park
+Boston,Chestnut Hill Reservation,S,W,Y,,"Parks, Playgrounds & Athletic Fields",4.23362278,purpose=W,
+Boston,Southwest Corridor Park,S,R,Y,,"Parkways, Reservations & Beaches",2.71848335,,parkway
+Boston,Corporal Joseph E. Johnson Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.32122825,,play
+Boston,Corporal Joseph E. Johnson Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.60254749,,play
+Boston,Corporal Joseph E. Johnson Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.92204288,,play
+Boston,Rivermoor III,M,C,Y,,Urban Wilds,0.51943323,purpose=C,
+Somerville,Amelia Earhart Dam,S,F,X,,,2.4457556,purpose=F,
+Boston,Evergreen Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,1.96486059,OS_TYPE=Cemetery,
+Boston,Evergreen Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,14.08557639,OS_TYPE=Cemetery,
+Boston,Evergreen Cemetery,M,H,Y,Cemetery,Cemeteries & Burying Grounds,4.66640162,OS_TYPE=Cemetery,
+Boston,Constitution Beach,S,R,Y,,"Parkways, Reservations & Beaches",35.76628254,,parkway
+Boston,Thompson Island CR,N,B,N,Youth Camp,"Parkways, Reservations & Beaches",46.69820805,OS_TYPE=Youth Camp,
+Boston,Thompson Island CR,N,B,L,Youth Camp,"Parkways, Reservations & Beaches",43.62646997,OS_TYPE=Youth Camp,
+Boston,McMorrow Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",5.26000455,,play
+Boston,Chelsea Creek Beach,S,R,Y,,,0.50538159,,parkway
+Cambridge,Museum Of Science,S,R,Y,,,3.99409953,,park
+Boston,Franklin Park Zoo,S,R,Y,,"Parks, Playgrounds & Athletic Fields",14.96503081,,park
+Boston,Franklin Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",396.69021482,,park
+Boston,Museum Of Science,S,R,Y,,,3.72170431,,park
+Boston,Lieutenant James C Reilly Memorial Recreation Center,S,R,Y,,"Parks, Playgrounds & Athletic Fields",2.69712024,,park
+Boston,Constitution Beach,S,R,Y,,,0.39258517,,parkway
+Cambridge,Lowell Park,S,R,Y,,,1.71693713,,park
+Cambridge,Charles River Reservation,S,R,Y,,,0.74307282,,parkway
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",10.48521751,purpose=C,
+Boston,Brook Farm,S,C,Y,,"Parkways, Reservations & Beaches",148.58953688,purpose=C,
+Cambridge,Kingsley Park,M,R,Y,,,21.46124483,,park
+Cambridge,Fresh Pond,M,W,Y,,,25.57185272,purpose=W,
+Boston,Franklin Park Zoo,S,R,Y,,"Parks, Playgrounds & Athletic Fields",1.12506397,,park
+Boston,Franklin Park Zoo,S,R,Y,,"Parks, Playgrounds & Athletic Fields",66.82601363,,park
+Boston,Havey Beach,S,B,Y,,"Parkways, Reservations & Beaches",8.83955904,,parkway
+Boston,Morrissey Boulevard,S,O,Y,,,19.39947855,,parkway
+Cambridge,Charles River Reservation,S,R,Y,,,0.14031121,,parkway
+Cambridge,John Fitzgerald Kennedy Park,S,R,Y,,,4.99013735,,park
+Cambridge,Charles River Reservation,S,B,Y,,,0.39775605,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,2.47222459,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,2.83616096,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,1.38368914,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,0.30029164,,parkway
+Cambridge,Charles River Reservation,S,B,Y,,,1.59036561,,parkway
+Cambridge,Kingsley Park,M,R,Y,,,5.44013535,,park
+Cambridge,Fresh Pond,M,W,Y,,,0.84431007,purpose=W,
+Cambridge,Fresh Pond Pathway,M,B,Y,,,3.83562296,,park
+Cambridge,Charles River Reservation,S,R,Y,,,124.66846147,,parkway
+Boston,Neponset River Reservation,S,B,Y,,,0.17756738,,parkway
+Boston,Charles River Reservation,S,B,Y,,,0.49400891,,parkway
+Boston,Charles River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",0.05633125,,parkway
+Boston,Neponset Valley Parkway,S,R,Y,,,6.78600827,,parkway
+Boston,Neponset River Reservation,S,B,Y,,"Parkways, Reservations & Beaches",5.46302375,,parkway
+Boston,Dorchester Shores Reservation,S,R,Y,,,1.82647596,,parkway
+Boston,Richardson Park,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.23316268,,park
+Boston,Richardson Park,S,R,Y,,"Malls, Squares & Plazas",1.11487673,,plaza
+Boston,Corporal Joseph E. Johnson Playground,S,R,Y,,"Parks, Playgrounds & Athletic Fields",0.75870323,,play
+Boston,Heath Square,M,R,Y,,"Malls, Squares & Plazas",0.09486495,,plaza
+Boston,Havey Beach,S,B,Y,,"Parkways, Reservations & Beaches",4.65259155,,parkway
+Boston,Havey Beach,S,B,Y,,"Parkways, Reservations & Beaches",2.53627453,,parkway
+Cambridge,Charles River Reservation,S,R,Y,,,4.21767582,,parkway
+Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",47.09553541,purpose=C,
+Boston,Dorchester Shores Reservation,P,F,N,,,0.03846691,purpose=F,
+Boston,Dorchester Shores Reservation,P,O,N,,,0.06664686,no public access,
+Boston,Chestnut Hill Reservation,S,W,N,,"Parkways, Reservations & Beaches",22.91899064,purpose=W,
+Boston,Chestnut Hill Reservation,S,W,Y,,"Parkways, Reservations & Beaches",17.31181166,purpose=W,
+Boston,East Boston Memorial Park,O,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",1.50547368,,park
+Boston,East Boston Memorial Park,O,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.26095187,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.61967156,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",1.14680531,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.86558084,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.07112017,,park
+Boston,East Boston Memorial Park,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.19714063,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.03825383,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",0.53345836,,park
+Boston,East Boston Memorial Park,S,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",1.25038193,,park
+Boston,East Boston Memorial Park,S,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",2.01409917,,park
+Boston,East Boston Memorial Park,M,R,Y,Park (Active Outdoor Recreation),"Parks, Playgrounds & Athletic Fields",14.21107323,,park
