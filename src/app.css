@@ -27,6 +27,11 @@
 	--seq-3: #55b05a;
 	--seq-4: #23853f;
 	--seq-5: #0f5430;
+	--pp-1: #fbe5d6;
+	--pp-2: #f4b98c;
+	--pp-3: #ea8a50;
+	--pp-4: #cc5a26;
+	--pp-5: #8f2c0e;
 	--font-title: 'Titillium Web', 'Segoe UI', system-ui, sans-serif;
 	--font-body: 'Open Sans', 'Segoe UI', system-ui, sans-serif;
 }
@@ -59,6 +64,11 @@
 	--seq-3: #58a050;
 	--seq-4: #84cc78;
 	--seq-5: #bff0a6;
+	--pp-1: #3a2c26;
+	--pp-2: #6d3d26;
+	--pp-3: #a9532a;
+	--pp-4: #e0814b;
+	--pp-5: #ffc095;
 	}
 }
 :root[data-theme='dark'] {
@@ -89,6 +99,11 @@
 	--seq-3: #58a050;
 	--seq-4: #84cc78;
 	--seq-5: #bff0a6;
+	--pp-1: #3a2c26;
+	--pp-2: #6d3d26;
+	--pp-3: #a9532a;
+	--pp-4: #e0814b;
+	--pp-5: #ffc095;
 }
 
 * { box-sizing: border-box; }

@@ -4,6 +4,7 @@ Run from the project root:  python scripts/preprocess_grid.py
 
 Inputs  (prompt/data):  Grid500m_Polygons.geojson  (500 m cells, EPSG:26986, with public-space / green / water areas)
                         Spaces_green.geojson       (the spaces with area_green_m2 / area_green_pct)
+                        MassGIS - Census Blocks.geojson (2020 population, Boston / Cambridge / Somerville blocks only)
 Output  (static/data):  grid.geojson  (WGS84; only cells that touch Boston, Cambridge or Somerville)
 Each cell keeps its area figures plus the spaces that fall in it (largest first), so the page can list
 "what spaces are here".  Geometry work is done in EPSG:26986 (meters).
@@ -40,9 +41,37 @@ for cell, grp in inter.groupby("cell"):
                      area_m2=round(r.a), green_pct=None if pd.isna(r.area_green_pct) else round(float(r.area_green_pct)))
                 for _, r in grp.head(MAX_SPACES).iterrows()])
 
+# ---- residents per cell: 2020 census blocks of the three cities, split by the share of each block inside the cell
+blk = gpd.read_file(DATA / "MassGIS - Census Blocks.geojson", engine="pyogrio").set_crs(M, allow_override=True)
+blk = blk[blk.TOWN_ID.isin([35, 49, 274]) & (blk.POP20 > 0)][["POP20", "HOUSING20", "geometry"]].copy()
+blk["geometry"] = blk.geometry.make_valid()
+blk["barea"] = blk.geometry.area
+bi = gpd.overlay(grid[["id", "geometry"]].rename(columns={"id": "cell"}), blk, how="intersection", keep_geom_type=True)
+bi["f"] = bi.geometry.area / bi.barea
+bi["pop"] = bi.POP20 * bi.f
+bi["hou"] = bi.HOUSING20 * bi.f
+pop_cell = bi.groupby("cell")["pop"].sum()
+hou_cell = bi.groupby("cell")["hou"].sum()
+print("population allocated to cells:", int(pop_cell.sum()), "of", int(blk.POP20.sum()))
+
 # ---- tidy attributes (clamp rounding artefacts: shares can drift just past 100 %)
 def num(v, nd=0):
     return None if pd.isna(v) else round(float(v), nd)
+
+grid["pop"] = grid.id.map(pop_cell).fillna(0)
+grid["hou"] = grid.id.map(hou_cell).fillna(0)
+grid["pub_clamped"] = grid.apply(lambda r: 0.0 if pd.isna(r.publicspace_area_m2) else min(r.publicspace_area_m2, r.overlap_area_m2), axis=1)
+# the cell plus its 8 neighbours (about 1.5 km square): people can reach a park next door
+key = {(r.row_index, r.col_index): (r["pop"], r.pub_clamped) for _, r in grid.iterrows()}
+nb = {}
+for (ri, ci) in key:
+    pops = pubs = 0.0
+    for dr in (-1, 0, 1):
+        for dc in (-1, 0, 1):
+            if (ri + dr, ci + dc) in key:
+                pops += key[(ri + dr, ci + dc)][0]
+                pubs += key[(ri + dr, ci + dc)][1]
+    nb[(ri, ci)] = (pops, pubs)
 
 rows = []
 for _, r in grid.iterrows():
@@ -54,6 +83,8 @@ for _, r in grid.iterrows():
     c = by_cell.get(r.id, dict(n=0, spaces=[]))
     rows.append(dict(
         id=int(r.id), row=int(r.row_index), col=int(r.col_index), city=r.city,
+        pop=num(r["pop"]), housing=num(r["hou"]),
+        pop_nb=num(nb[(r.row_index, r.col_index)][0]), pub_nb_m2=num(nb[(r.row_index, r.col_index)][1]),
         area_m2=num(area), pub_m2=num(pub), pub_share=num(100 * pub / area, 1),
         pub_green_pct=None if pub == 0 else num(pub_green_pct, 1),
         green_pct=num(green_pct, 1), water_pct=num(100 * water / area, 1),

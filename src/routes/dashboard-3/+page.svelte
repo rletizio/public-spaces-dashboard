@@ -1,4 +1,5 @@
 <script>
+	import { onMount } from 'svelte';
 	import { resolve } from '$app/paths';
 	import GreenGrid from '#lib/GreenGrid.svelte';
 	import { fmtInt, fmtAcres } from '#lib/format.js';
@@ -6,20 +7,35 @@
 	let { data } = $props();
 	const ACRES = 4046.8564;
 
+	let view = $state('green'); // 'green' | 'people'
+	let reach = $state('cell'); // people view: 'cell' | 'nb' (cell + 8 neighbours)
 	let sizeMode = $state('area'); // 'area' | 'share'
 	let shadeMode = $state('public'); // 'public' | 'all'
 	let cityFilter = $state('all');
 	let pinned = $state(null);
 	let hovered = $state(null);
 
+	// deep links: ?view=people&reach=nb&city=Somerville
+	onMount(() => {
+		const q = new URLSearchParams(location.search);
+		if (['green', 'people'].includes(q.get('view'))) view = q.get('view');
+		if (['cell', 'nb'].includes(q.get('reach'))) reach = q.get('reach');
+		if (['Boston', 'Cambridge', 'Somerville'].includes(q.get('city'))) cityFilter = q.get('city');
+	});
+
 	const cells = $derived(data.grid.features.map((f) => f.properties));
 	const byId = $derived(new Map(cells.map((p) => [p.id, p])));
 	const shown = $derived(byId.get(pinned ?? hovered) ?? null);
 	const greenOf = (p) => (shadeMode === 'public' ? p.pub_green_pct : p.green_pct);
 
+	const inCity = (p) => cityFilter === 'all' || p.city === cityFilter;
+	const peopleOf = (p) => (reach === 'cell' ? p.pop : p.pop_nb);
+	const spaceOf = (p) => (reach === 'cell' ? p.pub_m2 : p.pub_nb_m2);
+	const ppaOf = (p) => (spaceOf(p) > 0 ? peopleOf(p) / (spaceOf(p) / ACRES) : null);
+
 	// headline numbers for the selected city
 	const stats = $derived.by(() => {
-		const rows = cells.filter((p) => (cityFilter === 'all' || p.city === cityFilter) && p.pub_m2 > 0);
+		const rows = cells.filter((p) => inCity(p) && p.pub_m2 > 0);
 		const area = rows.reduce((s, p) => s + p.pub_m2, 0);
 		const withGreen = rows.filter((p) => p.pub_green_pct != null);
 		const gArea = withGreen.reduce((s, p) => s + p.pub_m2, 0);
@@ -31,17 +47,49 @@
 			low: rows.filter((p) => p.pub_green_pct != null && p.pub_green_pct < 20).length
 		};
 	});
+	const pstats = $derived.by(() => {
+		const all = cells.filter((p) => inCity(p) && p.pop >= 1);
+		const people = all.reduce((s, p) => s + p.pop, 0);
+		const none = all.filter((p) => !(spaceOf(p) > 0));
+		const pubAcres = cells.filter(inCity).reduce((s, p) => s + p.pub_m2, 0) / ACRES;
+		return {
+			people,
+			noneN: none.length,
+			nonePeople: none.reduce((s, p) => s + p.pop, 0),
+			perAcre: pubAcres ? people / pubAcres : null,
+			crowded: all.filter((p) => ppaOf(p) != null && ppaOf(p) >= 1000).length
+		};
+	});
 	const top = $derived(
-		cells
-			.filter((p) => p.pub_m2 > 0 && (cityFilter === 'all' || p.city === cityFilter))
-			.sort((a, b) => b.pub_m2 - a.pub_m2)
-			.slice(0, 12)
+		view === 'people'
+			? cells
+					.filter((p) => inCity(p) && p.pop >= 500)
+					.map((p) => ({ p, v: ppaOf(p) ?? Infinity }))
+					.sort((a, b) => b.v - a.v || b.p.pop - a.p.pop)
+					.slice(0, 12)
+					.map((d) => d.p)
+			: cells
+					.filter((p) => p.pub_m2 > 0 && inCity(p))
+					.sort((a, b) => b.pub_m2 - a.pub_m2)
+					.slice(0, 12)
 	);
 
-	const instructions = [
-		'<b>Hover</b> a square to see its public space and greenery; <b>click</b> to pin it and list the spaces inside.',
-		'Circle size = public space in the 500 m × 500 m cell; shade = share of that space covered by greenery.',
-		'Click a shade in the legend to highlight those cells; use the controls to change the size and shade measures.'
+	const instructions = $derived(
+		view === 'green'
+			? [
+					'<b>Hover</b> a square to see its public space and greenery; <b>click</b> to pin it and list the spaces inside.',
+					'Circle size = public space in the 500 m × 500 m cell; shade = share of that space covered by greenery.',
+					'Click a shade in the legend to highlight those cells; use the controls to change the size and shade measures.'
+				]
+			: [
+					'Each square is shaded by <b>residents per acre of public space</b> (2020 census): the darker, the more people share each acre.',
+					'Hatched squares have residents but <b>no public space</b>. White circles show where the public space is.',
+					'“Cell + neighbours” counts the public space in the 3 × 3 block of cells around it (about 1.5 km), since people also use a park next door.'
+				]
+	);
+	const VIEWS = [
+		['green', 'Greenery'],
+		['people', 'People per acre']
 	];
 	const CITIES = [
 		['all', 'All'],
@@ -58,15 +106,23 @@
 <main>
 	<header>
 		<a class="back" href={resolve('/')}>← All dashboards</a>
-		<h1>How much public space is there, and how green is it?</h1>
+		<h1>How much public space is there, how green is it, and who shares it?</h1>
 		<p>
-			Boston, Cambridge and Somerville divided into a regular grid of 500 m cells. Each circle shows how much public
-			space a cell holds and how green that space is, giving an overview of where public space is dense, sparse, leafy
-			or paved.
+			Boston, Cambridge and Somerville divided into a regular grid of 500 m cells. The <b>Greenery</b> map shows how much
+			public space each cell holds and how green it is; the <b>People per acre</b> map adds the residents who live there,
+			to show where many people share little public space.
 		</p>
 	</header>
 
 	<div class="controls" role="group" aria-label="Controls">
+		<div class="ctl">
+			<span>Map</span>
+			<div class="seg">
+				{#each VIEWS as [k, l] (k)}
+					<button class:on={view === k} onclick={() => (view = k)} aria-pressed={view === k}>{l}</button>
+				{/each}
+			</div>
+		</div>
 		<div class="ctl">
 			<span>City</span>
 			<div class="seg">
@@ -82,24 +138,43 @@
 				<button class:on={sizeMode === 'share'} onclick={() => (sizeMode = 'share')} aria-pressed={sizeMode === 'share'}>Share of the cell</button>
 			</div>
 		</div>
-		<div class="ctl">
-			<span>Shade</span>
-			<div class="seg">
-				<button class:on={shadeMode === 'public'} onclick={() => (shadeMode = 'public')} aria-pressed={shadeMode === 'public'}>Green in public space</button>
-				<button class:on={shadeMode === 'all'} onclick={() => (shadeMode = 'all')} aria-pressed={shadeMode === 'all'}>Green on all land</button>
+		{#if view === 'green'}
+			<div class="ctl">
+				<span>Shade</span>
+				<div class="seg">
+					<button class:on={shadeMode === 'public'} onclick={() => (shadeMode = 'public')} aria-pressed={shadeMode === 'public'}>Green in public space</button>
+					<button class:on={shadeMode === 'all'} onclick={() => (shadeMode = 'all')} aria-pressed={shadeMode === 'all'}>Green on all land</button>
+				</div>
 			</div>
-		</div>
+		{:else}
+			<div class="ctl">
+				<span>Public space counted</span>
+				<div class="seg">
+					<button class:on={reach === 'cell'} onclick={() => (reach = 'cell')} aria-pressed={reach === 'cell'}>In the cell</button>
+					<button class:on={reach === 'nb'} onclick={() => (reach = 'nb')} aria-pressed={reach === 'nb'}>Cell + neighbours</button>
+				</div>
+			</div>
+		{/if}
 	</div>
 
 	<div class="grid">
 		<section class="card">
-			<div class="kpis">
-				<div><b>{fmtInt(stats.n)}</b><span>cells with public space</span></div>
-				<div><b>{fmtInt(stats.area / ACRES)} ac</b><span>of public space</span></div>
-				<div><b>{stats.green == null ? '–' : `${Math.round(stats.green)}%`}</b><span>of it is green (by area)</span></div>
-				<div><b>{stats.low}</b><span>cells under 20% green</span></div>
-			</div>
-			<GreenGrid grid={data.grid} boundaries={data.boundaries} water={data.water} {sizeMode} {shadeMode} {cityFilter} bind:pinned bind:hovered />
+			{#if view === 'green'}
+				<div class="kpis">
+					<div><b>{fmtInt(stats.n)}</b><span>cells with public space</span></div>
+					<div><b>{fmtInt(stats.area / ACRES)} ac</b><span>of public space</span></div>
+					<div><b>{stats.green == null ? '–' : `${Math.round(stats.green)}%`}</b><span>of it is green (by area)</span></div>
+					<div><b>{stats.low}</b><span>cells under 20% green</span></div>
+				</div>
+			{:else}
+				<div class="kpis">
+					<div><b>{fmtInt(pstats.people)}</b><span>residents (2020 census)</span></div>
+					<div><b>{pstats.perAcre == null ? '–' : fmtInt(pstats.perAcre)}</b><span>residents per acre of public space</span></div>
+					<div><b>{fmtInt(pstats.nonePeople)}</b><span>residents in {fmtInt(pstats.noneN)} cells with no public space{reach === 'nb' ? ' nearby' : ''}</span></div>
+					<div><b>{pstats.crowded}</b><span>cells over 1,000 people per acre</span></div>
+				</div>
+			{/if}
+			<GreenGrid grid={data.grid} boundaries={data.boundaries} water={data.water} {view} {reach} {sizeMode} {shadeMode} {cityFilter} bind:pinned bind:hovered />
 			<ul class="help">
 				{#each instructions as t (t)}<li>{@html t}</li>{/each}
 			</ul>
@@ -112,6 +187,11 @@
 			{:else}
 				<p class="lede">{pinned != null ? 'Pinned — click the square again to release.' : 'Click to pin this cell.'}</p>
 				<dl>
+					<div><dt>Residents</dt><dd>{fmtInt(shown.pop)} <small>({fmtInt(shown.housing)} homes)</small></dd></div>
+					<div>
+						<dt>People per acre of public space{reach === 'nb' ? ' (cell + neighbours)' : ''}</dt>
+						<dd>{ppaOf(shown) == null ? (shown.pop >= 1 ? 'no public space' : '–') : fmtInt(ppaOf(shown))}</dd>
+					</div>
 					<div><dt>Public space</dt><dd>{fmtAcres(shown.pub_m2 / ACRES)} <small>({fmtInt(shown.pub_m2)} m²)</small></dd></div>
 					<div><dt>Share of the cell</dt><dd>{Math.round(shown.pub_share)}%</dd></div>
 					<div><dt>Green, public space</dt><dd>{shown.pub_green_pct == null ? 'no data' : `${Math.round(shown.pub_green_pct)}%`}</dd></div>
@@ -135,16 +215,23 @@
 			{/if}
 
 			<details class="tbl">
-				<summary>Table: largest public-space cells{cityFilter === 'all' ? '' : ` in ${cityFilter}`}</summary>
+				<summary>{view === 'people' ? 'Table: cells with the most people per acre (500+ residents)' : 'Table: largest public-space cells'}{cityFilter === 'all' ? '' : ` in ${cityFilter}`}</summary>
 				<table>
-					<thead><tr><th>Cell</th><th>City</th><th class="num">Public space</th><th class="num">% green</th></tr></thead>
+					<thead>
+						<tr>
+							<th>Cell</th><th>City</th><th class="num">Public space</th>
+							<th class="num">{view === 'people' ? 'Per acre' : '% green'}</th>
+						</tr>
+					</thead>
 					<tbody>
 						{#each top as p (p.id)}
 							<tr class:sel={pinned === p.id} onclick={() => (pinned = pinned === p.id ? null : p.id)}>
 								<td>{p.row}-{p.col}</td>
 								<td>{p.city}</td>
 								<td class="num">{fmtAcres(p.pub_m2 / ACRES)}</td>
-								<td class="num">{greenOf(p) == null ? '–' : `${Math.round(greenOf(p))}%`}</td>
+								<td class="num">
+									{#if view === 'people'}{ppaOf(p) == null ? 'none' : fmtInt(ppaOf(p))}{:else}{greenOf(p) == null ? '–' : `${Math.round(greenOf(p))}%`}{/if}
+								</td>
 							</tr>
 						{/each}
 					</tbody>
@@ -156,7 +243,8 @@
 	<footer>
 		Prototype · cells are 500 m × 500 m and count only the part inside the three cities · “green” is vegetation and tree
 		cover from the land-cover layer, so a park can be under 100% green (courts, paths, plazas) · cells with public space
-		but no land-cover data are drawn hollow.
+		but no land-cover data are drawn hollow · residents are 2020 census blocks split across cells by area; people per
+		acre is residents ÷ acres of public space, so a cell with only a sliver of park gets a very high value.
 	</footer>
 </main>
 
