@@ -26,7 +26,7 @@ The app reads only the small, processed files in `static/data/` (`spaces.geojson
 and the Boston, Cambridge and Somerville open-space layers. The raw source files are large and are not in this
 repository; the script needs them in `prompt/data/` and Python with `geopandas`.
 
-Rules used to build the dataset: usable public spaces only (cemeteries, conservation land, school grounds,
+Rules used to build the dataset: usable public spaces only (cemeteries, conservation land, school grounds other than Somerville schoolyards and libraries and MIT open spaces,
 water supply and flood control land are excluded); MassGIS is the primary source, completed with municipal
 data; people within 500 m are 2020 census block populations weighted by the share of each block inside a
 500 m buffer of the space (straight-line distance).

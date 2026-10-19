@@ -442,7 +442,7 @@ Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",1.77648856,,pla
 Boston,Commonwealth Avenue Mall,M,R,Y,,"Malls, Squares & Plazas",0.97037743,,plaza
 Boston,George Robert White Play Space,M,R,Y,,"Parks, Playgrounds & Athletic Fields",0.12514677,,park
 Boston,Roxbury Heritage State Park,S,B,Y,,"Parks, Playgrounds & Athletic Fields",0.22915401,,park
-Somerville,Winter Hill Community School Yard,M,R,Y,,,0.97951872,school/institution,
+Somerville,Winter Hill Community School Yard,M,R,Y,,,0.97951872,,park
 Cambridge,McMath Park,M,R,Y,,,0.61643041,,park
 Cambridge,Anderson Courts,M,R,Y,,,1.4880372,,play
 Cambridge,Bergin Park,M,R,Y,,,1.10332116,,park
@@ -544,7 +544,7 @@ Boston,Shipyard Park,O,H,Y,,"Parks, Playgrounds & Athletic Fields",1.16063217,,p
 Boston,The Garden,N,A,Y,,,0.40812377,,garden
 Cambridge,Steinbrenner Stadium,P,R,L,,,4.72073479,,play
 Boston,Stony Brook Reservation,S,C,Y,,"Parks, Playgrounds & Athletic Fields",0.35466251,purpose=C,
-Somerville,West Somerville Neighborhood School Playground,M,R,Y,,,0.40517356,school/institution,
+Somerville,West Somerville Neighborhood School Playground,M,R,Y,,,0.40517356,,play
 Boston,Temple St. Mall,M,O,Y,,,0.07117589,,plaza
 Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.30435709,purpose=C,
 Boston,Neponset River Reservation,S,C,Y,,"Parkways, Reservations & Beaches",0.47696669,purpose=C,

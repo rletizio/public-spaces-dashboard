@@ -63,8 +63,18 @@ BOSTON_TYPE_MAP = {
 CAM_FCODE_INCLUDE = {1, 6, 13, 14, 15, 21, 22, 28, 41, 42, 43}
 
 
-def name_excluded(name):
+# Explicit re-inclusions: Somerville schoolyards and libraries and MIT open spaces in Cambridge are public
+# open space even though their names trip the school/institution rule.
+RX_SOM_SCHOOLYARD = re.compile(r"school ?yard|school playground|school community|community school|library", re.I)
+RX_MIT = re.compile(r"\bMIT\b|university park", re.I)
+
+
+def name_excluded(name, city=None):
     if not isinstance(name, str):
+        return None
+    if city == "Somerville" and RX_SOM_SCHOOLYARD.search(name):
+        return None
+    if city == "Cambridge" and RX_MIT.search(name):
         return None
     for tag, rx in (("cemetery", RX_CEMETERY), ("conservation", RX_CONSERV),
                     ("infrastructure/water", RX_INFRA), ("school/institution", RX_SCHOOL)):
@@ -185,7 +195,7 @@ for i, r in mg.iterrows():
     elif isinstance(r.b_type, str) and r.b_type in BOSTON_TYPE_EXCLUDE:
         reason = f"Boston type={r.b_type}"
     else:
-        reason = name_excluded(r.SITE_NAME)
+        reason = name_excluded(r.SITE_NAME, r.city)
     cat = None
     if reason is None:
         if r.b_type in BOSTON_TYPE_MAP and BOSTON_TYPE_MAP[r.b_type]:
@@ -223,7 +233,7 @@ for _, r in b.iterrows():
     if r.TypeLong in BOSTON_TYPE_EXCLUDE:
         reason = f"Boston type={r.TypeLong}"
     else:
-        reason = name_excluded(r.SITE_NAME)
+        reason = name_excluded(r.SITE_NAME, "Boston")
     t = r.TypeLong
     cat = BOSTON_TYPE_MAP.get(t) or ("play" if RX_PLAY.search(str(r.SITE_NAME)) else "park")
     gap_log.append(dict(source="Boston", name=r.SITE_NAME, detail=t, acres=r.ACRES, excluded=reason))
@@ -238,10 +248,11 @@ covered = all_mg_union
 c = cam[uncovered(cam, covered)].copy()
 for _, r in c.iterrows():
     reason = None
-    if r.FCODE not in CAM_FCODE_INCLUDE:
+    mit_field = r.FCODE == 49 and isinstance(r.NAME, str) and RX_MIT.search(r.NAME)  # MIT athletic fields
+    if r.FCODE not in CAM_FCODE_INCLUDE and not mit_field:
         reason = f"FCODE={r.FCODE}"
     else:
-        reason = name_excluded(r.NAME)
+        reason = name_excluded(r.NAME, "Cambridge")
     gap_log.append(dict(source="Cambridge", name=r.NAME, detail=f"FCODE {r.FCODE} / {r.OWNER}",
                         acres=r.Acres, excluded=reason))
     if reason is None:
@@ -252,7 +263,8 @@ for _, r in c.iterrows():
             cat = "park"
         cand.append(gpd.GeoDataFrame({
             "name": [r.NAME], "city": ["Cambridge"], "cat": [cat],
-            "owner": [owner_class_cambridge(r.OWNER)], "owner_raw": [r.OWNER],
+            "owner": [NONPROFIT if isinstance(r.NAME, str) and RX_MIT.search(r.NAME) else owner_class_cambridge(r.OWNER)],
+            "owner_raw": [r.OWNER],
             "access": ["L" if r.OWNER in ("Private",) else "Y"], "year": [np.nan],
             "source": ["Cambridge (gap-fill)"], "geometry": [r.geometry]}, crs=M))
 covered = gpd.GeoSeries([all_mg_union, cam.geometry.union_all()], crs=M).union_all()
@@ -270,7 +282,7 @@ for _, r in p.iterrows():
 # Somerville
 s = som[uncovered(som, all_mg_union)].copy()
 for _, r in s.iterrows():
-    reason = name_excluded(r.Name)
+    reason = name_excluded(r.Name, "Somerville")
     gap_log.append(dict(source="Somerville", name=r.Name, detail="", acres=r.SHAPE_Area / 4046.86,
                         excluded=reason))
     if reason is None:
