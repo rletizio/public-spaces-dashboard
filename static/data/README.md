@@ -8,3 +8,4 @@
 - `boundaries.geojson` — Boston, Cambridge, Somerville limits.  `water.geojson` — basemap water.
 - `review/massgis_classification.csv` — every MassGIS polygon with the reason it was excluded.
 - `review/municipal_gapfill.csv` — municipal polygons missing from MassGIS, with inclusion decision.
+- `grid.geojson` — 500 m cells touching the three cities (from `scripts/preprocess_grid.py`): public-space area and share, % green of the public space and of all land, water share, and the spaces inside each cell.

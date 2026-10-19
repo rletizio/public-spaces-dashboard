@@ -9,6 +9,7 @@ Interactive D3 / SvelteKit dashboards on public space in the Boston area (CS171 
 | Landing | `/` | Index of dashboards |
 | Dashboard 1 | `/dashboard-1/` | Map of public spaces (pan, jump, select an area) linked to a dot plot of the people living within 500 m of each space |
 | Dashboard 2 | `/dashboard-2/` | The dot plot linked to an ownership chart (area acquired over time + owner → type flow diagram): hover a dot to light up its owner and type, click an owner or type to filter the dots |
+| Dashboard 3 | `/dashboard-3/` | SK_06: grid of 500 m cells over the three cities; circle size = public space in the cell, shade = % green; hover for details, click to pin a cell and list the spaces inside |
 
 ## Run locally
 

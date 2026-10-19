@@ -12,6 +12,11 @@
 			path: '/dashboard-2',
 			title: 'Dashboard 2 · Who owns public space?',
 			text: 'The same dot plot linked to a timeline and owner-to-type flow diagram: hover a space to see its owner and type, click an owner or type to filter.'
+		},
+		{
+			path: '/dashboard-3',
+			title: 'Dashboard 3 · How green is public space?',
+			text: 'A grid of 500 m cells over the three cities: circle size shows how much public space each cell holds, shade shows how green it is. Hover for details, click to list the spaces inside.'
 		}
 	];
 </script>
